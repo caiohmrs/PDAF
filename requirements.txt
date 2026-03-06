@@ -4,4 +4,5 @@ unidecode
 pytest
 altair
 datetime
-fpdf
+fpdf2
+
