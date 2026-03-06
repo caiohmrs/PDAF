@@ -96,7 +96,7 @@ def gerar_pdf(dataframe, total_val, escolas_count):
         pdf.cell(40, 7, data_pag, border=1, align="C")
         pdf.ln()
 
-    return pdf.output()
+    return bytes(pdf.output())
 
 # --- CARREGAMENTO DE DADOS ---
 @st.cache_data
@@ -344,4 +344,5 @@ with tab2:
 
 
 st.markdown("<br><br><center><small style='color: gray;'>Gabinete Aba Reta | Desenvolvido por Caio Henrique Machado</small></center>", unsafe_allow_html=True)
+
 
