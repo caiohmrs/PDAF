@@ -3,3 +3,5 @@ pandas
 unidecode
 pytest
 altair
+datetime
+fpdf
