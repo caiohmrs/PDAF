@@ -96,7 +96,7 @@ def gerar_pdf(dataframe, total_val, escolas_count):
         pdf.cell(40, 7, data_pag, border=1, align="C")
         pdf.ln()
 
-    return bytes(pdf.output())
+    return bytes(pdf.output(dest='S'))
 
 # --- CARREGAMENTO DE DADOS ---
 @st.cache_data
@@ -341,5 +341,6 @@ with tab2:
 
     else:
         st.info("Utilize os filtros acima para gerar os gráficos comparativos.")
+
 
 st.markdown("<br><br><center><small style='color: gray;'>Gabinete Aba Reta | Desenvolvido por Caio Henrique Machado</small></center>", unsafe_allow_html=True)
