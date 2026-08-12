@@ -5,4 +5,4 @@ pytest
 altair
 datetime
 fpdf2
-
+openpyxl

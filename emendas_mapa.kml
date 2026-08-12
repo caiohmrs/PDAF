@@ -1,0 +1,3018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Emendas Gab Max Maciel</name>
+    <description/>
+    <Style id="icon-1526-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1526-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1526-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1526-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1526-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Itapoã/Paranoá</name>
+      <Placemark>
+        <name>Escola Classe 502 do Itapoã</name>
+        <description>2025: 100.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.780399,-15.7329352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Educacional Darcy Ribeiro</name>
+        <description>2025: 50.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.783166,-15.762809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Educacional Do PAD-DF</name>
+        <description>2025: 20.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.5569857,-16.0098375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[Gama & Santa Maria]]></name>
+      <Placemark>
+        <name>JI 02 de Gama</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0542014,-16.030798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JI 03 de Gama</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.051587,-16.0065971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JI 04 de Gama</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0852388,-16.0159799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jardim de Infância 05 de Gama</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0804496,-16.0262282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JI 06 do Gama</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0789905,-16.0118766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEM 01 do Gama</name>
+        <description><![CDATA[2023: 150.000 Capital<br>2025: 100.000 Custeio  ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0546052,-16.0185877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEM 03 de Gama</name>
+        <description><![CDATA[2023: 50.000 Custeio<br>2024: 20.000 Custeio]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0635719,-16.0365505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEMI de Gama</name>
+        <description><![CDATA[2023: 60.000 Custeio<br>2024: 60.000 Capital<br>2025: 30.000 Custeio; 50.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0746239,-16.0106712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED 08</name>
+        <description><![CDATA[2023: 60.000 Custeio<br>2025: 50.000 Custeio  ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0782526,-16.0231003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED 06 de Gama</name>
+        <description><![CDATA[2023: 20.000 Custeio; 50.000 Capital<br>2024: 20.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0504362,-16.0074718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEM 02 de Gama</name>
+        <description><![CDATA[2024: 70.000 Custeio; 50.000 Capital<br>2025: 50.000 Capital ; 100.000 Custeio]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0700901,-16.0149782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 15</name>
+        <description><![CDATA[2023: 50.000 Custeio; 20.308 Capital<br>2025: 60.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0624715,-16.0347712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 11 de Gama</name>
+        <description>2023: 115.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0695706,-16.0280577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 21 de Gama</name>
+        <description>2023: 100.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0554916,-15.9992774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 12 do Gama</name>
+        <description><![CDATA[2023: 150.000 Custeio<br>2024: 30.000 Custeio<br>2025: 20.000 Custeio; 40.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0652346,-16.0103016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 19 de Gama</name>
+        <description><![CDATA[2023: 50.000 Custeio<br>2024: 30.000 Custeio]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0506747,-16.0254841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 18 de Gama</name>
+        <description><![CDATA[2023: 80.000 Custeio<br>2024: 50.000 Custeio; 30.000 Capital<br>2025: 80.000 Custeio; 50.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0614654,-16.0334616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 06 de Gama</name>
+        <description><![CDATA[2023: 55.000 Custeio<br>2024: 30.000 Custeio]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0729812,-16.0117756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 10 DO GAMA</name>
+        <description><![CDATA[2023: 35.000 Custeio; 35.000 Capital<br>2024: 40.000 Custeio; 20.000 Capital<br>2025: 45.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0759725,-16.0132833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED Engenho das Lajes do Gama</name>
+        <description><![CDATA[2023: 20.000 Custeio<br>2024: 70.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.2582948,-16.0411641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF Tamanduá</name>
+        <description><![CDATA[2024: 22.500 Custeio; 20.000 Capital<br>2025: 80.000 Custeio; 40.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1434703,-15.9397888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 09 de Gama</name>
+        <description>2024: 22.500 Custeio; 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0656945,-16.0308013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 07 de Gama</name>
+        <description>2024: 22.500 Custeio; 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0846208,-16.0239255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Educacional 310 de Santa Maria</name>
+        <description><![CDATA[2024: 22.500 Custeio; 20.000 Capital<br>2025: 50.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0163917,-16.0238028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 01 de Gama</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0547587,-16.017588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 02 de Gama</name>
+        <description><![CDATA[2024: 30.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0722233,-16.0051679,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 03 de Gama</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0511569,-16.0144795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 10 de Gama</name>
+        <description><![CDATA[2024: 30.000 Custeio<br>2025: 50.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0790462,-16.0081584,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 14 de Gama</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.05538,-16.0269619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 15 do Gama</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0611292,-16.0036602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 16 de Gama</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.082155,-16.0206609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 17 de Gama</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0717659,-16.0311419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 22 de Gama</name>
+        <description><![CDATA[2024: 30.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0667432,-16.0233825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 28 de Gama</name>
+        <description><![CDATA[2024: 30.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.082864,-16.0069941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 29 de Gama</name>
+        <description><![CDATA[2024: 30.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0589842,-16.0403011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC Córrego Barreiro do Gama</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.116814,-15.9829015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC Ponte Alta de Cima de Gama</name>
+        <description><![CDATA[2024: 30.000 Custeio<br>2025: 30.000 Custeio; 50.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1470442,-16.0475274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAIC Carlos Castello Branco</name>
+        <description>2024: 20.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0779226,-16.0128026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED 07 de Gama</name>
+        <description>2024: 20.000 Custeio; 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0650655,-16.0202193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED Casa Grande do Gama</name>
+        <description>2024: 20.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0995954,-15.9643131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Especial 01 de Gama</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0632252,-16.0146126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 03 de Gama</name>
+        <description><![CDATA[2024: 20.000 Capital<br>2025: 30.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0506816,-16.0108376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF Ponte Alta do Baixo do Gama</name>
+        <description><![CDATA[2024: 20.000 Capital; 30.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1312473,-16.0252844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF Ponte Alta Norte de Gama</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0720724,-15.9806989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI 01 Gama</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0677021,-16.0344805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CIL Gama</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0685015,-16.0184208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro De Ensino Médio 404 De Santa Maria</name>
+        <description><![CDATA[2024: 20.000 Capital; 10.000 Custeio<br>2025: 50.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0265861,-16.0343926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Médio 417 de Santa Maria</name>
+        <description>2024: 20.000 Capital; 10.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.9906154,-16.0115756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 01 do Porto Rico - Santa Maria</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.018112,-16.0347929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Fundamental 418 de Santa Maria</name>
+        <description><![CDATA[2024: 20.000 Capital<br>2025: 60.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.9865239,-16.0143391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coordenação Regional de Ensino de Gama</name>
+        <description>2025: 220.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.070599,-16.021029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coordenação Regional de Ensino de Santa Maria</name>
+        <description>2025: 250.000 Custeio; 90.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0008232,-16.0056486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro De Ensino Fundamental 403 De Santa Maria</name>
+        <description>2025: 15.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0267405,-16.0379054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Fundamental 01 de Gama</name>
+        <description>2025: 60.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0622675,-16.0066995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 08 de Gama</name>
+        <description>2025: 40.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0740922,-16.0255651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 05 de Gama</name>
+        <description>2025:  40.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0784635,-16.0155669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 04 de Gama</name>
+        <description>2025: 40.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0565579,-16.027159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[Planaltina & Sobradinho & Arapoanga]]></name>
+      <Placemark>
+        <name>CEM 01 de Planaltina (Centrão)</name>
+        <description><![CDATA[2023: 150.000 Custeio<br>2025: 40.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6523617,-15.6215052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED Dona América Guimarães</name>
+        <description><![CDATA[2023: 100.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6291403,-15.6399226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Educacional Stella dos Cherubins Guimarães Trois</name>
+        <description><![CDATA[2023: 160.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6597354,-15.6306525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED Pompílio Marques de Souza</name>
+        <description><![CDATA[2023: 80.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6829676,-15.5990458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 01 Planaltina</name>
+        <description>2023: 50.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6533216,-15.6224488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Fundamental Nossa Senhora de Fátima</name>
+        <description><![CDATA[2023: 100.000 Custeio; 50.000 Capital<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6580734,-15.6032697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 07 de Planaltina</name>
+        <description><![CDATA[2023: 100.000 Capital<br>2024: 30.000 Custeio]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6637006,-15.6418748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Córrego do Meio</name>
+        <description>2024: 22.500 Custeio; 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.70747,-15.69532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro De Ensino Especial 01</name>
+        <description><![CDATA[2024: 22.500 Custeio; 20.000 Capital<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.65404,-15.6197265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Aprodarmas</name>
+        <description><![CDATA[2024: 22.500 Custeio; 20.000 Capital<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6576069,-15.6641532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Paraná</name>
+        <description><![CDATA[2024: 22.500 Custeio; 20.000 Capital<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6453199,-15.6150464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEM 01 de Sobradinho</name>
+        <description>2023: 30.000 Custeio; 30.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7986773,-15.6532966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI 01 de Planaltina</name>
+        <description><![CDATA[2024: 50.000 Custeio<br>2025: 30.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6829036,-15.619638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 03 de Planaltina</name>
+        <description><![CDATA[2024: 30.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6409038,-15.615752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF SÃO JOSÉ PLANALTINA DF</name>
+        <description><![CDATA[2024: 30.000 Custeio<br>2025: 50.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3737748,-15.7041479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED 03 de Planaltina</name>
+        <description>2024: 60.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6502737,-15.6031599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Médio 02 de Planaltina</name>
+        <description><![CDATA[2024: 60.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6536211,-15.6217068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 01 de Planaltina</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6550889,-15.6258333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 01 do Arapoanga</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6359569,-15.6395813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 03</name>
+        <description><![CDATA[2024: 30.000 Custeio<br>2025: 50.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6463243,-15.6150361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 04 de Planaltina</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6465249,-15.621301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 05 de Planaltina</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.65422,-15.631334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 06 de Planaltina</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6465463,-15.6276447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 09 de Planaltina</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6448854,-15.6105278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 10 de Planaltina</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6537061,-15.6026472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 13 de Planaltina</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6425105,-15.6034675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 14 de Planaltina</name>
+        <description><![CDATA[2024: 30.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.63206,-15.6138511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 15 de Planaltina</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6857177,-15.6186554,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ec 16 De Planaltina</name>
+        <description><![CDATA[2024: 70.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6813514,-15.6198287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Altamir</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6810935,-15.6332222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Barra Alta</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.4575139,-15.8480813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Rural Coperbrás</name>
+        <description><![CDATA[2024: 30.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.54592,-15.761408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Estância De Planaltina</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6704285,-15.6055976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED Águas do Cerrado - CEDAC</name>
+        <description>2024: 30.000 Custeio; 40.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6238126,-15.6419773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe ETA 44 (EC ETA 44)</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7296469,-15.592808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Jardim dos Ipês - SEDF</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6255498,-15.6551518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[EC Mestre D'Armas]]></name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6465182,-15.6723461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Monjolo</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6822828,-15.5311096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Núcleo Rural Córrego Do Atoleiro</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6147955,-15.6242333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Pedra Fundamental</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6724273,-15.6739212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Rajadinha</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6508039,-15.7537663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Reino Das Flores</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6024403,-15.6931972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Santos Dumont</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6482543,-15.6787125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Vale Do Sol</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6511513,-15.6541602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Vale Verde</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6529738,-15.537836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jardim de Infância Casa de Vivência</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6503058,-15.6122607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Fundamental 08 de Planaltina (CEF 08)</name>
+        <description>2024: 20.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6480867,-15.6036183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 02 de Planaltina</name>
+        <description>2024: 20.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.656857,-15.6219284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Educação Infantil 02 de Planaltina</name>
+        <description><![CDATA[2024: 50.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6459866,-15.6033519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Fundamental Rio Preto</name>
+        <description>2024: 20.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.4928811,-15.7633797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED Vale do Amanhecer</name>
+        <description><![CDATA[2024: 20.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6566542,-15.6800044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COLEGIO CIVICO MILITAR CED Estância III CCMDF</name>
+        <description>2024: 20.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6869971,-15.6180086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Educacional Osório Bacchin</name>
+        <description>2024: 20.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6304425,-15.5268269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED Pipiripau II</name>
+        <description>2024: 20.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.5119895,-15.5349328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED TAQUARA</name>
+        <description><![CDATA[2024: 20.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.5223085,-15.6333828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Educacional Várzeas</name>
+        <description>2024: 20.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.5698976,-15.8206678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Médio 04 de Sobradinho.</name>
+        <description><![CDATA[2024: 40.000 Custeio; 20.000 Capital<br>2025: 30.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.8262214,-15.6465111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Educação Profissional de Planaltina</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6550771,-15.6245531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAIC Assis Chateaubriand</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6420631,-15.6181392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 02 Do Arapoanga</name>
+        <description><![CDATA[2024: 20.000 Capital<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6325073,-15.6363004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 04 de Planaltina</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6516456,-15.6219227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF Arapoanga</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6407786,-15.6402826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Fundamental Bonsucesso</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.5853385,-15.5055555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Fundamental Juscelino Kubitschek (CEF JK)</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6880261,-15.6011796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Palmeiras</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7409559,-15.5284004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 10 de Sobradinho</name>
+        <description><![CDATA[2024: 62.000 Custeio; 25.000 Capital<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7972417,-15.6588578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Estância Do Pipiripau</name>
+        <description>2025: 10.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.563891,-15.6097874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Interescolar de Línguas 01 de Planaltina</name>
+        <description>2025: 10.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6522438,-15.6222886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coordenação Regional de Ensino de Planaltina</name>
+        <description>2025: 120.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6520377,-15.6220786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Girassol</name>
+        <description>2025: 30.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.5107018,-15.5351107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coordenação Regional de Ensino de Sobradinho</name>
+        <description>2025: 80.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.8199433,-15.6420405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 17 de Sobradinho</name>
+        <description>2025: 50.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.8470417,-15.6235585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro De Educação Infantil 04 De Sobradinho</name>
+        <description>2025: 40.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7992362,-15.6538027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro De Ensino Fundamental Cerâmica Reunidas Dom Bosco</name>
+        <description>2025: 40.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3860005,-15.5731831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Plano Piloto</name>
+      <Placemark>
+        <name>Escola Meninos e Meninas do Parque</name>
+        <description><![CDATA[2023: 60.000 Custeio<br>2024: 50.000 Custeio<br>2025: 50.000 Capital]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.925383,-15.810505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola do Parque da Cidade - PROEM</name>
+        <description><![CDATA[2023: 5.000 Custeio; 50.000 Capital<br>2025: 60.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.9132507,-15.8088181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CESAS da Asa Sul</name>
+        <description>2023: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.882604,-15.809972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED 01 de Brasília</name>
+        <description><![CDATA[2023: 30.000 Custeio<br>2024: 50.000 Custeio; 50.000 Capital<br>2025: 60.000 Custeio; 100.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.8918629,-15.7728984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Aspalha</name>
+        <description>2023: 60.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.833901,-15.7326178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 111 Sul</name>
+        <description>2024: 2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.9120237,-15.8231243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Fundamental Polivalente</name>
+        <description>2025: 10.000 Custeio; 30.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.9228766,-15.819545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEJAEP EaD de Brasília</name>
+        <description>2025: 80.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.9245706,-15.8283434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[Samambaia & Recanto das Emas & Riacho Fundo]]></name>
+      <Placemark>
+        <name>EC 410 de Samambaia</name>
+        <description><![CDATA[2023: 50.000 Custeio<br>2024: 30.000 Custeio]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0795753,-15.8586853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED 619</name>
+        <description>2024: 100.000 Custeio; 130.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1224451,-15.8795396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEM 414 SAMAMBAIA</name>
+        <description>2024: 50.000 Custeio; 100.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0722314,-15.8593258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 303 de Samambaia</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0944488,-15.8821808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC Guariroba de Samambaia</name>
+        <description>2024: 50.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1736526,-15.8611202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coordenação Regional de Ensino de Recanto das Emas</name>
+        <description>2025: 165.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0649229,-15.9047174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC Kanegae de Riacho Fundo</name>
+        <description>2025: 40.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.9994794,-15.8872587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coordenação Regional de Ensino de Samambaia</name>
+        <description>2025: 80.000 Custeio; 300.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.081839,-15.8760822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 408</name>
+        <description>2025: 30.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0789392,-15.8617181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 108 de Samambaia</name>
+        <description>2025: 50.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0750784,-15.8726368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEM 111</name>
+        <description>2025: 50.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.098844,-15.9124758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Educação Infantil CEI Buritizinho</name>
+        <description>2025: 15.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.2307022,-15.9358596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>São Sebastião</name>
+      <Placemark>
+        <name>Centro Educacional São Francisco</name>
+        <description><![CDATA[2023: 50.000 Custeio; 50.000 Capital<br>2024: 40.000 Capital<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7632204,-15.914768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Educacional Zumbi dos Palmares</name>
+        <description><![CDATA[2023: 80.000 Custeio<br>2024: 40.000 Capital]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7714803,-15.9033662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED São Bartolomeu</name>
+        <description><![CDATA[2023: 30.000 Custeio<br>2024: 20.000 Capital]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7789317,-15.8939508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEM 01 de São Sebastião (Centrão)</name>
+        <description><![CDATA[2023: 30.000 Custeio<br>2024: 20.000 Capital]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7794402,-15.9015374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF do Bosque</name>
+        <description><![CDATA[2023: 50.000 Custeio<br>2025: 40.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7565691,-15.9053639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Educação Infantil 01 de São Sebastião</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7763022,-15.90042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cei 03 De São Sebastião</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7783892,-15.9039391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI 05 de São Sebastião</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.8044314,-15.8840784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Educação Infantil Parque dos Ipês (Crixá)</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7587241,-15.9180779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Interescolar de Línguas de São Sebastião</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7546245,-15.9296969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAIC Unesco</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7735095,-15.9017733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 104 De São Sebastião</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7826152,-15.8958642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 303 de São Sebastião</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7819396,-15.9035272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Agrovila São Sebastião</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7588019,-15.9107492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC Vila Nova de São Sebastião</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7592926,-15.9135437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Vila do Boa</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7912268,-15.87755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe São Bartolomeu</name>
+        <description>2024: 80.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7390684,-15.9104084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC Dom Bosco</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7739811,-15.9027038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Ceramica Da Benção</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7694107,-15.90445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Cachoeirinha</name>
+        <description><![CDATA[2024: 80.000 Custeio<br>2025: 50.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7520173,-15.9893608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Bela Vista</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7545091,-15.9137563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe Aguilhada</name>
+        <description><![CDATA[2024: 100.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7393964,-15.9628651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF Nova Betânia</name>
+        <description><![CDATA[2024: 20.000 Capital; 50.000 Custeio<br>2025: 80.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7920915,-15.949873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cef Miguel Arcanjo</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7814216,-15.8924336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Fundamental São José</name>
+        <description>2024: 180.000 Capital; 50.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7595052,-15.9126786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC Morro da cruz</name>
+        <description>2025: 10.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.770859,-15.9246648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coordenação Regional de Ensino de São Sebastião</name>
+        <description>2025: 405.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7547786,-15.9293227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Fundamental Cerâmica São Paulo</name>
+        <description>2025: 40.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7790092,-15.8876856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro De Ensino Fundamental Jataí</name>
+        <description>2025: 40.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.8007201,-16.0196093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Taguatinga</name>
+      <Placemark>
+        <name>CEMI Taguatinga</name>
+        <description>2023: 80.000 Custeio; 70.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1002538,-15.8043094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Educação Infantil 04 de Taguatinga</name>
+        <description>2023: 250.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0577759,-15.8267697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coordenação Regional de Ensino de Taguatinga</name>
+        <description><![CDATA[2023: 58.931 Custeio<br>2025:  230.000 Custeio; 80.000 Capital]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0587758,-15.8320601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 26 de Setembro de Taguatinga</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0743932,-15.8004704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 17 de Taguatinga</name>
+        <description>2024: 20.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0552666,-15.834601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Médio Ave Branca</name>
+        <description>2025: 50.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0539128,-15.8363726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Médio Escola Industrial de Taguatinga</name>
+        <description>2025: 50.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0585636,-15.8328805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 08 de Taguatinga</name>
+        <description>2025: 60.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0656159,-15.8012003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEM Taguatinga Norte</name>
+        <description>2025: 70.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0663008,-15.8194033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[Ceilândia & Sol Nascente/Pôr do Sol]]></name>
+      <Placemark>
+        <name>CEM 02 de Ceilândia</name>
+        <description><![CDATA[2023: 70.000 Custeio; 180.000 Capital<br>2024: 90.000 Custeio; 135.000 Capital<br>2025: 50.000 Custeio;  ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.109275,-15.8069897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEM 03 de Ceilândia</name>
+        <description><![CDATA[2023: 180.000 Custeio; 79.600 Capital <br>2024: 118.000 Custeio; 115.000 Capital<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.099774,-15.8264488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEM 04 de Ceilândia Sul</name>
+        <description><![CDATA[2023: 50.000 Custeio<br>2024: 20.000 Capital; 20.000 Custeio]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1075094,-15.8315617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEM 09 de Ceilândia</name>
+        <description><![CDATA[2023: 35.000 Custeio; 55.000 Capital<br>2024: 95.000 Custeio; 100.000 Capital<br>2025: 80.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1242418,-15.7915332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEM 10 de Ceilândia</name>
+        <description><![CDATA[2023: 40.000 Capital<br>2024: 20.000 Capital<br>2025: 50.000 Custeio; 50.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1184842,-15.8470877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEM 12 de Ceilândia</name>
+        <description><![CDATA[2023: 130.000 Custeio<br>2024: 20.000 Capital; 30.000 Custeio<br>2025: 80.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.129985,-15.8094056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED 06 de Ceilândia</name>
+        <description><![CDATA[2023: 80.000 Custeio<br>2025: 65.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1157675,-15.8443597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED 15 de Ceilândia</name>
+        <description><![CDATA[2023: 15.000 Custeio; 69.000 Capital<br>2024: 150.000 Custeio<br>2025: 50.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1382052,-15.798633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED 16 de Ceilândia</name>
+        <description><![CDATA[2023: 40.000 Custeio; 30.000 Capital<br>2024: 20.000 Capital<br>2025: 30.000 Capital; 90.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1434035,-15.804199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Parque Anísio Teixeira de Ceilândia</name>
+        <description><![CDATA[2023: 100.000 Custeio<br>2024: 20.000 Capital]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0956642,-15.8180496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Especial 01 de Ceilândia</name>
+        <description><![CDATA[2023: 60.000 Custeio; 20.000 Capital<br>2024: 20.000 Capital<br>2025: 25.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1140427,-15.8397129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Especial 02 de Ceilândia</name>
+        <description><![CDATA[2023: 40.000 Custeio; 40.000 Capital<br>2024: 20.000 Capital<br>2025: 75.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1333446,-15.7897191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED Incra 09 de Ceilândia</name>
+        <description><![CDATA[2023: 50.000 Custeio<br>2024: 75.000 Custeio; 20.000 Capital]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1935384,-15.7841537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED 11 de Ceilândia</name>
+        <description><![CDATA[2023: 80.000 Custeio; 25.000 Capital<br>2024: 50.000 Custeio]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1251169,-15.8228279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 10 de Ceilândia</name>
+        <description><![CDATA[2023: 80.000 Custeio<br>2024: 20.000 Capital]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1250432,-15.8054684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF Professora Maria do Rosário Gondim da Silva</name>
+        <description><![CDATA[2023: 50.000 Capital<br>2024: 20.000 Capital]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1224279,-15.8101405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 27 de Ceilândia</name>
+        <description><![CDATA[2023: 36.700 Custeio; 13.000 Capital<br>2024: 20.000 Custeio; 20.000 Capital<br>2025: 40.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1511484,-15.8055217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 04</name>
+        <description><![CDATA[2023: 50.000 Custeio<br>2024: 30.000 Custeio<br>2025: 30.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0948031,-15.8284218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 26 de Ceilândia</name>
+        <description>2023: 85.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1142778,-15.8125792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 20 de Ceilândia</name>
+        <description><![CDATA[2023: 80.000 Custeio<br>2024: 10.000 Custeio; 10.000 Capital]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1093252,-15.8231913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 50 de Ceilândia</name>
+        <description><![CDATA[2023: 51.000 Custeio<br>2024: 30.000 Custeio; 10.000 Capital<br>2025: 10.000 Custeio]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1279384,-15.8427322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 34 de Ceilândia</name>
+        <description><![CDATA[2023: 120.000 Custeio<br>2024: 10.000 Custeio; 10.000 Capital<br>2025: 30.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1310588,-15.8072043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 10 de Ceilândia</name>
+        <description><![CDATA[2023: 50.000 Custeio<br>2024: 10.000 Custeio; 10.000 Capital]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1075537,-15.8154223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 01 de Ceilândia</name>
+        <description><![CDATA[2023: 50.000 Custeio<br>2024: 10.000 Custeio; 10.000 Capital]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0916532,-15.833691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 15 de Ceilândia</name>
+        <description><![CDATA[2023: 51.000 Custeio<br>2024: 10.000 Custeio; 30.000 Capital]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1003063,-15.8372183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 03 de Ceilândia</name>
+        <description><![CDATA[2023: 45.000 Custeio<br>2024: 10.000 Custeio; 10.000 Capital]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1019234,-15.8121842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 55 de Ceilândia</name>
+        <description><![CDATA[2023: 50.000 Custeio<br>2024: 10.000 Custeio; 10.000 Capital]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1421661,-15.7904274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC Lajes da Jiboia de Ceilândia</name>
+        <description><![CDATA[2023: 50.000 Custeio<br>2024: 75.000 Custeio; 20.000 Capital]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.2674542,-15.9179127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC Jiboia de Ceilândia</name>
+        <description><![CDATA[2023: 50.000 Custeio<br>2024: 75.000 Custeio; 20.000 Capital]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.2615957,-15.8695359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 68 de Ceilândia</name>
+        <description><![CDATA[2023: 50.000 Custeio<br>2024: 10.000 Custeio; 10.000 Capital]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1582442,-15.8084333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 22 de Ceilândia</name>
+        <description><![CDATA[2024: 25.000 Custeio; 20.000 Capital<br>2025: 20.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1038355,-15.8329675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF Boa Esperança</name>
+        <description><![CDATA[2024: 75.000 Custeio; 20.000 Capital<br>2025: 40.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.2463508,-15.8280673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Fundamental 34 de Ceilândia</name>
+        <description><![CDATA[2024: 25.000 Custeio; 20.000 Capital<br>2025: 30.000 Custeio; 10.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1391471,-15.7941079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 07 de Ceilândia</name>
+        <description>2024: 25.000 Custeio; 40.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.099382,-15.8304556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 02 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0955885,-15.8232559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 06 de Ceilândia</name>
+        <description><![CDATA[2024: 10.000 Custeio; 10.000 Capital<br>2025: 30.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1107869,-15.8107986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 08 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1174125,-15.8080446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 11 Ceilândia Norte</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1131419,-15.8057235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 12 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.104845,-15.8071735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 13 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1116419,-15.7981871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 16 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1211405,-15.7907614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 17 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1229617,-15.7973878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 18 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1026521,-15.8262472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 19 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0969683,-15.8356393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 21 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1057459,-15.8275413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 24 de Ceilândia</name>
+        <description><![CDATA[2024: 10.000 Custeio; 10.000 Capital<br>2025: 30.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1116026,-15.831266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 25 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1077938,-15.8352012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 26 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1142778,-15.8125792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 27 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 30.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1197208,-15.8029704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 28 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1180618,-15.8205755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 29 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.119914,-15.8147725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 31 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1274746,-15.798964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 33 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1314772,-15.7887614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 35 de Ceilândia</name>
+        <description><![CDATA[2024: 10.000 Custeio; 10.000 Capital<br>2025: 80.000 Custeio; 30.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1294537,-15.8125882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 36 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.127113,-15.8176893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 38 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1352185,-15.8087033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 39 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.133206,-15.8138095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 40 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1306338,-15.8193239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 43 de Ceilândia</name>
+        <description><![CDATA[2024: 10.000 Custeio; 10.000 Capital<br>2025: 30.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1102225,-15.8441663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 45 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1174008,-15.842073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ESCOLA CLASSE 46 DE CEILÂNDIA</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1138925,-15.8466334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 47 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1243328,-15.8403012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 48 de Ceilândia</name>
+        <description><![CDATA[2024: 10.000 Custeio; 10.000 Capital<br>2025: 50.000 Custeio; 50.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1209081,-15.8447444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 52 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1211803,-15.8516664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 56 de Ceilândia</name>
+        <description><![CDATA[2024: 10.000 Custeio; 10.000 Capital<br>2025: 30.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1368036,-15.7937943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Escola Classe 59 de Ceilândia</name>
+        <description>2024: 35.000 Custeio; 35.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.107762,-15.8305133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 61 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1441229,-15.8051613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 62 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1393776,-15.8037767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 64 de Ceilândia</name>
+        <description>2024: 10.000 Custeio; 10.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0986588,-15.8180305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 65 de Ceilândia</name>
+        <description><![CDATA[2023: 50.000 Custeio<br>2024: 20.000 Capital]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1602583,-15.8063874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 66 de Ceilândia</name>
+        <description><![CDATA[2023: 80.000 Custeio<br>2024: 20.000 Capital<br>2025: 40.000 Custeio]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1534053,-15.8182127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC Córrego das Corujas Sol Nascente</name>
+        <description>2024: 75.00 Custeio; 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1838018,-15.8368999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC Juscelino Kubitschek - Sol Nascente</name>
+        <description><![CDATA[2023: 50.000 Custeio<br>2024: 20.000 Custeio]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1323361,-15.8331517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC P Norte de Sol Nascente</name>
+        <description><![CDATA[2023: 50.000 Custeio<br>2025: 30.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.138256,-15.8319672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coordenação Regional de Ensino de Ceilândia</name>
+        <description><![CDATA[2024: 200.000 Custeio (Festival de Música das Escolas e Projeto Eficientes)<br>2025: 485.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.0950975,-15.8195687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Fundamental 14 de Ceilândia</name>
+        <description><![CDATA[2024: 30.000 Custeio<br>2025: 20.000 Custeio; 10.000 Capital ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1242257,-15.8471786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 32 Sol Nascente</name>
+        <description><![CDATA[2024: 30.000 Custeio<br>2025: 50.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1239432,-15.8575751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEP - ET de Ceilândia</name>
+        <description>2024: 100.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1097809,-15.8295701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 16 de Ceilândia</name>
+        <description>2024: 20.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1087616,-15.8032332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAIC Bernardo Sayão de Ceilândia</name>
+        <description><![CDATA[2024: 20.000 Capital<br>2025: 100.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1149203,-15.832396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAIC Professor Anísio Teixeira</name>
+        <description><![CDATA[2024: 20.000 Capital<br>2025: 100.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1305026,-15.7980162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro Interescolar de Línguas de Ceilândia</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1004672,-15.8240202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI 01 de Ceilândia</name>
+        <description><![CDATA[2024: 20.000 Capital<br>2025: 40.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1119716,-15.8418368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED 14 de Ceilândia</name>
+        <description><![CDATA[2024: 20.000 Capital<br>2025: 30.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1295599,-15.7938299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Fundamental 02 de Ceilândia</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1049689,-15.8209072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 11 de Ceilândia</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1046431,-15.8403242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 12 de Ceilândia</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1194336,-15.7962048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 13 de Ceilândia</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.117286,-15.8490889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 30 de Ceilândia</name>
+        <description>2024: 20.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1381689,-15.7856358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 20 de Ceilândia</name>
+        <description>2024: 20.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1164914,-15.8013747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 25 de Ceilândia</name>
+        <description>2025: 55.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1281226,-15.8150506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 26 de Ceilândia</name>
+        <description>2025: 30.000  Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1260804,-15.7863687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 28 DE CEILÂNDIA</name>
+        <description>2025: 20.000 Custeio ; 30.000 Capital</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1394613,-15.8115215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 31 de Ceilândia</name>
+        <description>2025: 40.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1346591,-15.7987058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 35 de Ceilândia</name>
+        <description>2025: 30.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1120888,-15.818059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 18 de Ceilândia</name>
+        <description>2025: 20.000 Capital; 20.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.115587,-15.8374069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centro de Ensino Fundamental 19 de Ceilândia</name>
+        <description>2025: 20.000 Custeio; 20.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1148312,-15.8266427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEF 33 de Ceilândia</name>
+        <description>2025: 30.000 Capital </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1192505,-15.8400165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[Guará & Núcleo Bandeirante]]></name>
+      <Placemark>
+        <name>Coordenação Regional de Ensino de Guará</name>
+        <description><![CDATA[2024: 60.000 Custeio<br>2025: 250.000 Custeio ]]></description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.9722057,-15.8471292,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED 01 de Guará</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.9684188,-15.843097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EC 07 de Guará</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.9698915,-15.847851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CED 03 de Guará (Centrão)</name>
+        <description>2024: 30.000 Custeio</description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.9756518,-15.8396124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEM Urso Branco</name>
+        <description>2025: 50.000 Custeio </description>
+        <styleUrl>#icon-1526-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -47.9690036,-15.8719023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

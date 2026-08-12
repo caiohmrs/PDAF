@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDEs / editores
+.idea/
+.vscode/
+.ipynb_checkpoints/
+
+# Cache do streamlit
+.streamlit/
+
+# Backup local (mantido fora do repo)
+emendas copy.py

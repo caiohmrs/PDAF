@@ -1,0 +1,843 @@
+﻿Ano;Escola;RA;Ofício Sisconep;Mês de indicação;GND;Valor Indicado;Valor empenhado;Valor pago;COL10;Destinação;CRE;O que foi/será realizado?;Pago em:;Observação;Ordem Bancária;Data de Pagamento;Link Fotos;Escola_Padrao
+2023.0;CEF Professora Maria do Rosário Gondim da Silva;Ceilândia;7136.0;Maio;Capital;50000.0;50000.0;50000.0;;;;;;;;;;CEF Professora Maria do Rosário Gondim da Silva
+2023.0;Centro de Ensino Especial 01 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;60000.0;60000.0;60000.0;Regional;;;;;;;;;CEE 01 DE CEILANDIA
+2023.0;Centro de Ensino Especial 01 de Ceilândia;Ceilândia;7136.0;Maio;Capital;20000.0;20000.0;20000.0;;;;;;;;;;CEE 01 DE CEILANDIA
+2023.0;Centro de Ensino Especial 02 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;40000.0;40000.0;40000.0;;;;;;;;;;CEE 02 DE CEILANDIA
+2023.0;Centro de Ensino Especial 02 de Ceilândia;Ceilândia;7136.0;Maio;Capital;40000.0;40000.0;40000.0;;;;;;;;;;CEE 02 DE CEILANDIA
+2023.0;Centro de Ensino Fundamental 04 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;50000.0;50000.0;50000.0;;;;;;;;;;CEF 04 DE CEILANDIA
+2023.0;Centro de Ensino Fundamental 10 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;80000.0;80000.0;80000.0;Regional;;;;;;;;;CEF 10 DE CEILANDIA
+2023.0;Centro de Ensino Fundamental 27 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;36700.0;36700.0;36700.0;;;;;;;;;;CEF 27 de Ceilândia
+2023.0;Centro de Ensino Fundamental 27 de Ceilândia;Ceilândia;7136.0;Maio;Capital;13000.0;13000.0;13000.0;;;;;;;;;;CEF 27 de Ceilândia
+2023.0;Centro de Ensino Médio 02 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;70000.0;70000.0;70000.0;Regional;;;;;;;;;CEM 02 de Ceilândia
+2023.0;Centro de Ensino Médio 02 de Ceilândia;Ceilândia;7136.0;Maio;Capital;180000.0;180000.0;180000.0;Regional;;;;;;;;;CEM 02 de Ceilândia
+2023.0;Centro de Ensino Médio 03 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;180000.0;180000.0;180000.0;Regional;;;;;;;;;CEM 03 DE CEILANDIA
+2023.0;Centro de Ensino Médio 03 de Ceilândia;Ceilândia;7136.0;Maio;Capital;79600.0;79600.0;79600.0;Regional;;;;;;;;;CEM 03 DE CEILANDIA
+2023.0;Centro de Ensino Médio 04 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;50000.0;50000.0;50000.0;;;;;;;;;;CEM 04 de Ceilândia
+2023.0;Centro de Ensino Médio 09 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;35000.0;35000.0;35000.0;;;;;;;;;;CEM 09 de Ceilândia
+2023.0;Centro de Ensino Médio 09 de Ceilândia;Ceilândia;7136.0;Maio;Capital;55000.0;55000.0;55000.0;;;;;;;;;;CEM 09 de Ceilândia
+2023.0;Centro de Ensino Médio 10 de Ceilândia;Ceilândia;7136.0;Maio;Capital;40000.0;40000.0;40000.0;Regional;;;;;;;;;CEM 10 DE CEILANDIA
+2023.0;Centro de Ensino Médio 12 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;130000.0;130000.0;130000.0;Regional;;;;;;;;;CEM 12 de Ceilândia
+2023.0;Centro Educacional 06 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;80000.0;80000.0;80000.0;Regional;;;;;;;;;CED 06 DE CEILANDIA
+2023.0;Centro Educacional 11 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;80000.0;80000.0;80000.0;Regional;;;;;;;;;CED 11 DE CEILANDIA
+2023.0;Centro Educacional 11 de Ceilândia;Ceilândia;7136.0;Maio;Capital;25000.0;25000.0;25000.0;;;;;;;;;;CED 11 DE CEILANDIA
+2023.0;Centro Educacional 15 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;15000.0;15000.0;15000.0;;;;;;;;;;CED 15 DE CEILANDIA
+2023.0;Centro Educacional 15 de Ceilândia;Ceilândia;7136.0;Maio;Capital;69000.0;69000.0;69000.0;;;;;;;;;;CED 15 DE CEILANDIA
+2023.0;Centro Educacional 16 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;40000.0;40000.0;40000.0;;;;;;;;;;CED 16 DE CEILANDIA
+2023.0;Centro Educacional 16 de Ceilândia;Ceilândia;7136.0;Maio;Capital;30000.0;30000.0;30000.0;;;;;;;;;;CED 16 DE CEILANDIA
+2023.0;Centro Educacional Incra 09 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;30000.0;30000.0;30000.0;;;;;;;;;;CED INCRA 09
+2023.0;CRE Ceilândia (Escola Parque Anísio Teixeira);Ceilândia;7135.0;Maio;Custeio;100000.0;100000.0;100000.0;Regional;;;;;;;;;EP ANISIO TEIXEIRA
+2023.0;Escola Classe 01 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;50000.0;50000.0;50000.0;;;;;;;;;;EC 01 de Ceilândia
+2023.0;Escola Classe 03 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;45000.0;45000.0;45000.0;;;;;;;;;;EC 03 DE CEILANDIA
+2023.0;Escola Classe 10 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;50000.0;50000.0;50000.0;;;;;;;;;;EC 10 de Ceilândia
+2023.0;Escola Classe 15 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;51000.0;51000.0;51000.0;;;;;;;;;;EC 15 de Ceilândia
+2023.0;Escola Classe 20 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;80000.0;80000.0;80000.0;Regional;;;;;;;;;EC 20 DE CEILANDIA
+2023.0;Escola Classe 26 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;85000.0;85000.0;85000.0;Regional;;;;;;;;;EC 26 DE CEILANDIA
+2023.0;Escola Classe 34 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;120000.0;120000.0;120000.0;Regional;;;;;;;;;EC 34 DE CEILANDIA
+2023.0;Escola Classe 50 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;51000.0;51000.0;51000.0;;;;;;;;;;EC 50 de Ceilândia
+2023.0;Escola Classe 55 de Ceilândia;Ceilândia;7135.0;Maio;Custeio;50000.0;50000.0;50000.0;;;;;;;;;;EC 55 DE CEILANDIA
+2023.0;Escola Classe 68;Ceilândia;7135.0;Maio;Custeio;50000.0;50000.0;50000.0;;;;;;;;;;EC 68 DE CEILANDIA
+2023.0;Escola Classe Jiboia;Ceilândia;7135.0;Maio;Custeio;50000.0;50000.0;50000.0;;;;;;;;;;EC JIBOIA
+2023.0;Escola Classe Lajes da Jiboia;Ceilândia;7135.0;Maio;Custeio;50000.0;50000.0;50000.0;;;;;;;;;;EC LAJES DA JIBOIA
+2023.0;"Centro de Ensino Fundamental 10 do Gama
+";Gama;7730.0;Agosto;Capital;35000.0;35000.0;35000.0;;;;;;;;;;CEF 10 do Gama
+2023.0;"Centro de Ensino Fundamental 10 do Gama
+";Gama;7728.0;Agosto;Custeio;35000.0;35000.0;35000.0;;;;;;;;;;CEF 10 do Gama
+2023.0;Centro de Ensino Fundamental 11 do Gama;Gama;7728.0;Agosto;Custeio;115000.0;115000.0;115000.0;Regional;;;;;;;;;CEF 11 DO GAMA
+2023.0;Centro de Ensino Fundamental 15 do Gama;Gama;7728.0;Agosto;Custeio;50000.0;50000.0;50000.0;;;;;;;;;;CEF 15 do Gama
+2023.0;Centro de Ensino Fundamental 15 do Gama;Gama;7730.0;Agosto;Capital;20308.0;20308.0;20308.0;;;;;;;;;;CEF 15 do Gama
+2023.0;Centro de Ensino Médio 01 do Gama;Gama;7730.0;Agosto;Capital;150000.0;150000.0;150000.0;Regional;;;;;;;;;CEM 01 do Gama
+2023.0;Centro de Ensino Médio 03 do Gama;Gama;7728.0;Agosto;Custeio;50000.0;50000.0;50000.0;;;;;;;;;;CEM 03 DO GAMA
+2023.0;Centro de Ensino Médio Integrado do Gama;Gama;7728.0;Agosto;Custeio;60000.0;60000.0;60000.0;Regional;;;;;;;;;CEMI DO GAMA
+2023.0;Centro Educacional 06 do Gama;Gama;7728.0;Agosto;Custeio;20000.0;20000.0;20000.0;;;;;;;;;;CED 06 do Gama
+2023.0;Centro Educacional 06 do Gama;Gama;7730.0;Agosto;Capital;50000.0;50000.0;50000.0;;;;;;;;;;CED 06 do Gama
+2023.0;Centro Educacional 08 do Gama;Gama;7728.0;Agosto;Custeio;60000.0;60000.0;60000.0;Regional;;;;;;;;;CED 08 DO GAMA
+2023.0;Centro Educacional Engenho das Lages;Gama;7728.0;Agosto;Custeio;20000.0;20000.0;20000.0;;;;;;;;;;CED ENGENHO DAS LAJES
+2023.0;Escola Classe 06 do Gama;Gama;7728.0;Agosto;Custeio;55000.0;55000.0;55000.0;Regional;;;;;;;;;EC 06 DO GAMA
+2023.0;Escola Classe 12 do Gama;Gama;7728.0;Agosto;Custeio;150000.0;150000.0;150000.0;Regional;;;;;;;;;EC 12 do Gama
+2023.0;Escola Classe 18 do Gama;Gama;7728.0;Agosto;Custeio;80000.0;80000.0;80000.0;Regional;;;;;;;;;EC 18 do Gama
+2023.0;Escola Classe 19 do Gama;Gama;7728.0;Agosto;Custeio;50000.0;50000.0;50000.0;;;;;;;;;;EC 19 DO GAMA
+2023.0;Escola Classe 21 do Gama;Gama;7728.0;Agosto;Custeio;100000.0;100000.0;100000.0;Regional;;;;;;;;;EC 21 do Gama
+2023.0;Centro de Ensino Fundamental 01;Planaltina;7730.0;Agosto;Capital;50000.0;50000.0;50000.0;;;;;;;;;;CEF 01 DE PLANALTINA
+2023.0;Centro de Ensino Fundamental Nossa Senhora de Fátima;Planaltina;7728.0;Agosto;Custeio;100000.0;100000.0;100000.0;Regional;;;;;;;;;CEF NOSSA SENHORA DE FÁTIMA
+2023.0;Centro de Ensino Fundamental Nossa Senhora de Fátima;Planaltina;7730.0;Agosto;Capital;50000.0;50000.0;50000.0;Regional;;;;;;;;;CEF NOSSA SENHORA DE FÁTIMA
+2023.0;"Centro de Ensino Médio 01 
+";Planaltina;7728.0;Agosto;Custeio;150000.0;150000.0;150000.0;Regional;;;;;;;;;CEM 01 DE PLANALTINA
+2023.0;"Centro Educacional Dona América Guimarães
+";Planaltina;7728.0;Agosto;Custeio;100000.0;100000.0;100000.0;Regional;;;;;;;;;CED DONA AMERICA GUIMARAES
+2023.0;Centro Educacional Estella dos Cherubins;Planaltina;7728.0;Agosto;Custeio;160000.0;160000.0;160000.0;Regional;;;;;;;;;CED Stella dos Cherubins Guimarães Trois
+2023.0;Centro Educacional Pompílio Marques de Souza;Planaltina;7728.0;Agosto;Custeio;80000.0;80000.0;80000.0;Regional;;;;;;;;;CED POMPÍLIO MARQUES DE SOUZA
+2023.0;Escola Classe 07 de Planaltina;Planaltina;7730.0;Agosto;Capital;100000.0;100000.0;100000.0;Regional;;;;;;;;;EC 07 DE PLANALTINA
+2023.0;Centro de Educação de Jovens e Adultos (CESAS);Plano Piloto;7728.0;Agosto;Custeio;30000.0;30000.0;30000.0;;;;;;;;;;CENTRO DE EDUCACAO DE JOVENS E ADULTOS CESAS
+2023.0;Centro Educacional 01 de Brasília;Plano Piloto;7728.0;Agosto;Custeio;30000.0;30000.0;30000.0;;;;;;;;;;CED 01 de Brasília
+2023.0;Escola Classe Aspalha;Plano Piloto;7728.0;Agosto;Custeio;60000.0;60000.0;60000.0;;;;;;;;;;EC ASPALHA
+2023.0;Escola do Parque da Cidade (PROEM);Plano Piloto;7728.0;Agosto;Custeio;5000.0;5000.0;5000.0;;;;;;;;;;Escola do Parque da Cidade - PROEM
+2023.0;Escola do Parque da Cidade (PROEM);Plano Piloto;7730.0;Agosto;Capital;50000.0;50000.0;50000.0;;;;;;;;;;Escola do Parque da Cidade - PROEM
+2023.0;"Escola Meninos e Meninas do Parque 
+";Plano Piloto;7728.0;Agosto;Custeio;60000.0;60000.0;60000.0;;;;;;;;;;Escola Meninos e Meninas do Parque
+2023.0;Escola Classe 410 de Samambaia;Samambaia;7728.0;Agosto;Custeio;50000.0;50000.0;50000.0;;;;;;;;;;EC 410 DE SAMAMBAIA
+2023.0;Centro de Ensino Fundamental do Bosque;São Sebastião;7728.0;Agosto;Custeio;50000.0;50000.0;50000.0;;;;;;;;;;CEF DO BOSQUE
+2023.0;Centro de Ensino Médio 01 de São Sebastião;São Sebastião;7728.0;Agosto;Custeio;30000.0;30000.0;30000.0;;;;;;;;;;CEM 01 DE SAO SEBASTIAO
+2023.0;Centro Educacional São Bartolomeu;São Sebastião;7728.0;Agosto;Custeio;30000.0;30000.0;30000.0;;;;;;;;;;CED SAO BARTOLOMEU
+2023.0;"Centro Educacional São Francisco 
+";São Sebastião;7728.0;Agosto;Custeio;50000.0;50000.0;50000.0;;;;;;;;;;CED SAO FRANCISCO
+2023.0;"Centro Educacional São Francisco 
+";São Sebastião;7730.0;Agosto;Capital;50000.0;50000.0;50000.0;;;;;;;;;;CED SAO FRANCISCO
+2023.0;Centro Educacional Zumbi dos Palmares;São Sebastião;7728.0;Agosto;Custeio;80000.0;80000.0;80000.0;Regional;;;;;;;;;CED ZUMBI DOS PALMARES
+2023.0;Centro de Ensino Médio 01 de Sobradinho;Sobradinho;7728.0;Agosto;Custeio;30000.0;30000.0;30000.0;;;;;;;;;;CEM 01 DE SOBRADINHO
+2023.0;Centro de Ensino Médio 01 de Sobradinho;Sobradinho;7730.0;Agosto;Capital;30000.0;30000.0;30000.0;;;;;;;;;;CEM 01 DE SOBRADINHO
+2023.0;Escola Classe 65;Sol Nascente/Pôr do Sol;7135.0;Maio;Custeio;50000.0;50000.0;50000.0;;;;;;;;;;EC 65 DE CEILANDIA
+2023.0;Escola Classe 66;Sol Nascente/Pôr do Sol;7135.0;Maio;Custeio;80000.0;80000.0;80000.0;;;;;;;;;;EC 66 DE CEILANDIA
+2023.0;Escola Classe JK;Sol Nascente/Pôr do Sol;7135.0;Maio;Custeio;50000.0;50000.0;50000.0;;;;;;;;;;EC JK
+2023.0;Escola Classe P Norte;Sol Nascente/Pôr do Sol;7135.0;Maio;Custeio;50000.0;50000.0;50000.0;;;;;;;;;;EC P NORTE
+2023.0;Centro de Educação Infantil 04 de Taguatinga;Taguatinga;7728.0;Agosto;Custeio;250000.0;250000.0;250000.0;;;;;;;;;;CEI 04 DE TAGUATINGA
+2023.0;Centro de Ensino Médio Integrado de Taguatinga;Taguatinga;7728.0;Agosto;Custeio;30000.0;30000.0;30000.0;;;;;;;;;;CEMI DE TAGUATINGA
+2023.0;Centro de Ensino Médio Integrado de Taguatinga;Taguatinga;7730.0;Agosto;Capital;70000.0;70000.0;70000.0;;;;;;;;;;CEMI DE TAGUATINGA
+2023.0;Centro de Ensino Médio Integrado de Taguatinga;Taguatinga;7728.0;Agosto;Custeio;50000.0;50000.0;50000.0;;;;;;;;;;CEMI DE TAGUATINGA
+2023.0;Coordenação Regional de Taguatinga;Taguatinga;7728.0;Agosto;Custeio;58931.0;58931.0;58931.0;;;;;;;;;;CRE TAGUATINGA
+2024.0;CED 310 DE SANTA MARIA;Santa Maria;9308.0;;Capital;20000.0;20000.0;20000.0;;ESCOLA;CRE SANTA MARIA;;2024-04-19 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;CED 310 DE SANTA MARIA
+2024.0;CED 310 DE SANTA MARIA;Santa Maria;9309.0;;Custeio;22500.0;22500.0;22500.0;;ESCOLA;CRE SANTA MARIA;;2024-04-19 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;CED 310 DE SANTA MARIA
+2024.0;CED INCRA 09;Ceilândia;9308.0;;Capital;20000.0;20000.0;20000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;CED INCRA 09
+2024.0;CED INCRA 09;Ceilândia;9309.0;;Custeio;25000.0;25000.0;25000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;CED INCRA 09
+2024.0;CEE 01 DE PLANALTINA;Planaltina;9308.0;;Capital;20000.0;20000.0;20000.0;;ESCOLA;CRE PLANALTINA;;2024-09-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;CEE 01 DE PLANALTINA
+2024.0;CEE 01 DE PLANALTINA;Planaltina;9309.0;;Custeio;22500.0;22500.0;22500.0;;ESCOLA;CRE PLANALTINA;;2024-09-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;CEE 01 DE PLANALTINA
+2024.0;CEF 07 DE CEILANDIA;Ceilândia;9308.0;;Capital;20000.0;20000.0;20000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;CEF 07 DE CEILANDIA
+2024.0;CEF 07 DE CEILANDIA;Ceilândia;9309.0;;Custeio;25000.0;25000.0;25000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;CEF 07 DE CEILANDIA
+2024.0;CEF 34 DE CEILANDIA;Ceilândia;9308.0;;Capital;20000.0;20000.0;20000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;CEF 34 DE CEILANDIA
+2024.0;CEF 34 DE CEILANDIA;Ceilândia;9309.0;;Custeio;25000.0;25000.0;25000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;CEF 34 DE CEILANDIA
+2024.0;CEF BOA ESPERANCA;Ceilândia;9308.0;;Capital;20000.0;20000.0;20000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;CEF BOA ESPERANCA
+2024.0;CEF BOA ESPERANCA;Ceilândia;9309.0;;Custeio;25000.0;25000.0;25000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;CEF BOA ESPERANCA
+2024.0;CEM 02 DE CEILANDIA;Ceilândia;9308.0;;Capital;15000.0;15000.0;15000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;CEM 02 de Ceilândia
+2024.0;CEM 02 DE CEILANDIA;Ceilândia;9309.0;;Custeio;20000.0;20000.0;20000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;CEM 02 de Ceilândia
+2024.0;CEM 03 DE CEILANDIA;Ceilândia;9308.0;;Capital;15000.0;15000.0;15000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;CEM 03 DE CEILANDIA
+2024.0;CEM 03 DE CEILANDIA;Ceilândia;9309.0;;Custeio;20000.0;20000.0;20000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;CEM 03 DE CEILANDIA
+2024.0;EC 01 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-10-18 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 01 de Ceilândia
+2024.0;EC 01 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-10-18 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 01 de Ceilândia
+2024.0;EC 02 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-11-26 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 02 DE CEILANDIA
+2024.0;EC 02 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-11-26 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 02 DE CEILANDIA
+2024.0;EC 03 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 03 DE CEILANDIA
+2024.0;EC 03 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 03 DE CEILANDIA
+2024.0;EC 06 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-10-12 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 06 DE CEILANDIA
+2024.0;EC 06 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-10-12 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 06 DE CEILANDIA
+2024.0;EC 07 DO GAMA;Gama;9308.0;;Capital;20000.0;20000.0;20000.0;;ESCOLA;CRE GAMA;;2024-09-30 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 07 DO GAMA
+2024.0;EC 07 DO GAMA;Gama;9309.0;;Custeio;22500.0;22500.0;22500.0;;ESCOLA;CRE GAMA;;2024-09-27 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 07 DO GAMA
+2024.0;EC 08 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 08 DE CEILANDIA
+2024.0;EC 08 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 08 DE CEILANDIA
+2024.0;EC 09 DO GAMA;Gama;9308.0;;Capital;20000.0;;;;ESCOLA;CRE GAMA;;INADIMPLENTE;Portaria nº 233, de 13 de março de 2024;;;;EC 09 DO GAMA
+2024.0;EC 09 DO GAMA;Gama;9309.0;;Custeio;22500.0;;;;ESCOLA;CRE GAMA;;INADIMPLENTE;Portaria nº 233, de 13 de março de 2024;;;;EC 09 DO GAMA
+2024.0;EC 10 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 10 de Ceilândia
+2024.0;EC 10 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 10 de Ceilândia
+2024.0;EC 11 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 11 DE CEILANDIA
+2024.0;EC 11 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 11 DE CEILANDIA
+2024.0;EC 111 SUL;Plano Piloto;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE PLANO PILOTO;;2024-05-20 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 111 SUL
+2024.0;EC 111 SUL;Plano Piloto;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE PLANO PILOTO;;2024-05-20 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 111 SUL
+2024.0;EC 12 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 12 DE CEILANDIA
+2024.0;EC 12 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 12 DE CEILANDIA
+2024.0;EC 13 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 13 de Ceilândia
+2024.0;EC 13 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 13 de Ceilândia
+2024.0;EC 15 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-22 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 15 de Ceilândia
+2024.0;EC 15 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-22 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 15 de Ceilândia
+2024.0;EC 16 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;CRE;CRE CEILÂNDIA;;2024-04-19 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 16 DE CEILANDIA
+2024.0;EC 16 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-19 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 16 DE CEILANDIA
+2024.0;EC 17 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 17 DE CEILANDIA
+2024.0;EC 17 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 17 DE CEILANDIA
+2024.0;EC 18 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 18 DE CEILANDIA
+2024.0;EC 18 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 18 DE CEILANDIA
+2024.0;EC 19 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-08-13 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 19 DE CEILANDIA
+2024.0;EC 19 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-08-13 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 19 DE CEILANDIA
+2024.0;EC 20 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-06-13 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 20 DE CEILANDIA
+2024.0;EC 20 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-06-13 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 20 DE CEILANDIA
+2024.0;EC 21 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-10 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 21 de Ceilândia
+2024.0;EC 21 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-10 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 21 de Ceilândia
+2024.0;EC 22 DE CEILANDIA;Ceilândia;9308.0;;Capital;20000.0;20000.0;20000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-19 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 22 DE CEILANDIA
+2024.0;EC 22 DE CEILANDIA;Ceilândia;9309.0;;Custeio;25000.0;25000.0;25000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-19 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 22 DE CEILANDIA
+2024.0;EC 24 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 24 DE CEILANDIA
+2024.0;EC 24 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 24 DE CEILANDIA
+2024.0;EC 25 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 25 DE CEILANDIA
+2024.0;EC 25 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 25 DE CEILANDIA
+2024.0;EC 26 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-20 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 26 DE CEILANDIA
+2024.0;EC 26 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-20 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 26 DE CEILANDIA
+2024.0;EC 27 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 27 DE CEILANDIA
+2024.0;EC 27 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 27 DE CEILANDIA
+2024.0;EC 28 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;CRE;CRE CEILÂNDIA;;2024-06-25 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 28 DE CEILANDIA
+2024.0;EC 28 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;CRE;CRE CEILÂNDIA;;2024-06-25 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 28 DE CEILANDIA
+2024.0;EC 29 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;;;;ESCOLA;CRE CEILÂNDIA;;INADIMPLENTE;Portaria nº 233, de 13 de março de 2024;;;;EC 29 de Ceilândia
+2024.0;EC 29 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;;;;ESCOLA;CRE CEILÂNDIA;;INADIMPLENTE;Portaria nº 233, de 13 de março de 2024;;;;EC 29 de Ceilândia
+2024.0;EC 31 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-06-05 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 31 DE CEILANDIA
+2024.0;EC 31 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-06-05 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 31 DE CEILANDIA
+2024.0;EC 33 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 33 DE CEILANDIA
+2024.0;EC 33 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 33 DE CEILANDIA
+2024.0;EC 34 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-08-10 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 34 DE CEILANDIA
+2024.0;EC 34 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-08-10 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 34 DE CEILANDIA
+2024.0;EC 35 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 35 de Ceilândia
+2024.0;EC 35 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 35 de Ceilândia
+2024.0;EC 36 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-19 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 36 DE CEILANDIA
+2024.0;EC 36 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-19 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 36 DE CEILANDIA
+2024.0;EC 38 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-06-05 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 38 DE CEILANDIA
+2024.0;EC 38 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-06-05 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 38 DE CEILANDIA
+2024.0;EC 39 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-06-05 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 39 DE CEILANDIA
+2024.0;EC 39 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-06-05 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 39 DE CEILANDIA
+2024.0;EC 40 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 40 DE CEILANDIA
+2024.0;EC 40 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 40 DE CEILANDIA
+2024.0;EC 43 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-27 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 43 DE CEILANDIA
+2024.0;EC 43 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-27 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 43 DE CEILANDIA
+2024.0;EC 45 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 45 DE CEILANDIA
+2024.0;EC 45 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 45 DE CEILANDIA
+2024.0;EC 46 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 46 DE CEILANDIA
+2024.0;EC 46 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 46 DE CEILANDIA
+2024.0;EC 47 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-06-05 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 47 DE CEILANDIA
+2024.0;EC 47 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-06-05 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 47 DE CEILANDIA
+2024.0;EC 48 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 48 de Ceilândia
+2024.0;EC 48 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 48 de Ceilândia
+2024.0;EC 50 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 50 de Ceilândia
+2024.0;EC 50 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 50 de Ceilândia
+2024.0;EC 52 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 52 DE CEILANDIA
+2024.0;EC 52 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 52 DE CEILANDIA
+2024.0;EC 55 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 55 DE CEILANDIA
+2024.0;EC 55 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 55 DE CEILANDIA
+2024.0;EC 56 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 56 de Ceilândia
+2024.0;EC 56 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-04-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 56 de Ceilândia
+2024.0;EC 59 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-08-10 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 59 de Ceilândia
+2024.0;EC 59 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-08-10 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 59 de Ceilândia
+2024.0;EC 61 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-07 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 61 DE CEILANDIA
+2024.0;EC 61 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-07 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 61 DE CEILANDIA
+2024.0;EC 62 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-15 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 62 de Ceilândia
+2024.0;EC 62 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-15 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 62 de Ceilândia
+2024.0;EC 64 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 64 DE CEILANDIA
+2024.0;EC 64 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 64 DE CEILANDIA
+2024.0;EC 65 DE CEILANDIA;Sol Nascente/Pôr do Sol;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-12-18 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 65 DE CEILANDIA
+2024.0;EC 65 DE CEILANDIA;Sol Nascente/Pôr do Sol;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-12-18 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 65 DE CEILANDIA
+2024.0;EC 66 DE CEILANDIA;Sol Nascente/Pôr do Sol;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 66 DE CEILANDIA
+2024.0;EC 66 DE CEILANDIA;Sol Nascente/Pôr do Sol;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 66 DE CEILANDIA
+2024.0;EC 68 DE CEILANDIA;Ceilândia;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 68 DE CEILANDIA
+2024.0;EC 68 DE CEILANDIA;Ceilândia;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC 68 DE CEILANDIA
+2024.0;EC APRODARMAS;Planaltina;9308.0;;Capital;20000.0;20000.0;20000.0;;ESCOLA;CRE PLANALTINA;;2024-09-07 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC APRODARMAS
+2024.0;EC APRODARMAS;Planaltina;9309.0;;Custeio;22500.0;22500.0;22500.0;;ESCOLA;CRE PLANALTINA;;2024-09-07 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC APRODARMAS
+2024.0;EC CORREGO DAS CORUJAS;Sol Nascente/Pôr do Sol;9308.0;;Capital;20000.0;20000.0;20000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-20 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC CORREGO DAS CORUJAS
+2024.0;EC CORREGO DAS CORUJAS;Sol Nascente/Pôr do Sol;9309.0;;Custeio;25000.0;25000.0;25000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-20 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC CORREGO DAS CORUJAS
+2024.0;EC CORREGO DO MEIO;Planaltina;9308.0;;Capital;20000.0;20000.0;20000.0;;ESCOLA;CRE PLANALTINA;;2024-04-29 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC Córrego do Meio
+2024.0;EC CORREGO DO MEIO;Planaltina;9309.0;;Custeio;22500.0;22500.0;22500.0;;ESCOLA;CRE PLANALTINA;;2024-04-29 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC Córrego do Meio
+2024.0;EC DO SETOR P NORTE;Sol Nascente/Pôr do Sol;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC DO SETOR P NORTE
+2024.0;EC DO SETOR P NORTE;Sol Nascente/Pôr do Sol;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC DO SETOR P NORTE
+2024.0;EC JIBOIA;Ceilândia;9308.0;;Capital;20000.0;20000.0;20000.0;;ESCOLA;CRE CEILÂNDIA;;2024-06-05 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC JIBOIA
+2024.0;EC JIBOIA;Ceilândia;9309.0;;Custeio;25000.0;25000.0;25000.0;;ESCOLA;CRE CEILÂNDIA;;2024-06-05 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC JIBOIA
+2024.0;EC JUSCELINO KUBITSCHEK - SOL NASCENTE;Sol Nascente/Pôr do Sol;9308.0;;Capital;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC JUSCELINO KUBITSCHEK SOL NASCENTE
+2024.0;EC JUSCELINO KUBITSCHEK - SOL NASCENTE;Sol Nascente/Pôr do Sol;9309.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE CEILÂNDIA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC JUSCELINO KUBITSCHEK SOL NASCENTE
+2024.0;EC LAJES DA JIBOIA;Ceilândia;9308.0;;Capital;20000.0;20000.0;20000.0;;ESCOLA;CRE CEILÂNDIA;;2024-06-05 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC LAJES DA JIBOIA
+2024.0;EC LAJES DA JIBOIA;Ceilândia;9309.0;;Custeio;25000.0;25000.0;25000.0;;ESCOLA;CRE CEILÂNDIA;;2024-06-05 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC LAJES DA JIBOIA
+2024.0;EC PARANA;Planaltina;9308.0;;Capital;20000.0;20000.0;20000.0;;ESCOLA;CRE PLANALTINA;;2024-05-20 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC PARANÁ
+2024.0;EC PARANA;Planaltina;9309.0;;Custeio;22500.0;22500.0;22500.0;;ESCOLA;CRE PLANALTINA;;2024-05-20 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;EC PARANÁ
+2024.0;CEF TAMANDUA;Gama;9308.0;;Capital;20000.0;20000.0;20000.0;;ESCOLA;CRE GAMA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;CEF TAMANDUÁ
+2024.0;CEF TAMANDUA;Gama;9309.0;;Custeio;22500.0;22500.0;22500.0;;ESCOLA;CRE GAMA;;2024-05-04 00:00:00;Portaria nº 233, de 13 de março de 2024;;;;CEF TAMANDUÁ
+2024.0;CEI 01 DE PLANALTINA;Planaltina;10094.0;;Custeio;50000.0;50000.0;50000.0;;ESCOLA;CRE PLANALTINA;;2024-05-15 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;CEI 01 DE PLANALTINA
+2024.0;CEF 03 DE PLANALTINA;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-15 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;CEF 03 de Planaltina
+2024.0;CEF SAO JOSE;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-15 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;CEF SAO JOSE
+2024.0;CED 03 DE PLANALTINA;Planaltina;10094.0;;Custeio;60000.0;60000.0;60000.0;;ESCOLA;CRE PLANALTINA;;2024-11-06 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;CED 03 de Planaltina
+2024.0;CEM 02 DE PLANALTINA;Planaltina;10094.0;;Custeio;60000.0;60000.0;60000.0;;ESCOLA;CRE PLANALTINA;;2024-05-20 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;CEM 02 DE PLANALTINA
+2024.0;EC 01 DO ARAPOANGA;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-14 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 01 DO ARAPOANGA
+2024.0;EC 01 DE PLANALTINA;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-14 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 01 DE PLANALTINA
+2024.0;EC 03 DE PLANALTINA;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-14 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 03 DE PLANALTINA
+2024.0;EC 04 DE PLANALTINA;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-15 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 04 DE PLANALTINA
+2024.0;EC 05 DE PLANALTINA;Planaltina;10094.0;;Custeio;30000.0;;;;ESCOLA;CRE PLANALTINA;;INADIMPLENTE;Portaria nº 455, de 19 de abril de 2024;;;;EC 05 de Planaltina
+2024.0;EC 06 DE PLANALTINA;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-10-24 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 06 de Planaltina
+2024.0;EC 07 DE PLANALTINA;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-09-10 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 07 DE PLANALTINA
+2024.0;EC 09 DE PLANALTINA;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-15 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 09 DE PLANALTINA
+2024.0;EC 10 DE PLANALTINA;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-15 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 10 DE PLANALTINA
+2024.0;EC 13 DE PLANALTINA;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-11-06 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 13 DE PLANALTINA
+2024.0;EC 14 DE PLANALTINA;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-15 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 14 de Planaltina
+2024.0;EC 15 DE PLANALTINA;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-14 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 15 DE PLANALTINA
+2024.0;EC 16 DE PLANALTINA;Planaltina;10094.0;;Custeio;50000.0;50000.0;50000.0;;ESCOLA;CRE PLANALTINA;;2024-05-15 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 16 de Planaltina
+2024.0;EC ALTA-MIR;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-20 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC ALTA MIR
+2024.0;EC BARRA ALTA;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-20 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC BARRA ALTA
+2024.0;EC COPERBRAS;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-20 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC COPERBRAS
+2024.0;EC ESTANCIA DE PLANALTINA;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-20 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC ESTANCIA DE PLANALTINA
+2024.0;EC ESTANCIA DO PIPIRIPAU;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-20 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC ESTANCIA DO PIPIRIPAU
+2024.0;EC ETA 44;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-12-24 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC ETA 44
+2024.0;EC JARDIM DOS IPÊS;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-20 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC JARDIM DOS IPES
+2024.0;EC MESTRE DARMAS;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-07-23 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC MESTRE DARMAS
+2024.0;EC MONJOLO;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-16 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC MONJOLO
+2024.0;EC NUCLEO RURAL CORREGO DO ATOLEIRO;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-16 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC NUCLEO RURAL CORREGO DO ATOLEIRO
+2024.0;EC PEDRA FUNDAMENTAL;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-20 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC Pedra Fundamental
+2024.0;EC RAJADINHA;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-17 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC RAJADINHA
+2024.0;EC REINO DAS FLORES;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-14 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC REINO DAS FLORES
+2024.0;EC SANTOS DUMONT;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-14 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC SANTOS DUMONT
+2024.0;EC VALE DO SOL;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-15 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC VALE DO SOL
+2024.0;EC VALE VERDE;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-15 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC VALE VERDE
+2024.0;JI CASA DE VIVENCIA;Planaltina;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE PLANALTINA;;2024-05-14 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;JI Casa de Vivência
+2024.0;CED ENGENHO DAS LAJES;Gama;10094.0;;Custeio;70000.0;70000.0;70000.0;;ESCOLA;CRE GAMA;;2024-05-15 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;CED ENGENHO DAS LAJES
+2024.0;CEM 02 DO GAMA;Gama;10094.0;;Custeio;70000.0;70000.0;70000.0;;ESCOLA;CRE GAMA;;2024-05-14 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;CEM 02 do Gama
+2024.0;JI 06 DO GAMA;Gama;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GAMA;;2024-12-19 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;JI 06 DO GAMA
+2024.0;EC 01 DO GAMA;Gama;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GAMA;;2024-05-14 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 01 DO GAMA
+2024.0;EC 02 DO GAMA;Gama;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GAMA;;2024-05-14 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 02 DO GAMA
+2024.0;EC 03 DO GAMA;Gama;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GAMA;;2024-05-14 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 03 DO GAMA
+2024.0;EC 06 DO GAMA;Gama;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GAMA;;2024-05-15 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 06 DO GAMA
+2024.0;EC 10 DO GAMA;Gama;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GAMA;;2024-05-15 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 10 DO GAMA
+2024.0;EC 12 DO GAMA;Gama;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GAMA;;2024-05-14 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 12 do Gama
+2024.0;EC 14 DO GAMA;Gama;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GAMA;;2024-05-15 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 14 do Gama
+2024.0;EC 15 DO GAMA;Gama;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GAMA;;2024-05-14 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 15 DO GAMA
+2024.0;EC 16 DO GAMA;Gama;10094.0;;Custeio;30000.0;;;;ESCOLA;CRE GAMA;;INADIMPLENTE;Portaria nº 455, de 19 de abril de 2024;;;;EC 16 DO GAMA
+2024.0;EC 17 DO GAMA;Gama;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GAMA;;2024-05-14 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 17 DO GAMA
+2024.0;EC 19 DO GAMA;Gama;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GAMA;;2024-05-15 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 19 DO GAMA
+2024.0;EC 22 DO GAMA;Gama;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GAMA;;2024-05-14 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 22 DO GAMA
+2024.0;EC 28 DO GAMA;Gama;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GAMA;;2024-05-14 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 28 DO GAMA
+2024.0;EC 29 DO GAMA;Gama;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GAMA;;2024-05-14 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC 29 do Gama
+2024.0;EC CORREGO BARREIRO;Gama;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GAMA;;2024-05-21 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC CORREGO BARREIRO
+2024.0;EC PONTE ALTA DE CIMA;Gama;10094.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GAMA;;2024-05-16 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;EC PONTE ALTA DE CIMA
+2024.0;CED 619 DE SAMAMBAIA;Samambaia;10094.0;;Custeio;50000.0;50000.0;50000.0;;ESCOLA;CRE SAMAMBAIA;;2024-05-15 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;CED 619 DE SAMAMBAIA
+2024.0;CED 619 DE SAMAMBAIA;Samambaia;10095.0;;Capital;30000.0;30000.0;30000.0;;ESCOLA;CRE SAMAMBAIA;;2024-05-15 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;CED 619 DE SAMAMBAIA
+2024.0;CED 01 DE BRASILIA;Plano Piloto;10094.0;;Custeio;50000.0;50000.0;50000.0;;ESCOLA;CRE PLANO PILOTO;;2024-05-16 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;CED 01 de Brasília
+2024.0;CED 01 DE BRASILIA;Plano Piloto;10095.0;;Capital;50000.0;50000.0;50000.0;;ESCOLA;CRE PLANO PILOTO;;2024-05-16 00:00:00;Portaria nº 455, de 19 de abril de 2024;;;;CED 01 de Brasília
+2024.0;CEM 09 DE CEILANDIA;Ceilândia;10974.0;;Capital;50000.0;50000.0;50000.0;;ESCOLA;CRE CEILÂNDIA;Revitalização laboratórios de ciências;2024-08-26 00:00:00;Portaria nº 1.011, de 16 de agosto de 2024;;;;CEM 09 de Ceilândia
+2024.0;CED 619 DE SAMAMBAIA;Samambaia;10974.0;;Capital;50000.0;50000.0;50000.0;;ESCOLA;CRE SAMAMBAIA;Revitalização de laboratórios de Ciências;2024-08-26 00:00:00;Portaria nº 1.011, de 16 de agosto de 2024;;;;CED 619 DE SAMAMBAIA
+2024.0;CEP - ESC TECNICA DE CEILANDIA;Ceilândia;10974.0;;Capital;100000.0;100000.0;100000.0;;ESCOLA;CRE CEILÂNDIA;;2024-02-09 00:00:00;Portaria nº 1.011, de 16 de agosto de 2024;;;;CEP ESCOLA TECNICA DE CEILANDIA
+2024.0;CRE CEILÂNDIA;Ceilândia;10975.0;;Custeio;200000.0;200000.0;200000.0;;CRE;CRE CEILÂNDIA;Festival de Música das Escolas e Projeto Eficientes;2024-09-20 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CRE CEILÂNDIA
+2024.0;CEM 09 DE CEILANDIA;Ceilândia;10975.0;;Custeio;50000.0;50000.0;50000.0;;ESCOLA;CRE CEILÂNDIA;Revitalização laboratórios de ciências;2024-09-20 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEM 09 de Ceilândia
+2024.0;CED 15 DE CEILANDIA;Ceilândia;10975.0;;Custeio;50000.0;50000.0;50000.0;;ESCOLA;CRE CEILÂNDIA;Revitalização laboratórios de ciências;2024-09-16 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CED 15 DE CEILANDIA
+2024.0;CEF 14 DE CEILANDIA;Ceilândia;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE CEILÂNDIA;;2024-12-17 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEF 14 DE CEILANDIA
+2024.0;CEF 04 DE CEILANDIA;Ceilândia;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE CEILÂNDIA;Projeto Judô;2024-09-10 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEF 04 DE CEILANDIA
+2024.0;CEF 32 DE CEILANDIA;Ceilândia;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEF 32 DE CEILANDIA
+2024.0;CEF 08 DE PLANALTINA;Planaltina;10975.0;;Custeio;20000.0;20000.0;20000.0;;ESCOLA;CRE PLANALTINA;;2024-10-30 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEF 08 DE PLANALTINA
+2024.0;EC 16 DE PLANALTINA;Planaltina;10975.0;;Custeio;20000.0;20000.0;20000.0;;ESCOLA;CRE PLANALTINA;;2024-09-27 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC 16 de Planaltina
+2024.0;CEF 02 DE PLANALTINA;Planaltina;10975.0;;Custeio;20000.0;20000.0;20000.0;;ESCOLA;CRE PLANALTINA;;2024-09-24 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEF 02 DE PLANALTINA
+2024.0;CEI 02 DE PLANALTINA;Planaltina;10975.0;;Custeio;50000.0;50000.0;50000.0;;ESCOLA;CRE PLANALTINA;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEI 02 de Planaltina
+2024.0;CEF RIO PRETO;Planaltina;10975.0;;Custeio;20000.0;20000.0;20000.0;;ESCOLA;CRE PLANALTINA;;2024-09-27 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEF RIO PRETO
+2024.0;CED VALE DO AMANHECER;Planaltina;10975.0;;Custeio;20000.0;;;;ESCOLA;CRE PLANALTINA;;INADIMPLENTE;Portaria nº 1.107, de 3 de setembro de 2024;;;;CED VALE DO AMANHECER
+2024.0;CED ESTANCIA III;Planaltina;10975.0;;Custeio;20000.0;;;;ESCOLA;CRE PLANALTINA;;INADIMPLENTE;Portaria nº 1.107, de 3 de setembro de 2024;;;;CED ESTANCIA III
+2024.0;CED OSORIO BACCHIN;Planaltina;10975.0;;Custeio;20000.0;20000.0;20000.0;;ESCOLA;CRE PLANALTINA;;2024-10-15 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CED OSORIO BACCHIN
+2024.0;CED PIPIRIPAU II;Planaltina;10975.0;;Custeio;20000.0;20000.0;20000.0;;ESCOLA;CRE PLANALTINA;;2024-08-10 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CED PIPIRIPAU II
+2024.0;CED TAQUARA;Planaltina;10975.0;;Custeio;20000.0;20000.0;20000.0;;ESCOLA;CRE PLANALTINA;;2024-09-18 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CED TAQUARA
+2024.0;CED VARZEAS;Planaltina;10975.0;;Custeio;20000.0;20000.0;20000.0;;ESCOLA;CRE PLANALTINA;;2024-09-27 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CED VARZEAS
+2024.0;CAIC CARLOS CASTELLO BRANCO;Gama;10975.0;;Custeio;20000.0;20000.0;20000.0;;ESCOLA;CRE GAMA;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CAIC CARLOS CASTELLO BRANCO
+2024.0;CED 07 DO GAMA;Gama;10975.0;;Custeio;20000.0;20000.0;20000.0;;ESCOLA;CRE GAMA;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CED 07 DO GAMA
+2024.0;CED CASA GRANDE;Gama;10975.0;;Custeio;20000.0;20000.0;20000.0;;ESCOLA;CRE GAMA;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CED Casa Grande
+2024.0;CEM 03 DO GAMA;Gama;10975.0;;Custeio;20000.0;20000.0;20000.0;;ESCOLA;CRE GAMA;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEM 03 DO GAMA
+2024.0;CED 06 DO GAMA;Gama;10975.0;;Custeio;20000.0;20000.0;20000.0;;ESCOLA;CRE GAMA;;2024-09-24 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CED 06 do Gama
+2024.0;CEM 414 DE SAMAMBAIA;Samambaia;10975.0;;Custeio;50000.0;50000.0;50000.0;;ESCOLA;CRE SAMAMBAIA;Revitalização de laboratórios de Ciências;2024-09-17 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEM 414 de Samambaia
+2024.0;CED 619 DE SAMAMBAIA;Samambaia;10975.0;;Custeio;50000.0;50000.0;50000.0;;ESCOLA;CRE SAMAMBAIA;Revitalização de laboratórios de Ciências;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CED 619 DE SAMAMBAIA
+2024.0;EC 303 DE SAMAMBAIA;Samambaia;10975.0;;Custeio;30000.0;30000.0;30000.0;;CRE;CRE SAMAMBAIA;;2024-09-20 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC 303 DE SAMAMBAIA
+2024.0;EC 410 DE SAMAMBAIA;Samambaia;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE SAMAMBAIA;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC 410 DE SAMAMBAIA
+2024.0;CRE GUARÁ;Guará;10975.0;;Custeio;60000.0;60000.0;60000.0;;ESCOLA;CRE GUARÁ;Projeto CAPOESCO;2024-09-20 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CRE GUARÁ
+2024.0;CED 01 DO GUARA;Guará;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GUARÁ;;2024-09-27 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CED 01 do Guará
+2024.0;EC 07 DO GUARA;Guará;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GUARÁ;;2024-09-20 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC 07 do Guará
+2024.0;CED 03 DO GUARA;Guará;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GUARÁ;;2024-12-20 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CED 03 DO GUARA
+2024.0;CRE TAGUATINGA;Taguatinga;10975.0;;Custeio;30000.0;30000.0;30000.0;;CRE;CRE TAGUATINGA;;2024-09-20 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CRE TAGUATINGA
+2024.0;ESC MENINOS E MENINAS DO PARQUE;Plano Piloto;10975.0;;Custeio;50000.0;50000.0;50000.0;;ESCOLA;CRE PLANO PILOTO;;2024-09-27 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;Escola Meninos e Meninas do Parque
+2024.0;CEI 01 DE SAO SEBASTIAO;São Sebastião;10975.0;;Custeio;30000.0;30000.0;30000.0;;CRE;CRE SÃO SEBASTIÃO;;2024-09-20 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEI 01 DE SAO SEBASTIAO
+2024.0;CEI 03 DE SAO SEBASTIAO;São Sebastião;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE SÃO SEBASTIÃO;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEI 03 DE SAO SEBASTIAO
+2024.0;CEI 05 DE SAO SEBASTIAO;São Sebastião;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE SÃO SEBASTIÃO;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEI 05 DE SAO SEBASTIAO
+2024.0;CEI PARQUE DOS IPES;São Sebastião;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE SÃO SEBASTIÃO;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEI PARQUE DOS IPES
+2024.0;CIL 01 DE SAO SEBASTIAO;São Sebastião;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE SÃO SEBASTIÃO;;2024-09-20 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CIL 01 DE SAO SEBASTIAO
+2024.0;CAIC UNESCO;São Sebastião;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE SÃO SEBASTIÃO;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CAIC UNESCO
+2024.0;EC AGROVILA SAO SEBASTIAO;São Sebastião;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE SÃO SEBASTIÃO;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC AGROVILA SAO SEBASTIAO
+2024.0;EC VILA NOVA;São Sebastião;10975.0;;Custeio;30000.0;30000.0;30000.0;;CRE;CRE SÃO SEBASTIÃO;;2024-09-20 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC VILA NOVA
+2024.0;EC VILA DO BOA;São Sebastião;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE SÃO SEBASTIÃO;;2024-09-17 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC VILA DO BOA
+2024.0;EC VILA DO BOA;São Sebastião;10975.0;;Custeio;30000.0;30000.0;30000.0;;CRE;CRE SÃO SEBASTIÃO;;2024-09-20 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC VILA DO BOA
+2024.0;EC DOM BOSCO;São Sebastião;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE SÃO SEBASTIÃO;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC DOM BOSCO
+2024.0;EC CERAMICA DA BENCAO;São Sebastião;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE SÃO SEBASTIÃO;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC CERAMICA DA BENCAO
+2024.0;EC CACHOEIRINHA;São Sebastião;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE SÃO SEBASTIÃO;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC CACHOEIRINHA
+2024.0;EC BELA VISTA;São Sebastião;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE SÃO SEBASTIÃO;;2024-09-17 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC BELA VISTA
+2024.0;EC AGUILHADA;São Sebastião;10975.0;;Custeio;50000.0;50000.0;50000.0;;ESCOLA;CRE SÃO SEBASTIÃO;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC AGUILHADA
+2024.0;EC 104 DE SAO SEBASTIAO;São Sebastião;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE SÃO SEBASTIÃO;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC 104 DE SAO SEBASTIAO
+2024.0;EC 303 DE SAO SEBASTIAO;São Sebastião;10975.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE SÃO SEBASTIÃO;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC 303 DE SAO SEBASTIAO
+2024.0;CEM 09 DE CEILANDIA;Ceilândia;11797.0;;Custeio;15000.0;15000.0;15000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-20 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEM 09 de Ceilândia
+2024.0;CEM 03 DE CEILANDIA;Ceilândia;11797.0;;Custeio;78000.0;78000.0;78000.0;;CRE;CRE CEILÂNDIA;;2024-09-20 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEM 03 DE CEILANDIA
+2024.0;EC 59 DE CEILANDIA;Ceilândia;11797.0;;Custeio;25000.0;25000.0;25000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-27 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC 59 de Ceilândia
+2024.0;CEF 27 DE CEILANDIA;Ceilândia;11797.0;;Custeio;20000.0;20000.0;20000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEF 27 de Ceilândia
+2024.0;CEF 20 DE CEILANDIA;Ceilândia;11797.0;;Custeio;20000.0;20000.0;20000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEF 20 DE CEILANDIA
+2024.0;CEM 12 DE CEILANDIA;Ceilândia;11797.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE CEILÂNDIA;Projeto Hip Hop;2024-09-20 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEM 12 de Ceilândia
+2024.0;CEM 09 DE CEILANDIA;Ceilândia;11797.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE CEILÂNDIA;Projeto Hip Hop;2024-09-20 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEM 09 de Ceilândia
+2024.0;CEM 03 DE CEILANDIA;Ceilândia;11797.0;;Custeio;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-09-20 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEM 03 DE CEILANDIA
+2024.0;CEM 02 DE CEILANDIA;Ceilândia;11797.0;;Custeio;20000.0;;;;ESCOLA;CRE CEILÂNDIA;;INADIMPLENTE;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEM 02 de Ceilândia
+2024.0;CEM 04 DE CEILANDIA;Ceilândia;11797.0;;Custeio;20000.0;20000.0;20000.0;;ESCOLA;CRE CEILÂNDIA;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEM 04 de Ceilândia
+2024.0;EC JUSCELINO KUBITSCHEK - SOL NASCENTE;Sol Nascente/Pôr do Sol;11797.0;;Custeio;20000.0;;;;ESCOLA;CRE CEILÂNDIA;;INADIMPLENTE;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC JUSCELINO KUBITSCHEK SOL NASCENTE
+2024.0;CEM 04 DE SOBRADINHO;Sobradinho;11797.0;;Custeio;40000.0;40000.0;40000.0;;ESCOLA;CRE SOBRADINHO;Projeto Pedagoginga;2024-09-27 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEM 04 DE SOBRADINHO
+2024.0;EC 18 DO GAMA;Gama;11797.0;;Custeio;50000.0;50000.0;50000.0;;ESCOLA;CRE GAMA;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC 18 do Gama
+2024.0;CEF 10 DO GAMA;Gama;11797.0;;Custeio;40000.0;40000.0;40000.0;;ESCOLA;CRE GAMA;;2024-09-24 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEF 10 do Gama
+2024.0;EC 10 DE SOBRADINHO;Sobradinho;11797.0;;Custeio;62000.0;62000.0;62000.0;;ESCOLA;CRE SOBRADINHO;;2024-09-23 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC 10 DE SOBRADINHO
+2024.0;CEM 404 DE SANTA MARIA;Santa Maria;11797.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE SANTA MARIA;;2024-09-17 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEM 404 DE SANTA MARIA
+2024.0;CEM 417 DE SANTA MARIA;Santa Maria;11797.0;;Custeio;10000.0;10000.0;10000.0;;ESCOLA;CRE SANTA MARIA;;2024-11-14 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;CEM 417 DE SANTA MARIA
+2024.0;EC 17 DE TAGUATINGA;Taguatinga;11797.0;;Custeio;20000.0;20000.0;20000.0;;ESCOLA;CRE TAGUATINGA;;2024-09-17 00:00:00;Portaria nº 1.107, de 3 de setembro de 2024;;;;EC 17 DE TAGUATINGA
+2024.0;CEM 02 DE CEILANDIA;Ceilândia;12829.0;;Custeio;50000.0;50000.0;50000.0;;ESCOLA;CRE CEILÂNDIA;;2024-11-12 00:00:00;Portaria nº 1.470, de 21 de novembro de 2024;;;;CEM 02 de Ceilândia
+2024.0;CED SAO JOSE;São Sebastião;12829.0;;Custeio;50000.0;50000.0;50000.0;;CRE;CRE SÃO SEBASTIÃO;;2024-11-12 00:00:00;Portaria nº 1.470, de 21 de novembro de 2024;;;;CED SAO JOSE
+2024.0;CEF PONTE ALTA DO BAIXO;Gama;12829.0;;Custeio;30000.0;30000.0;30000.0;;ESCOLA;CRE GAMA;;2024-11-12 00:00:00;Portaria nº 1.470, de 21 de novembro de 2024;;;;CEF PONTE ALTA DO BAIXO
+2024.0;CEM 02 DE CEILANDIA;Ceilândia;12830.0;;Capital;120000.0;120000.0;120000.0;;ESCOLA;CRE CEILÂNDIA;;2024-11-12 00:00:00;Portaria nº 1.470, de 21 de novembro de 2024;;;;CEM 02 de Ceilândia
+2024.0;CED INCRA 09;Ceilândia;12830.0;;Capital;50000.0;50000.0;50000.0;;ESCOLA;CRE CEILÂNDIA;;2024-11-12 00:00:00;Portaria nº 1.470, de 21 de novembro de 2024;;;;CED INCRA 09
+2024.0;CEF BOA ESPERANCA;Ceilândia;12830.0;;Capital;50000.0;50000.0;50000.0;;ESCOLA;CRE CEILÂNDIA;;2024-11-12 00:00:00;Portaria nº 1.470, de 21 de novembro de 2024;;;;CEF BOA ESPERANCA
+2024.0;EC CORREGO DAS CORUJAS;Sol Nascente/Pôr do Sol;12830.0;;Capital;50000.0;50000.0;50000.0;;ESCOLA;CRE CEILÂNDIA;;2024-11-12 00:00:00;Portaria nº 1.470, de 21 de novembro de 2024;;;;EC CORREGO DAS CORUJAS
+2024.0;EC JIBOIA;Ceilândia;12830.0;;Capital;50000.0;50000.0;50000.0;;ESCOLA;CRE CEILÂNDIA;;2024-11-12 00:00:00;Portaria nº 1.470, de 21 de novembro de 2024;;;;EC JIBOIA
+2024.0;EC LAJES DA JIBOIA;Ceilândia;12830.0;;Capital;50000.0;50000.0;50000.0;;ESCOLA;CRE CEILÂNDIA;;2024-11-12 00:00:00;Portaria nº 1.470, de 21 de novembro de 2024;;;;EC LAJES DA JIBOIA
+2024.0;EC GUARIROBA;Samambaia;12830.0;;Capital;50000.0;50000.0;50000.0;;ESCOLA;CRE SAMAMBAIA;;2024-11-12 00:00:00;Portaria nº 1.470, de 21 de novembro de 2024;;;;EC Guariroba
+2024.0;CED SAO JOSE;São Sebastião;12830.0;;Capital;180000.0;180000.0;180000.0;;ESCOLA;CRE SÃO SEBASTIÃO;;2024-11-12 00:00:00;Portaria nº 1.470, de 21 de novembro de 2024;;;;CED SAO JOSE
+2024.0;CEF NOVA BETANIA;São Sebastião;12830.0;;Capital;50000.0;50000.0;50000.0;;ESCOLA;CRE SÃO SEBASTIÃO;;2024-11-12 00:00:00;Portaria nº 1.470, de 21 de novembro de 2024;;;;CEF NOVA BETANIA
+2024.0;EC AGUILHADA;São Sebastião;12830.0;;Capital;50000.0;50000.0;50000.0;;ESCOLA;CRE SÃO SEBASTIÃO;;2024-11-12 00:00:00;Portaria nº 1.470, de 21 de novembro de 2024;;;;EC AGUILHADA
+2024.0;EC CACHOEIRINHA;São Sebastião;12830.0;;Capital;50000.0;50000.0;50000.0;;ESCOLA;CRE SÃO SEBASTIÃO;;2024-11-12 00:00:00;Portaria nº 1.470, de 21 de novembro de 2024;;;;EC CACHOEIRINHA
+2024.0;EC SAO BARTOLOMEU;São Sebastião;12830.0;;Capital;50000.0;50000.0;50000.0;;ESCOLA;CRE SÃO SEBASTIÃO;;2024-11-12 00:00:00;Portaria nº 1.470, de 21 de novembro de 2024;;;;EC SAO BARTOLOMEU
+2024.0;CEM 09 DE CEILANDIA;Ceilândia;11796.0;;Capital;50000.0;50000.0;50000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEM 09 de Ceilândia
+2024.0;CEM 03 DE CEILANDIA;Ceilândia;11796.0;;Capital;100000.0;100000.0;100000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEM 03 DE CEILANDIA
+2024.0;CED 15 DE CEILANDIA;Ceilândia;11796.0;;Capital;100000.0;100000.0;100000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CED 15 DE CEILANDIA
+2024.0;CED 11 DE CEILANDIA;Ceilândia;11796.0;;Capital;50000.0;50000.0;50000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CED 11 DE CEILANDIA
+2024.0;EC 59 DE CEILANDIA;Ceilândia;11796.0;;Capital;25000.0;25000.0;25000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;EC 59 de Ceilândia
+2024.0;CEF 27 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF 27 de Ceilândia
+2024.0;CEF 16 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF 16 DE CEILANDIA
+2024.0;EC 27 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;EC 27 DE CEILANDIA
+2024.0;EC 65 DE CEILANDIA;Sol Nascente/Pôr do Sol;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;EC 65 DE CEILANDIA
+2024.0;EC 66 DE CEILANDIA;Sol Nascente/Pôr do Sol;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;EC 66 DE CEILANDIA
+2024.0;CAIC BERNARDO SAYAO;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CAIC Bernardo Sayão
+2024.0;EP ANISIO TEIXEIRA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;EP ANISIO TEIXEIRA
+2024.0;CED 07 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CED 07 DE CEILANDIA
+2024.0;CEI 01 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEI 01 DE CEILANDIA
+2024.0;CED 14 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CED 14 DE CEILANDIA
+2024.0;CED 16 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CED 16 DE CEILANDIA
+2024.0;CEE 01 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEE 01 DE CEILANDIA
+2024.0;CEE 02 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEE 02 DE CEILANDIA
+2024.0;CEF 07 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF 07 DE CEILANDIA
+2024.0;CEF 10 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF 10 DE CEILANDIA
+2024.0;CEF 11 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF 11 DE CEILANDIA
+2024.0;CEF 12 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF 12 DE CEILANDIA
+2024.0;CEF 13 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF 13 de Ceilândia
+2024.0;CEM 04 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEM 04 de Ceilândia
+2024.0;CEM 10 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEM 10 DE CEILANDIA
+2024.0;CEM 12 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEM 12 de Ceilândia
+2024.0;EC 15 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;EC 15 de Ceilândia
+2024.0;CEF 30 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF 30 DE CEILANDIA
+2024.0;CEF PROF MARIA DO ROSARIO GONDIM DA SILVA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF Professora Maria do Rosário Gondim da Silva
+2024.0;EC 50 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;EC 50 de Ceilândia
+2024.0;CIL DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CIL DE CEILANDIA
+2024.0;CAIC PROF ANISIO TEIXEIRA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CAIC PROFESSOR ANÍSIO TEIXEIRA
+2024.0;CEF 02 DE CEILANDIA;Ceilândia;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE CEILÂNDIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF 02 DE CEILANDIA
+2024.0;CEP - ESC TECNICA DE PLANALTINA;Planaltina;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE PLANALTINA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEP ESCOLA TECNICA DE PLANALTINA
+2024.0;CAIC ASSIS CHATEAUBRIAND;Planaltina;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE PLANALTINA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CAIC ASSIS CHATEAUBRIAND
+2024.0;CEF 02 DO ARAPOANGA;Planaltina;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE PLANALTINA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF 02 do Arapoanga
+2024.0;CEF 04 DE PLANALTINA;Planaltina;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE PLANALTINA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF 04 DE PLANALTINA
+2024.0;CEF ARAPOANGA;Planaltina;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE PLANALTINA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF ARAPOANGA
+2024.0;CEF BONSUCESSO;Planaltina;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE PLANALTINA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF BONSUCESSO
+2024.0;CEF JUSCELINO KUBITSCHEK;Planaltina;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE PLANALTINA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF JUSCELINO KUBITSCHEK
+2024.0;CEI PALMEIRAS;Planaltina;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE PLANALTINA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEI PALMEIRAS
+2024.0;CEI PIPIRIPAU;Planaltina;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE PLANALTINA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEI PIPIRIPAU
+2024.0;CED AGUAS DO CERRADO (CEDAC);Planaltina;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE PLANALTINA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CED AGUAS DO CERRADO CEDAC
+2024.0;EC 18 DO GAMA;Gama;11796.0;;Capital;30000.0;30000.0;30000.0;;CRE;CRE GAMA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;EC 18 do Gama
+2024.0;CEM INTEGRADO A EDUC PROFISSIONAL DO GAMA;Gama;11796.0;;Capital;60000.0;60000.0;60000.0;;CRE;CRE GAMA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEM INTEGRADO A EDUC PROFISSIONAL DO GAMA
+2024.0;CEM 02 DO GAMA;Gama;11796.0;;Capital;50000.0;50000.0;50000.0;;CRE;CRE GAMA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEM 02 do Gama
+2024.0;CEF 10 DO GAMA;Gama;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE GAMA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF 10 do Gama
+2024.0;CEE 01 DO GAMA;Gama;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE GAMA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEE 01 DO GAMA
+2024.0;CEF 03 DO GAMA;Gama;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE GAMA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF 03 DO GAMA
+2024.0;CEF PONTE ALTA DO BAIXO;Gama;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE GAMA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF PONTE ALTA DO BAIXO
+2024.0;CEF PONTE ALTA NORTE;Gama;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE GAMA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF PONTE ALTA NORTE
+2024.0;CEI 01 DO GAMA;Gama;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE GAMA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEI 01 DO GAMA
+2024.0;CIL DO GAMA;Gama;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE GAMA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CIL DO GAMA
+2024.0;JI 02 DO GAMA;Gama;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE GAMA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;JI 02 DO GAMA
+2024.0;JI 03 DO GAMA;Gama;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE GAMA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;JI 03 do Gama
+2024.0;JI 04 DO GAMA;Gama;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE GAMA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;JI 04 DO GAMA
+2024.0;JI 05 DO GAMA;Gama;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE GAMA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;JI 05 DO GAMA
+2024.0;EC 10 DE SOBRADINHO;Sobradinho;11796.0;;Capital;25000.0;25000.0;25000.0;;CRE;CRE SOBRADINHO;;2025-06-01 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;EC 10 DE SOBRADINHO
+2024.0;CEM 04 DE SOBRADINHO;Sobradinho;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE SOBRADINHO;;2025-06-01 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEM 04 DE SOBRADINHO
+2024.0;CEM 404 DE SANTA MARIA;Santa Maria;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE SANTA MARIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEM 404 DE SANTA MARIA
+2024.0;CEM 417 DE SANTA MARIA;Santa Maria;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE SANTA MARIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEM 417 DE SANTA MARIA
+2024.0;EC 01 DO PORTO RICO;Santa Maria;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE SANTA MARIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;EC 01 DO PORTO RICO
+2024.0;CEF 418 DE SANTA MARIA;Santa Maria;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE SANTA MARIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF 418 de Santa Maria
+2024.0;CEM 414 DE SAMAMBAIA;Samambaia;11796.0;;Capital;100000.0;100000.0;100000.0;;CRE;CRE SAMAMBAIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEM 414 de Samambaia
+2024.0;CED 619 DE SAMAMBAIA;Samambaia;11796.0;;Capital;50000.0;50000.0;50000.0;;CRE;CRE SAMAMBAIA;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CED 619 DE SAMAMBAIA
+2024.0;CEF NOVA BETANIA;São Sebastião;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE SÃO SEBASTIÃO;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF NOVA BETANIA
+2024.0;CEF MIGUEL ARCANJO;São Sebastião;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE SÃO SEBASTIÃO;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEF MIGUEL ARCANJO
+2024.0;CED SAO BARTOLOMEU;São Sebastião;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE SÃO SEBASTIÃO;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CED SAO BARTOLOMEU
+2024.0;CED SAO FRANCISCO;São Sebastião;11796.0;;Capital;40000.0;40000.0;40000.0;;CRE;CRE SÃO SEBASTIÃO;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CED SAO FRANCISCO
+2024.0;CED ZUMBI DOS PALMARES;São Sebastião;11796.0;;Capital;40000.0;40000.0;40000.0;;CRE;CRE SÃO SEBASTIÃO;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CED ZUMBI DOS PALMARES
+2024.0;CEM 01 DE SAO SEBASTIAO;São Sebastião;11796.0;;Capital;20000.0;20000.0;20000.0;;CRE;CRE SÃO SEBASTIÃO;;2024-12-27 00:00:00;Portaria nº 1.733, de 19 de dezembro de 2024;;;;CEM 01 DE SAO SEBASTIAO
+2025.0;CAIC BERNARDO SAYAO;Ceilândia;14781.0;Abril;Custeio;100000.0;100000.0;100000.0;;;;;;;2025OB38514;2025-05-20 00:00:00;;CAIC Bernardo Sayão
+2025.0;CAIC PROF ANISIO TEIXEIRA;Ceilândia;13610.0;Fevereiro;Custeio;100000.0;100000.0;100000.0;;;;;;;2025OB23504;2025-03-25 00:00:00;;CAIC PROFESSOR ANÍSIO TEIXEIRA
+2025.0;CED 01 DE BRASILIA;Plano Piloto;14781.0;Abril;Custeio;60000.0;60000.0;60000.0;;;;;;;2025OB38566;2025-05-20 00:00:00;;CED 01 de Brasília
+2025.0;CED 01 DE BRASILIA;Plano Piloto;14782.0;Abril;Capital;100000.0;100000.0;100000.0;;;;;;;2025OB41412;2025-12-29 00:00:00;;CED 01 de Brasília
+2025.0;CED 06 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;40000.0;40000.0;;;;;;;;;;;CED 06 DE CEILANDIA
+2025.0;CED 06 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;25000.0;25000.0;;;;;;;;;;;CED 06 DE CEILANDIA
+2025.0;CED 06 DO GAMA;Gama;13610.0;Fevereiro;Custeio;50000.0;30000.0;50000.0;;;;"-Realizou a troca de 31 fechaduras;
+-Pagou serralheria para arrumar estrutura da tenda;
+-Pagamento de gás.";;;2025OB23503;2025-03-25 00:00:00;;CED 06 do Gama
+2025.0;CED 08 DO GAMA;Gama;13610.0;Fevereiro;Custeio;50000.0;30000.0;50000.0;;;;"-Compra de 7 quadros grandes de vidro; 
+-Película nas portas e janela; 
+- Quadro de avisos;
+- 16 quadros pequenos de vidro.";;;2025OB23505;2025-03-25 00:00:00;;CED 08 DO GAMA
+2025.0;CED 14 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;30000.0;25000.0;30000.0;;;;;;;2025OB89115;2025-04-12 00:00:00;;CED 14 DE CEILANDIA
+2025.0;CED 15 DE CEILANDIA;Ceilândia;14782.0;Abril;Capital;50000.0;40000.0;50000.0;;;;;;;2025OB38517;2025-05-20 00:00:00;;CED 15 DE CEILANDIA
+2025.0;CED 16 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;30000.0;30000.0;;;;;;;;;;;CED 16 DE CEILANDIA
+2025.0;CED 16 DE CEILANDIA;Ceilândia;13610.0;Fevereiro;Custeio;60000.0;30000.0;60000.0;;;;;;;2025OB23237;2025-03-24 00:00:00;;CED 16 DE CEILANDIA
+2025.0;CED 16 DE CEILANDIA;Ceilândia;16492.0;Julho;Capital;30000.0;30000.0;30000.0;;;;;;;2025OB93611;2025-12-22 00:00:00;;CED 16 DE CEILANDIA
+2025.0;CED 310 DE SANTA MARIA;Santa Maria;16492.0;Julho;Capital;50000.0;50000.0;50000.0;;;;;;;00080-00331872/2025-95;;;CED 310 DE SANTA MARIA
+2025.0;CED DARCY RIBEIRO;Paranoá;16743.0;Agosto;Custeio;50000.0;50000.0;;;;;;;;2025OB89107;2025-04-12 00:00:00;;CED Darcy Ribeiro
+2025.0;CED DONA AMERICA GUIMARAES;Planaltina;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;;;;2025OB23513;2025-03-25 00:00:00;;CED DONA AMERICA GUIMARAES
+2025.0;CED ENGENHO DAS LAJES;Gama;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;Vai utilizar o recurso em janeiro de 2025.;;;2025OB23376;2025-03-25 00:00:00;;CED ENGENHO DAS LAJES
+2025.0;CED PAD;Paranoá;14781.0;Abril;Custeio;20000.0;20000.0;20000.0;;;;;;;2025OB39046;2025-05-22 00:00:00;;CED PAD
+2025.0;CED POMPILIO MARQUES DE SOUZA;Planaltina;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;Finalização das obras do refeitório e das salas do EMTI;;;2025OB23377;2025-03-25 00:00:00;;CED POMPÍLIO MARQUES DE SOUZA
+2025.0;CED SAO FRANCISCO;São Sebastião;16743.0;Agosto;Custeio;50000.0;50000.0;;;;;;;;;;;CED SAO FRANCISCO
+2025.0;CED STELLA DOS CHERUBINS GUIMARAES TROIS;Planaltina;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;;;;2025OB23379;2025-03-25 00:00:00;;CED Stella dos Cherubins Guimarães Trois
+2025.0;CED TAQUARA;Planaltina;16743.0;Agosto;Custeio;50000.0;50000.0;;;;;;;;2025OB89344;2025-04-12 00:00:00;;CED TAQUARA
+2025.0;CED VALE DO AMANHECER;Planaltina;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;Projeto pedagógico;;;2025OB23378;2025-03-25 00:00:00;;CED VALE DO AMANHECER
+2025.0;CEE 01 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;25000.0;25000.0;25000.0;;;;;;;2026OB04676;2026-01-19 00:00:00;;CEE 01 DE CEILANDIA
+2025.0;CEE 01 DE PLANALTINA;Planaltina;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;;;;2025OB23370;2025-03-25 00:00:00;;CEE 01 DE PLANALTINA
+2025.0;CEE 02 DE CEILANDIA;Ceilândia;14781.0;Abril;Custeio;50000.0;50000.0;50000.0;;;;;;;2025OB42337;2025-02-06 00:00:00;;CEE 02 DE CEILANDIA
+2025.0;CEE 02 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;25000.0;25000.0;25000.0;;;;;;;2025OB87712;2025-01-12 00:00:00;;CEE 02 DE CEILANDIA
+2025.0;CEF 01 DO GAMA;Gama;14781.0;Abril;Custeio;60000.0;60000.0;60000.0;;;;Compra de kits de robótica;;;2025OB38800;2025-05-21 00:00:00;;CEF 01 do Gama
+2025.0;CEF 01 DO VARJAO;Varjão;17250.0;Setembro;Custeio;25000.0;25000.0;25000.0;;;;"Projeto contemplado no Edital Hip Hop nas Escolas:
+- Consciência em Movimento - Hip Hop, Basquete e Arte no CEF 01.";;;2026OB04677;2026-01-19 00:00:00;;CEF 01 DO VARJAO
+2025.0;CEF 02 DO ARAPOANGA;Planaltina;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;Reparo dos murais em cerâmica da unidade escolar.;;;2025OB23390;2025-03-25 00:00:00;;CEF 02 do Arapoanga
+2025;CEF 03 DE PLANALTINA;Planaltina;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;Manutenção e reforma da sala de podcast;;;2025OB23518;2025-03-25 00:00:00;;CEF 03 de Planaltina
+2025.0;CEF 03 DO GAMA;Gama;16743.0;Agosto;Custeio;30000.0;30000.0;30000.0;;;;;;;2025OB87455;2025-01-12 00:00:00;;CEF 03 DO GAMA
+2025.0;CEF 04 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;30000.0;30000.0;30000.0;;;;;;;2025OB95558;2025-12-29 00:00:00;;CEF 04 DE CEILANDIA
+2025.0;CEF 04 DO GAMA;Gama;14782.0;Abril;Capital;40000.0;40000.0;40000.0;;;;;;;2025OB38667;2025-05-21 00:00:00;;CEF 04 DO GAMA
+2025.0;CEF 05 DO GAMA;Gama;14782.0;Abril;Capital;40000.0;40000.0;40000.0;;;;;;;2025OB38813;2025-05-21 00:00:00;;CEF 05 DO GAMA
+2025.0;CEF 08 DO GAMA;Gama;14782.0;Abril;Capital;40000.0;40000.0;40000.0;;;;;;;2025OB38540;2025-05-20 00:00:00;;CEF 08 DO GAMA
+2025.0;CEF 10 DO GAMA;Gama;16492.0;Julho;Capital;45000.0;45000.0;45000.0;;;;Previsão: Compra de equipamento audiovisual e tantantan;;;2025OB91719;2025-12-16 00:00:00;;CEF 10 do Gama
+2025.0;CEF 14 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;20000.0;20000.0;20000.0;;;;;;;2025OB87453;2025-01-12 00:00:00;;CEF 14 DE CEILANDIA
+2025.0;CEF 14 DE CEILANDIA;Ceilândia;16492.0;Julho;Capital;10000.0;10000.0;10000.0;;;;;;;2025OB91298;2025-12-15 00:00:00;;CEF 14 DE CEILANDIA
+2025.0;CEF 15 DO GAMA;Gama;16492.0;Julho;Capital;60000.0;60000.0;60000.0;;;;;;;2025OB93575;2025-12-22 00:00:00;;CEF 15 do Gama
+2025.0;CEF 18 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;20000.0;20000.0;20000.0;;;;;;;2025OB87446;2025-01-12 00:00:00;;CEF 18 DE CEILANDIA
+2025.0;CEF 18 DE CEILANDIA;Ceilândia;16492.0;Julho;Capital;20000.0;20000.0;20000.0;;;;;;;2025OB90742;2025-10-12 00:00:00;;CEF 18 DE CEILANDIA
+2025.0;CEF 19 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;20000.0;20000.0;20000.0;;;;;;;2025OB87458;2025-01-12 00:00:00;;CEF 19 de Ceilândia
+2025.0;CEF 19 DE CEILANDIA;Ceilândia;16492.0;Julho;Capital;20000.0;20000.0;20000.0;;;;;;;2025OB91305;2025-12-15 00:00:00;;CEF 19 de Ceilândia
+2025.0;CEF 25 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;30000.0;30000.0;;;;;;;;;;;CEF 25 DE CEILANDIA
+2025.0;CEF 25 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;25000.0;25000.0;;;;;;;;;;;CEF 25 DE CEILANDIA
+2025.0;CEF 26 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;30000.0;30000.0;30000.0;;;;;;;2025OB87717;2025-01-12 00:00:00;;CEF 26 DE CEILANDIA
+2025.0;CEF 27 DE CEILANDIA;Ceilândia;13610.0;Fevereiro;Custeio;40000.0;40000.0;40000.0;;;;;;;2025OB23515;2025-03-25 00:00:00;;CEF 27 de Ceilândia
+2025.0;CEF 28 DE CEILANDIA;Ceilândia;14782.0;Abril;Capital;30000.0;30000.0;30000.0;;;;;;;2025OB38530;2025-05-20 00:00:00;;CEF 28 DE CEILANDIA
+2025.0;CEF 28 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;20000.0;20000.0;20000.0;;;;;;;2025OB87452;2025-01-12 00:00:00;;CEF 28 DE CEILANDIA
+2025.0;CEF 31 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;40000.0;40000.0;;;;;;;;;;;CEF 31 de Ceilândia
+2025.0;CEF 32 DE CEILANDIA;Ceilândia;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;;;;2025OB23369;2025-03-25 00:00:00;;CEF 32 DE CEILANDIA
+2025.0;CEF 33 DE CEILANDIA;Ceilândia;16809.0;Agosto;Capital;30000.0;30000.0;30000.0;;;;;;;2025OB93574;2025-12-22 00:00:00;;CEF 33 de Ceilândia
+2025.0;CEF 34 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;30000.0;30000.0;30000.0;;;;;;;2025OB87719;2025-01-12 00:00:00;;CEF 34 DE CEILANDIA
+2025.0;CEF 34 DE CEILANDIA;Ceilândia;16492.0;Julho;Capital;10000.0;10000.0;10000.0;;;;;;;2025OB91314;2025-12-15 00:00:00;;CEF 34 DE CEILANDIA
+2025.0;CEF 35 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;30000.0;30000.0;30000.0;;;;;;;2025OB90940;2025-11-12 00:00:00;;CEF 35 DE CEILANDIA
+2025.0;CEF 403 DE SANTA MARIA;Santa Maria;16491.0;Julho;Custeio;15000.0;;;;;;Recurso autorizado pela Serp, mas não desbloqueado pela Serp.;;;;;;CEF 403 de Santa Maria
+2025.0;CEF 418 DE SANTA MARIA;Santa Maria;16492.0;Julho;Capital;60000.0;60000.0;60000.0;;;;;;;2025OB91706;2025-12-16 00:00:00;;CEF 418 de Santa Maria
+2025.0;CEF BOA ESPERANCA;Ceilândia;14781.0;Abril;Custeio;40000.0;40000.0;40000.0;;;;;;;2025OB38523;2025-05-20 00:00:00;;CEF BOA ESPERANCA
+2025.0;CEF CERAMICA SAO PAULO;São Sebastião;16492.0;Julho;Capital;40000.0;40000.0;40000.0;;;;;;;2025OB91629;2025-12-15 00:00:00;;CEF CERAMICA SAO PAULO
+2025.0;CEF CERAMICAS REUNIDAS DOM BOSCO;Planaltina;13610.0;Fevereiro;Custeio;40000.0;40000.0;40000.0;;;;;;;2025OB23367;2025-03-25 00:00:00;;CEF CERAMICAS REUNIDAS DOM BOSCO
+2025.0;CEF DO BOSQUE;São Sebastião;16492.0;Julho;Capital;40000.0;40000.0;40000.0;;;;;;;2025OB90925;2025-11-12 00:00:00;;CEF DO BOSQUE
+2025.0;CEF JATAI;São Sebastião;16492.0;Julho;Capital;40000.0;40000.0;40000.0;;;;;;;2025OB90924;2025-11-12 00:00:00;;CEF JATAI
+2025.0;CEF NOSSA SENHORA FATIMA;Planaltina;16491.0;Julho;Custeio;50000.0;;;;;;Recurso autorizado pela Serp, mas não desbloqueado pela Serp.;;;;;;CEF NOSSA SENHORA DE FÁTIMA
+2025.0;CEF NOVA BETANIA;São Sebastião;16492.0;Julho;Capital;80000.0;80000.0;80000.0;;;;;;;2025OB91632;2025-12-15 00:00:00;;CEF NOVA BETANIA
+2025.0;CEF PAB;Gama;14781.0;Abril;Custeio;50000.0;50000.0;50000.0;;;;;;;2025OB38528;2025-05-20 00:00:00;;CEF PAB
+2025.0;CEF POLIVALENTE;Plano Piloto;16491.0;Julho;Custeio;10000.0;;;;;;Recurso autorizado pela Serp, mas não desbloqueado pela Serp.;;;;;;CEF Polivalente
+2025.0;CEF POLIVALENTE;Plano Piloto;16492.0;Julho;Capital;30000.0;30000.0;30000.0;;;;;;;2025OB95553;2025-12-29 00:00:00;;CEF Polivalente
+2025.0;CEF SAO JOSE;Planaltina;16492.0;Julho;Capital;50000.0;50000.0;50000.0;;;;;;;2025OB91315;2025-12-15 00:00:00;;CEF SAO JOSE
+2025.0;CEF TAMANDUA;Gama;14781.0;Abril;Custeio;30000.0;30000.0;30000.0;;;;;;;2025OB38810;2025-05-21 00:00:00;;CEF TAMANDUÁ
+2025.0;CEF TAMANDUA;Gama;14782.0;Abril;Capital;40000.0;40000.0;40000.0;;;;;;;2025OB38810;2025-05-21 00:00:00;;CEF TAMANDUÁ
+2025.0;CEF TAMANDUA;Gama;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;Manutenção na quadra poliesportia;;;2025OB23364;2025-03-25 00:00:00;;CEF TAMANDUÁ
+2025.0;CEI 01 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;40000.0;40000.0;40000.0;;;;;;;2025OB89509;2025-05-12 00:00:00;;CEI 01 DE CEILANDIA
+2025.0;CEI 01 DE PLANALTINA;Planaltina;16491.0;Julho;Custeio;30000.0;;;;;;Recurso autorizado pela Serp, mas não desbloqueado pela Serp.;;;;;;CEI 01 DE PLANALTINA
+2025.0;CEI 02 DE PLANALTINA;Planaltina;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;10 Computadores completos, 3 notebooks e 10 Nobreaks;;;2025OB23365;2025-03-25 00:00:00;;CEI 02 de Planaltina
+2025.0;CEI 04 DE SOBRADINHO;Sobradinho;16492.0;Julho;Capital;40000.0;40000.0;40000.0;;;;;;;2025OB90956;2025-11-12 00:00:00;;CEI 04 DE SOBRADINHO
+2025.0;CEI BURITIZINHO;Samambaia;14782.0;Abril;Capital;15000.0;15000.0;15000.0;;;;;;;2025OB38791;2025-05-21 00:00:00;;CEI BURITIZINHO
+2025.0;CEI GIRASSOL;Planaltina;16491.0;Julho;Custeio;30000.0;;;;;;Recurso autorizado pela Serp, mas não desbloqueado pela Serp.;;;;;;CEI GIRASSOL
+2025.0;CEJAEP DE BRASILIA;Plano Piloto;14782.0;Abril;Capital;80000.0;80000.0;80000.0;;;;;;;2025OB38793;2025-05-21 00:00:00;;CEJAEP DE BRASILIA
+2025.0;CEM 01 DE PLANALTINA;Planaltina;16491.0;Julho;Custeio;40000.0;;;;;;Recurso autorizado pela Serp, mas não desbloqueado pela Serp.;;;;;;CEM 01 DE PLANALTINA
+2025.0;CEM 01 DO GAMA;Gama;13610.0;Fevereiro;Custeio;50000.0;50000.0;;;;;Manutenção do Miniauditório (vai utilizar o recurso em 2026);;;;;;CEM 01 do Gama
+2025.0;CEM 01 DO GAMA;Gama;13610.0;Fevereiro;Custeio;50000.0;50000.0;;;;;Manutenção do Miniauditório;;;;;;CEM 01 do Gama
+2025.0;CEM 02 DE CEILANDIA;Ceilândia;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;;;;2025OB23375;2025-03-25 00:00:00;;CEM 02 de Ceilândia
+2025.0;CEM 02 DE PLANALTINA;Planaltina;16491.0;Julho;Custeio;50000.0;;;;;;Recurso autorizado pela Serp, mas não desbloqueado pela Serp.;;;;;;CEM 02 DE PLANALTINA
+2025.0;CEM 02 DO GAMA;Gama;14781.0;Abril;Custeio;50000.0;50000.0;50000.0;;;;;;;2025OB38797;2025-05-21 00:00:00;;CEM 02 do Gama
+2025.0;CEM 02 DO GAMA;Gama;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;Criação de uma quadra de área (vai utilizar o recurso em 2026);;;2025OB23238;2025-03-24 00:00:00;;CEM 02 do Gama
+2025.0;CEM 02 DO GAMA;Gama;16492.0;Julho;Capital;50000.0;50000.0;;;;;;;;;;;CEM 02 do Gama
+2025.0;CEM 03 DE CEILANDIA;Ceilândia;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;;;;2025OB23374;2025-03-25 00:00:00;;CEM 03 DE CEILANDIA
+2025.0;CEM 04 DE SOBRADINHO;Sobradinho;16809.0;Agosto;Capital;30000.0;30000.0;30000.0;;;;;;;2025OB86804;2025-11-27 00:00:00;;CEM 04 DE SOBRADINHO
+2025.0;CEM 09 DE CEILANDIA;Ceilândia;13610.0;Fevereiro;Custeio;80000.0;80000.0;80000.0;;;;;;;2025OB23625;2025-03-25 00:00:00;;CEM 09 de Ceilândia
+2025.0;CEM 10 DE CEILANDIA;Ceilândia;14781.0;Abril;Custeio;50000.0;50000.0;50000.0;;;;;;;2025OB38658;2025-05-21 00:00:00;;CEM 10 DE CEILANDIA
+2025.0;CEM 10 DE CEILANDIA;Ceilândia;14782.0;Abril;Capital;50000.0;50000.0;50000.0;;;;;;;2025OB38621;2025-05-21 00:00:00;;CEM 10 DE CEILANDIA
+2025.0;CEM 111 DO RECANTO DAS EMAS;Recanto das Emas;14781.0;Abril;Custeio;50000.0;50000.0;50000.0;;;;;;;;;;CEM 111 DO RECANTO DAS EMAS
+2025.0;CEM 12 DE CEILANDIA;Ceilândia;13610.0;Fevereiro;Custeio;80000.0;80000.0;80000.0;;;;;;;2025OB23236;2025-03-24 00:00:00;;CEM 12 de Ceilândia
+2025.0;CEM 404 DE SANTA MARIA;Santa Maria;16492.0;Julho;Capital;50000.0;50000.0;50000.0;;;;;;;2025OB93566;2025-12-22 00:00:00;;CEM 404 DE SANTA MARIA
+2025.0;CEM AVE BRANCA;Taguatinga;16743.0;Agosto;Custeio;50000.0;50000.0;;;;;;;;2025OB88469;2025-03-12 00:00:00;;CEM AVE BRANCA
+2025.0;CEM EIT;Taguatinga;16743.0;Agosto;Custeio;50000.0;50000.0;50000.0;;;;;;;2025OB86824;2025-11-27 00:00:00;;CEM EIT
+2025.0;CEM INTEGRADO A EDUC PROFISSIONAL DO GAMA;Gama;16743.0;Agosto;Custeio;30000.0;30000.0;30000.0;;;;;;;2025OB87457;2025-01-12 00:00:00;;CEM INTEGRADO A EDUC PROFISSIONAL DO GAMA
+2025.0;CEM INTEGRADO A EDUC PROFISSIONAL DO GAMA;Gama;16492.0;Julho;Capital;50000.0;50000.0;50000.0;;;;;;;2025OB91708;2025-12-16 00:00:00;;CEM INTEGRADO A EDUC PROFISSIONAL DO GAMA
+2025.0;CEM TN;Taguatinga;16492.0;Julho;Capital;70000.0;70000.0;70000.0;;;;;;;2025OB91317;2025-12-15 00:00:00;;CEM Taguatinga Norte
+2025.0;CEM URSO BRANCO;Núcleo Bandeirante;14781.0;Abril;Custeio;50000.0;50000.0;50000.0;;;;;;;00080-00129397/2025-99;;;CEM URSO BRANCO
+2025.0;CIL DE PLANALTINA;Planaltina;16809.0;Agosto;Capital;10000.0;10000.0;;;;;;;;;;;CIL DE PLANALTINA
+2025.0;CRE BRAZLANDIA;Brazlândia;17250.0;Setembro;Custeio;25000.0;25000.0;25000.0;;;;"Projeto contemplado pelo Edital Hip Hop nas Escolas:
+Circuito Fábrica Doim
+CEM 01";;;;;;CRE BRAZLANDIA
+2025.0;CRE CEILANDIA;Ceilândia;16742.0;Agosto;Custeio;485000.0;485000.0;485000.0;;;;"Matilha - Teatro, Coletivo e Periferia (arte e educação)
+CED 06 - 25.000,00
+CED 11 - 25.000,00
+CEM 04 - 50.000,00
+Arte Urbana nas Escolas
+CEF 11 - 25.000,00
+CED 11 - 25.000,00
+CEF 25 - 25.000,00
+CEF 20 - 25.000,00
+Sarau da 4° nas Escolas
+CED 06 - 30.000,00
+CEM 04 - 30.000,00";;;2025OB86803;2025-11-27 00:00:00;;CRE CEILÂNDIA
+2025.0;CRE CEILANDIA;Ceilândia;17250.0;Setembro;Custeio;100000.0;100000.0;100000.0;;;;"Projetos contemplados pelo Edital Hip Hop nas Escolas: 
+Festival Hip Hop nas Escolas: a Lei 10.639 dançada e rimada em ações antirracistas!
+CED 17
+HIP HOP nas escolas: Soul's de Quebrada - Ceilândia
+CEF 31
+Batalha do Conhecimento – Hip Hop e Educação Antirracista
+CEF 19
+PERIFERIA 360° NAS ESCOLAS - 6° Edição
+CEE 02";;;2026OB04674;2026-01-19 00:00:00;;CRE CEILÂNDIA
+2025.0;CRE GAMA;Gama;13610.0;Fevereiro;Custeio;100000.0;100000.0;100000.0;;;;"África é nóis - Centro Educacional 08 do Gama: R$ 25.000,000
+Sarau Sertão Rua - Centro de Ensino Médio Integrado a Educação Profissional do Gama - CEMI : R$ 35.000,00
+Ilê de Noiz - Centro Educacional 06 do Gama: R$ 40.000,00​​​";;;2025OB23943;2025-03-26 00:00:00;;CRE GAMA
+2025.0;CRE GAMA;Gama;16491.0;Julho;Custeio;120000.0;;;;;;Recurso autorizado pela Serp, mas não desbloqueado pela Serp.;;;;;;CRE GAMA
+2025.0;CRE GAMA;Gama;17250.0;Setembro;Custeio;50000.0;50000.0;50000.0;;;;"Projeto contemplado no Edital Hip Hop nas Escolas:
+Projeto RAP - Ressocialização, Autonomia e Protagonismo
+Unidade de Internação
+Hip Hop contra o Racismo
+CED 08";;;;;;CRE GAMA
+2025.0;CRE GUARA;Guará;13610.0;Fevereiro;Custeio;100000.0;100000.0;100000.0;;;;"Grafita Escolas
+CED 03 - Centrão (EQ 17/19, Área Especial, Lote B - Guará II)
+CEF 01 (EQ 34/36, Área  Especial, Lote B - Guará II)
+Casa GOG CoMvida
+CED 04 (QE 09, Área Especial D - Guará)
+CEF 08 (EQ 13/15 - Guará II)";;;2025OB23373;2025-03-25 00:00:00;;CRE GUARÁ
+2025.0;CRE GUARA;Guará;16491.0;Julho;Custeio;150000.0;;;;;;Recurso autorizado pela Serp, mas não desbloqueado pela Serp.;;;;;;CRE GUARÁ
+2025.0;CRE GUARA;Guará;17250.0;Setembro;Custeio;25000.0;25000.0;25000.0;;;;Edital Hip Hop nas Escolas;;;2025OB91718;2025-12-16 00:00:00;;CRE GUARÁ
+2025.0;CRE NUCLEO BANDEIRANTE;Riacho Fundo II;17250.0;Setembro;Custeio;50000.0;50000.0;50000.0;;;;"Projeto contemplado no Edital Hip Hop nas Escolas: 
+Festival Diboísmo na Voz - Hip Hop pela Paz nas Escolas
+CEF 01
+
+Projeto Ideia de Quê?
+CED 02 do Riacho Fundo I";;;;;;CRE NUCLEO BANDEIRANTE
+2025.0;CRE PARANOA;Itapoã;17250.0;Setembro;Custeio;25000.0;25000.0;25000.0;;;;"Projetos contemplados pelo Edital Hip Hop nas Escolas:
+ZILDA ALÉM DOS MUROS
+CEF DRa ZILDA ARNS";;;;;;CRE PARANOA
+2025.0;CRE PARANOA;Paranoá;17250.0;Setembro;Custeio;25000.0;25000.0;25000.0;;;;"Projeto contemplado pelo Edital Hip Hop nas Escolas:
+Eficientes - Arte, Cultura Hip Hop Inclusiva e combate a violência no ambiente escolar
+CED PAD-DF";;;;;;CRE PARANOA
+2025.0;CRE PLANALTINA;Planaltina;16491.0;Julho;Custeio;120000.0;;;;;;Recurso autorizado pela Serp, mas não desbloqueado pela Serp.;;;;;;CRE PLANALTINA
+2025.0;CRE PLANALTINA;Planaltina;17250.0;Setembro;Custeio;50000.0;50000.0;50000.0;;;;"Projetos contemplados pelo Edital Hip Hop nas Escolas:
+FEPHHLIMP: Festival Escolar de Promoção do Hip Hop e das Literaturas Marginais e Periféricas
+CEM 01
+Grafias da Liberdade
+CED VALE DO AMANHECER.";;;2025OB93570;2025-12-22 00:00:00;;CRE PLANALTINA
+2025.0;CRE PLANALTINA;Planaltina;17250.0;Setembro;Custeio;80000.0;80000.0;80000.0;;;;"Projeto Festival Latinidades na Escola
+CED Stella dos Cherubins Guimarães Trois";;;2025OB93570;2025-12-22 00:00:00;;CRE PLANALTINA
+2025.0;CRE RECANTO DAS EMAS;Recanto das Emas;17250.0;Setembro;Custeio;25000.0;25000.0;25000.0;;;;"Projeto contemplado no Edital Hip Hop nas Escolas:
+CRIA DA CIDADE - SEMANA DO HIP HOP NAS ESCOLAS
+Centro Educacional 104";;;;;;CRE RECANTO DAS EMAS
+2025.0;CRE RECANTO DAS EMAS;Recanto das Emas;16491.0;Julho;Custeio;165000.0;;;;;;Recurso autorizado pela Serp, mas não desbloqueado pela Serp.;;;;;;CRE RECANTO DAS EMAS
+2025.0;CRE SAMAMBAIA;Samambaia;17250.0;Setembro;Custeio;25000.0;25000.0;25000.0;;;;"Projeto contemplado no Edital Hip Hop nas Escolas:
+Hip Hop nas escolas - Macunaíma em Rimas e Cores: Releitura pelo Hip Hop
+CEM 304";;;2025OB93599;2025-12-22 00:00:00;;CRE SAMAMBAIA
+2025.0;CRE SAMAMBAIA;Samambaia;16491.0;Julho;Custeio;80000.0;;;;;;Recurso autorizado pela Serp, mas não desbloqueado pela Serp.;;;;;;CRE SAMAMBAIA
+2025.0;CRE SAMAMBAIA;Samambaia;16492.0;Julho;Capital;300000.0;300000.0;300000.0;;;;A Regional encaminhou o Ofício Nº 79/2026 - SEE/CRESAMAMBAIA informando qual seria a destinação do recurso.;;;2025OB91714;2025-12-16 00:00:00;https://drive.google.com/file/d/14n-B7-c_-tYvEgCblp_fzTOpzZXEUgce/view?usp=sharing;CRE SAMAMBAIA
+2025.0;CRE SANTA MARIA;Santa Maria;16491.0;Julho;Custeio;250000.0;;;;;;Recurso autorizado pela Serp, mas não desbloqueado pela Serp.;;;;;;CRE SANTA MARIA
+2025.0;CRE SANTA MARIA;Santa Maria;16492.0;Julho;Capital;90000.0;90000.0;90000.0;;;;"Projeto “UISM Audiovisual: Cena na Medida”; Soluções Sustentáveis & Empreendedoras Aquaponia e Piscicultura na
+Horta da UISM";;;2025OB93565;2025-12-22 00:00:00;;CRE SANTA MARIA
+2025.0;CRE SANTA MARIA;Santa Maria;17250.0;Setembro;Custeio;25000.0;25000.0;25000.0;;;;"Projeto contemplado no Edital Hip Hop nas Escolas:
+Profissionais na Lata
+CED GESNER TEIXEIRA";;;2025OB93586;2025-12-22 00:00:00;;CRE SANTA MARIA
+2025.0;CRE SAO SEBASTIAO;São Sebastião;16491.0;Julho;Custeio;405000.0;;;;;;Recurso autorizado pela Serp, mas não desbloqueado pela Serp.;;;;;;CRE SAO SEBASTIAO
+2025.0;CRE SAO SEBASTIAO;São Sebastião;17250.0;Setembro;Custeio;50000.0;50000.0;50000.0;;;;"Projeto contemplado no Edital Hip Hop nas Escolas:
+A Rua Ensina: cinco elementos, mil caminhos
+CED São Francisco;
+EDUCAÇÃO DE QUEBRADA
+CED São Bartolomeu";;;;;;CRE SAO SEBASTIAO
+2025.0;CRE SOBRADINHO;Sobradinho;16491.0;Julho;Custeio;80000.0;;;;;;Recurso autorizado pela Serp, mas não desbloqueado pela Serp.;;;;;;CRE SOBRADINHO
+2025.0;CRE SOBRADINHO;Sobradinho;17250.0;Setembro;Custeio;75000.0;75000.0;75000.0;;;;"Projetos contemplados no Edital Hip Hop nas Escolas:
+A Rua Ensina: cinco elementos, mil caminhos
+CEM 01 de Sobradinho
+HIP HOP NA ESCOLA COM DJ HOOL RAMOS
+CED 08 de Sobradinho
+
+Minas Presente
+CEM 02 de Sobradinho";;;2025OB93585;2025-12-22 00:00:00;;CRE SOBRADINHO
+2025.0;CRE TAGUATINGA;Taguatinga;16491.0;Julho;Custeio;100000.0;;;;;;Recurso autorizado pela Serp, mas não desbloqueado pela Serp.;;;;;;CRE TAGUATINGA
+2025.0;CRE TAGUATINGA;Taguatinga;16491.0;Julho;Custeio;50000.0;;;;;;Recurso autorizado pela Serp, mas não desbloqueado pela Serp.;;;;;;CRE TAGUATINGA
+2025.0;CRE TAGUATINGA;Taguatinga;16491.0;Julho;Custeio;80000.0;;;;;;Recurso autorizado pela Serp, mas não desbloqueado pela Serp.;;;;;;CRE TAGUATINGA
+2025.0;CRE TAGUATINGA;Taguatinga;16492.0;Julho;Capital;80000.0;80000.0;80000.0;;;;A indicar;;;00080-00332255/2025-15;;;CRE TAGUATINGA
+2025.0;CRE TAGUATINGA;Taguatinga;17250.0;Setembro;Custeio;25000.0;25000.0;25000.0;;;;"Projeto contemplado no Edital Hip Hop nas Escolas:
+A Arte da Discotecagem
+CEF 05";;;2026OB04675;2026-01-19 00:00:00;;CRE TAGUATINGA
+2025.0;EC 02 DO GAMA;Gama;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;"Cobertura na entrada da escola; cobetura de parte do pátio; aquisição de 4 armários";;;2025OB23368;2025-03-25 00:00:00;;EC 02 DO GAMA
+2025.0;EC 03 DE PLANALTINA;Planaltina;16492.0;Julho;Capital;50000.0;50000.0;50000.0;;;;;;;2026OB04680;2026-01-19 00:00:00;;EC 03 DE PLANALTINA
+2025.0;EC 06 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;30000.0;30000.0;30000.0;;;;;;;2025OB89109;2025-04-12 00:00:00;;EC 06 DE CEILANDIA
+2025.0;EC 08 DE TAGUATINGA;Taguatinga;16492.0;Julho;Capital;60000.0;60000.0;60000.0;;;;;;;2025OB93584;2025-12-22 00:00:00;;EC 08 DE TAGUATINGA
+2025.0;EC 10 DE SOBRADINHO;Sobradinho;16743.0;Agosto;Custeio;50000.0;50000.0;;;;;;;;;;;EC 10 DE SOBRADINHO
+2025.0;EC 10 DO GAMA;Gama;16809.0;Agosto;Capital;50000.0;50000.0;50000.0;;;;;;;2025OB87726;2025-01-12 00:00:00;;EC 10 DO GAMA
+2025.0;EC 108 DE SAMAMBAIA;Samambaia;14782.0;Abril;Capital;50000.0;50000.0;50000.0;;;;;;;2025OB38518;2025-05-20 00:00:00;;EC 108 DE SAMAMBAIA
+2025.0;EC 12 DO GAMA;Gama;16743.0;Agosto;Custeio;20000.0;20000.0;20000.0;;;;;;;2025OB87715;2025-01-12 00:00:00;;EC 12 do Gama
+2025.0;EC 12 DO GAMA;Gama;16492.0;Julho;Capital;40000.0;40000.0;40000.0;;;;;;;2025OB89348;2025-04-12 00:00:00;;EC 12 do Gama
+2025.0;EC 14 DE PLANALTINA;Planaltina;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;;;;2025OB23372;2025-03-25 00:00:00;;EC 14 de Planaltina
+2025.0;EC 16 DE PLANALTINA;Planaltina;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;Colocação de bancos e mesas de concretos;;;2025OB23371;2025-03-25 00:00:00;;EC 16 de Planaltina
+2025.0;EC 17 DE SOBRADINHO;Sobradinho;16743.0;Agosto;Custeio;50000.0;50000.0;;;;;;;;;;;EC 17 de Sobradinho
+2025.0;EC 18 DO GAMA;Gama;16743.0;Agosto;Custeio;30000.0;50000.0;;;;;;;;;;EC 18;EC 18 do Gama
+2025.0;EC 18 DO GAMA;Gama;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;;;;2025OB23574;2025-03-25 00:00:00;;EC 18 do Gama
+2025.0;EC 18 DO GAMA;Gama;16492.0;Julho;Capital;50000.0;50000.0;50000.0;;;;;;;2025OB90939;2025-11-12 00:00:00;;EC 18 do Gama
+2025.0;EC 22 DE CEILANDIA;Ceilândia;16492.0;Julho;Capital;20000.0;20000.0;20000.0;;;;;;;2026OB04695;2026-01-19 00:00:00;;EC 22 DE CEILANDIA
+2025.0;EC 22 DO GAMA;Gama;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;"Grama sintetica e organica; Pintura do Parquinho; Bancos e mesa de concreto; mesa de ping pong de concreto.";;;2025OB23766;2025-03-26 00:00:00;EC 22 do Gama;EC 22 DO GAMA
+2025.0;EC 24 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;30000.0;30000.0;30000.0;;;;;;;2025OB89108;2025-04-12 00:00:00;;EC 24 DE CEILANDIA
+2025.0;EC 28 DO GAMA;Gama;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;;;;2025OB23708;2025-03-26 00:00:00;;EC 28 DO GAMA
+2025.0;EC 29 DO GAMA;Gama;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;Compra de materiais de papelaria e itens pedagógicos.;;;2025OB23765;2025-03-26 00:00:00;EC 29 Gama;EC 29 do Gama
+2025.0;EC 34 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;30000.0;30000.0;30000.0;;;;;;;2025OB88471;2025-03-12 00:00:00;;EC 34 DE CEILANDIA
+2025.0;EC 35 DE CEILANDIA;Ceilândia;14781.0;Abril;Custeio;50000.0;50000.0;50000.0;;;;;;;2025OB38657;2025-05-21 00:00:00;;EC 35 de Ceilândia
+2025.0;EC 35 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;30000.0;30000.0;;;;;;;;;;;EC 35 de Ceilândia
+2025.0;EC 35 DE CEILANDIA;Ceilândia;16492.0;Julho;Capital;30000.0;30000.0;30000.0;;;;;;;2025OB91705;2025-12-16 00:00:00;;EC 35 de Ceilândia
+2025.0;EC 408 DE SAMAMBAIA;Samambaia;14782.0;Abril;Capital;30000.0;30000.0;30000.0;;;;;;;2025OB38522;2025-05-20 00:00:00;;EC 408 de Samambaia
+2025.0;EC 43 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;30000.0;30000.0;30000.0;;;;;;;2025OB88468;2025-03-12 00:00:00;;EC 43 DE CEILANDIA
+2025.0;EC 48 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;20000.0;20000.0;;;;;;;;;;;EC 48 de Ceilândia
+2025.0;EC 48 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;30000.0;30000.0;;;;;;;;;;;EC 48 de Ceilândia
+2025.0;EC 48 DE CEILANDIA;Ceilândia;16492.0;Julho;Capital;50000.0;50000.0;50000.0;;;;;;;2025OB91709;2025-12-16 00:00:00;;EC 48 de Ceilândia
+2025.0;EC 50 DE CEILANDIA;Ceilândia;16749.0;Agosto;Custeio;10000.0;10000.0;;;;;;;;2025OB88466;2025-03-12 00:00:00;;EC 50 de Ceilândia
+2025.0;EC 502 DO ITAPOA PARQUE;Paranoá;16492.0;Julho;Capital;100000.0;100000.0;100000.0;;;;;;;2025OB93572;2025-12-22 00:00:00;;EC 502 DO ITAPOA PARQUE
+2025.0;EC 56 DE CEILANDIA;Ceilândia;14781.0;Abril;Custeio;30000.0;30000.0;30000.0;;;;;;;2025OB39155;2025-05-22 00:00:00;;EC 56 de Ceilândia
+2025.0;EC 66 DE CEILANDIA;Sol Nascente/Pôr do Sol;16749.0;Agosto;Custeio;40000.0;40000.0;40000.0;;;;;;;2025OB91702;2025-12-16 00:00:00;;EC 66 DE CEILANDIA
+2025.0;EC AGUILHADA;São Sebastião;16743.0;Agosto;Custeio;50000.0;50000.0;;;;;;;;;;;EC AGUILHADA
+2025.0;EC APRODARMAS;Planaltina;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;Manutenção e reforma da sala dos coordenaores;;;2025OB23627;2025-03-25 00:00:00;;EC APRODARMAS
+2025.0;EC CACHOEIRINHA;São Sebastião;16492.0;Julho;Capital;50000.0;50000.0;50000.0;;;;;;;2025OB91716;2025-12-16 00:00:00;;EC CACHOEIRINHA
+2025.0;EC COPERBRAS;Planaltina;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;"Compra de materiais pedagógicos diversos para poder
+atender melhor o processo de ensino e aprendizagem ora
+realizados na escola.""";;;2025OB23956;2025-03-26 00:00:00;;EC COPERBRAS
+2025.0;EC ESTANCIA DO PIPIRIPAU;Planaltina;16809.0;Agosto;Capital;10000.0;10000.0;10000.0;;;;;;;2025OB87449;2025-01-12 00:00:00;;EC ESTANCIA DO PIPIRIPAU
+2025.0;EC KANEGAE;Riacho Fundo I;16743.0;Agosto;Custeio;40000.0;40000.0;40000.0;;;;Via Regional;;;2025OB86806;2025-11-27 00:00:00;;EC KANEGAE
+2025.0;EC MORRO DA CRUZ;São Sebastião;16809.0;Agosto;Capital;10000.0;10000.0;10000.0;;;;;;;2025OB95556;2025-12-29 00:00:00;;EC MORRO DA CRUZ
+2025.0;EC P NORTE;Sol Nascente/Pôr do Sol;16809.0;Agosto;Capital;30000.0;30000.0;30000.0;;;;;;;2025OB95551;2025-12-29 00:00:00;;EC P NORTE
+2025.0;EC PARANA;Planaltina;13610.0;Fevereiro;Custeio;50000.0;50000.0;50000.0;;;;"Reforma de áreas de convivência.
+Troca de Grelhas de escoamento de águas pluviais dos corredores laterais.
+Desenvolvimento de Projetos Educacionais";;;2025OB23575;2025-03-25 00:00:00;;EC PARANÁ
+2025.0;EC PONTE ALTA DE CIMA;Gama;16743.0;Agosto;Custeio;30000.0;30000.0;30000.0;;;;;;;2025OB87515;2025-01-12 00:00:00;;EC PONTE ALTA DE CIMA
+2025.0;EC PONTE ALTA DE CIMA;Gama;16492.0;Julho;Capital;50000.0;50000.0;50000.0;;;;;;;2025OB91717;2025-12-16 00:00:00;;EC PONTE ALTA DE CIMA
+2025.0;ESC DO PARQUE DA CIDADE PROEM;Plano Piloto;14781.0;Abril;Custeio;60000.0;60000.0;60000.0;;;;;;;2025OB38533;2025-05-20 00:00:00;;Escola do Parque da Cidade - PROEM
+2025.0;ESC MENINOS E MENINAS DO PARQUE;Plano Piloto;14782.0;Abril;Capital;50000.0;50000.0;50000.0;;;;;;;2025OB38527;2025-05-20 00:00:00;;Escola Meninos e Meninas do Parque
+2026.0;EC 21 de Ceilândia;Ceilândia;18452.0;Janeiro;Custeio;30000.0;;;;;Ceilândia;Construção de nova estação de energia de alta tensão;;;;;;EC 21 de Ceilândia
+2026.0;EC 21 de Ceilândia;Ceilândia;18453.0;Janeiro;Capital;80000.0;;;;;Ceilândia;Aquisição de transformador;;;;;;EC 21 de Ceilândia
+2026.0;Coordenação Regional de Ceilândia (CED 17 de Ceilândia);Ceilândia;18452.0;Janeiro;Custeio;100000.0;;;;;Ceilândia;Reforma da sala multi para transformá-la em auditório, reforma secretaria;;;;;;CED 17 DE CEILANDIA
+2026.0;Coordenação Regional de Ceilândia (CED 17 de Ceilândia);Ceilândia;18453.0;Janeiro;Capital;60000.0;;;;;Ceilândia;Cadeiras acolchoadas para o auditório e sinal sonoro musical;;;;;;CED 17 DE CEILANDIA
+2026.0;CEF Zilda Arns;Itapoã;18452.0;Janeiro;Custeio;40000.0;;;;;Paranoá;Reforma do parque infantil;;;;;;CEF Zilda Arns
+2026.0;CEF Zilda Arns;Itapoã;18453.0;Janeiro;Capital;70000.0;;;;;Paranoá;A ser indicado pela escola;;;;;;CEF Zilda Arns
+2026.0;CED Darcy Ribeiro;Paranoá;18453.0;Janeiro;Capital;40000.0;;;;;Paranoá;Reforma estrutural;;;;;;CED Darcy Ribeiro
+2026.0;CEM 01 Paranoá;Paranoá;18453.0;Janeiro;Capital;60000.0;;;;;Paranoá;Demanda da escola;;;;;;CEM 01 PARANOA
+2026.0;Escola Bilíngue de Plano Piloto;Plano Piloto;18453.0;Janeiro;Capital;50000.0;;;;;Plano Piloto;Despesas de custeio a serem definidas pela escola, observando a legislação do PDAF;;;;;;ESCOLA BILINGUE DE PLANO PILOTO
+2026.0;Centro de Ensino Especial para Deﬁcientes Visuais;Plano Piloto;18453.0;Janeiro;Capital;50000.0;;;;;Plano Piloto;Despesas de custeio a serem definidas pela escola, observando a legislação do PDAF;;;;;;CEE PARA DEFICIENTES VISUAIS
+2026.0;CED 203 do Recanto das Emas;Recanto das Emas;18452.0;Janeiro;Custeio;60000.0;;;;;Recanto das Emas;Despesas de custeio a serem definidas pela escola, observando a legislação do PDAF;;;;;;CED 203 DO RECANTO DAS EMAS
+2026.0;Coordenação Regional de Ensino de São Sebastião (CEM 01);São Sebastião;18452.0;Janeiro;Custeio;50000.0;;;;CRE;São Sebastião;"Capoeira nas Escolas (CEM 01) - Hugo (50 mil)
+";;;;;;CEM 01 DE SAO SEBASTIAO
+2026.0;Coordenação Regional de Ensino de São Sebastião (CED São Bartolomeu);São Sebastião;18452.0;Janeiro;Custeio;25000.0;;;;CRE;São Sebastião;Blues na Escola: Música e educação em Harmonia (CED São Bartolomeu e CEF do Bosque) - Cabral/Cláudia (50 mil);;;;;;CED SAO BARTOLOMEU
+2026.0;Coordenação Regional de Ensino de São Sebastião (CEF do Bosque);São Sebastião;18452.0;Janeiro;Custeio;25000.0;;;;CRE;São Sebastião;Blues na Escola: Música e educação em Harmonia (CED São Bartolomeu e CEF do Bosque) - Cabral/Cláudia (50 mil);;;;;;CEF DO BOSQUE
+2026.0;Coordenação Regional de Ensino de São Sebastião (CED São Francisco);São Sebastião;18452.0;Janeiro;Custeio;50000.0;;;;CRE;São Sebastião;Afoxé Ogum Pá (CED São Francisco e CEM 01) - Cláudia/Mãe Dora (100 mil);;;;;;CED SAO FRANCISCO
+2026.0;Coordenação Regional de Ensino de São Sebastião (CEM 01);São Sebastião;18452.0;Janeiro;Custeio;50000.0;;;;CRE;São Sebastião;Afoxé Ogum Pá (CED São Francisco e CEM 01) - Cláudia/Mãe Dora (100 mil);;;;;;CEM 01 DE SAO SEBASTIAO
+2026.0;CEF 01 do Jardins Mangueiral;São Sebastião;18453.0;Janeiro;Capital;50000.0;;;;;São Sebastião;Parquinho da escola e sistema de som e wifi;;;;;;CEF 01 DO JARDINS MANGUEIRAL
+2026.0;Escola Bilíngue de Taguatinga;Taguatinga;18453.0;Janeiro;Capital;40000.0;;;;;Taguatinga;Despesas de custeio a serem definidas pela escola, observando a legislação do PDAF;;;;;;ESCOLA BILINGUE DE TAGUATINGA
+2026.0;CEF 08 de Taguatinga;Taguatinga;18452.0;Janeiro;Custeio;70000.0;;;;;Taguatinga;Revitalização das salas de aula com substituição de forro de PVC por Drywall;;;;;;CEF 08 DE TAGUATINGA
+2026.0;CEF 02 do Arapoanga;Arapoanga;19557.0;Março;Custeio;50000.0;;;;;Planaltina;Manutenções na escola;;;;;;CEF 02 do Arapoanga
+2026.0;EC 09 de Brazlândia;Brazlândia;19556.0;Março;Custeio;50000.0;;;;;Brazlândia;Contratações de serviços para melhorias na escola;;;;;;EC 09 DE BRAZLANDIA
+2026.0;EC 56 de Ceilândia;Ceilândia;19555.0;Março;Capital;43200.0;;;;;Ceilândia;Aquisição de equipamentos;;;;;;EC 56 de Ceilândia
+2026.0;CAIC PROFESSOR ANÍSIO TEIXEIRA;Ceilândia;19556.0;Março;Custeio;50000.0;;;;;Ceilândia;Manutenções na escola;;;;;;CAIC PROFESSOR ANÍSIO TEIXEIRA
+2026.0;EC 29 de Ceilândia;Ceilândia;19555.0;Março;Capital;50000.0;;;;;Ceilândia;Aquisição de equipamentos;;;;;;EC 29 de Ceilândia
+2026.0;EC 01 de Ceilândia;Ceilândia;19555.0;Março;Capital;50000.0;;;;;Ceilândia;Aquisição de equipamentos;;;;;;EC 01 de Ceilândia
+2026.0;CEF 31 de Ceilândia;Ceilândia;19555.0;Março;Capital;50000.0;;;;;Ceilândia;Aquisição de mobiliários;;;;;;CEF 31 de Ceilândia
+2026.0;EC 01 de Ceilândia;Ceilândia;19556.0;Março;Custeio;35000.0;;;;;Ceilândia;Realização de projeto pedagógico;;;;;;EC 01 de Ceilândia
+2026.0;EC 35 de Ceilândia;Ceilândia;19556.0;Março;Custeio;50000.0;;;;;Ceilândia;Manutenções na escola;;;;;;EC 35 de Ceilândia
+2026.0;CEF 19 de Ceilândia;Ceilândia;19555.0;Março;Capital;50000.0;;;;;Ceilândia;Aquisição de bens permanentes;;;;;;CEF 19 de Ceilândia
+2026.0;EC 13 de Ceilândia;Ceilândia;19555.0;Março;Capital;50000.0;;;;;Ceilândia;Aquisição de equipamentos;;;;;;EC 13 de Ceilândia
+2026.0;CEM 02 de Ceilândia;Ceilândia;19556.0;Março;Custeio;50000.0;;;;;Ceilândia;Manutenções na escola e aquisições de materiais;;;;;;CEM 02 de Ceilândia
+2026.0;EC 12 do Gama;Gama;;Março;Custeio;50000.0;;;;;Gama;Manutenções na sala de recursos;;;;;;EC 12 do Gama
+2026.0;EC 18 do Gama;Gama;;Março;Custeio;50000.0;;;;;Gama;Manutenções na escola;;;;;;EC 18 do Gama
+2026.0;CEF 10 do Gama;Gama;;Março;Custeio;50000.0;;;;;Gama;Manutenções na escola;;;;;;CEF 10 do Gama
+2026.0;EC 29 do Gama;Gama;19554.0;Março;Capital;50000.0;;;;;Gama;Aquisição de mobiliários e equipamentos;;;;;;EC 29 do Gama
+2026.0;CEM 01 do Gama;Gama;19554.0;Março;Capital;50000.0;;;;;Gama;Aquisição de mobiliários;;;;;;CEM 01 do Gama
+2026.0;CEF PONTE ALTA DO BAIXO;Gama;;Março;Custeio;50000.0;;;;;Gama;Manutenções na escola e aquisição de materiais;;;;;;CEF PONTE ALTA DO BAIXO
+2026.0;CEF 01 do Gama;Gama;19554.0;Março;Capital;50000.0;;;;;Gama;Aquisição de equipamentos de tecnologia/robótica;;;;;;CEF 01 do Gama
+2026.0;CEM 02 do Gama;Gama;;Março;Custeio;50000.0;;;;;Gama;Realização de atividades com alunos;;;;;;CEM 02 do Gama
+2026.0;CEF TAMANDUÁ;Gama;;Março;Custeio;50000.0;;;;;Gama;Manutenções na escola;;;;;;CEF TAMANDUÁ
+2026.0;EC 21 do Gama;Gama;;Março;Custeio;50000.0;;;;;Gama;Manutenções na escola;;;;;;EC 21 do Gama
+2026.0;CEF 15 do Gama;Gama;19554.0;Março;Capital;45000.0;;;;;Gama;Melhoria da infraestrutura para o Programa de Desenvolvimento Corporal e Atividades Recreativas;;;;;;CEF 15 do Gama
+2026.0;Coordenação Regional de Enisno do Gama;Gama;19554.0;Março;Capital;10000.0;;;;;Gama;Objeto a ser definido pela unidade;;;;;;CRE GAMA
+2026.0;CED 01 do Guará;Guará;;Março;Custeio;50000.0;;;;;Guará;Manutenções na escola;;;;;;CED 01 do Guará
+2026.0;CEF DOUTORA ZILDA ARNS;Itapoã;;Março;Custeio;50000.0;;;;;Paranoá;Manutenções na escola;;;;;;CEF Zilda Arns
+2026.0;EC ITAPETI;Paranoá;;Março;Custeio;50000.0;;;;;Paranoá;Manutenções e revitalizações na escola;;;;;;EC ITAPETI
+2026.0;CEF 02 do Paranoá;Paranoá;;Março;Custeio;50000.0;;;;;Paranoá;Aquisição de materiais para projetos;;;;;;CEF 02 DO PARANOA
+2026.0;CEF NOSSA SENHORA DE FÁTIMA;Planaltina;19557.0;Março;Custeio;50000.0;;;;;Planaltina;Aquisição de material de apoio pedagógico e manutenção de bens duráveis e patrimonial;;;;;;CEF NOSSA SENHORA DE FÁTIMA
+2026.0;EC 05 de Planaltina;Planaltina;19557.0;Março;Custeio;50000.0;;;;;Planaltina;Manutenções na escola;;;;;;EC 05 de Planaltina
+2026.0;CED POMPÍLIO MARQUES DE SOUZA;Planaltina;19557.0;Março;Custeio;50000.0;;;;;Planaltina;Manutenções na escola;;;;;;CED POMPÍLIO MARQUES DE SOUZA
+2026.0;EC PARANÁ;Planaltina;19557.0;Março;Custeio;50000.0;;;;;Planaltina;Projeto Escola Classe Paraná: uma escola sustentável;;;;;;EC PARANÁ
+2026.0;CEI 02 de Planaltina;Planaltina;19557.0;Março;Custeio;50000.0;;;;;Planaltina;Manutenções e revitalizações na escola;;;;;;CEI 02 de Planaltina
+2026.0;EC 16 de Planaltina;Planaltina;19557.0;Março;Custeio;50000.0;;;;;Planaltina;Manutenções e revitalizações na escola;;;;;;EC 16 de Planaltina
+2026.0;CED 03 de Planaltina;Planaltina;19557.0;Março;Custeio;50000.0;;;;;Planaltina;Manutenções na escola;;;;;;CED 03 de Planaltina
+2026.0;CEF 03 de Planaltina;Planaltina;19557.0;Março;Custeio;50000.0;;;;;Planaltina;Manutenções na escola;;;;;;CEF 03 de Planaltina
+2026.0;JI 114 SUL;Plano Piloto;;Março;Custeio;40000.0;;;;;Plano Piloto;Aquisição de equipamentos;;;;;;JI 114 SUL
+2026.0;ESCOLA PARQUE 303/304 NORTE;Plano Piloto;;Março;Custeio;50000.0;;;;;Plano Piloto;Aquisição de mobiliários e instrumentos;;;;;;EP 303 304 NORTE
+2026.0;CEMI CRUZEIRO;Plano Piloto;;Março;Custeio;50000.0;;;;;Plano Piloto;Aquisição de equipamentos;;;;;;CEMI CRUZEIRO
+2026.0;CED 01 de Brasília;Plano Piloto;;Março;Custeio;50000.0;;;;;Plano Piloto;Aquisição de mobiliários;;;;;;CED 01 de Brasília
+2026.0;EC KANEGAE;Riacho Fundo I;;Março;Custeio;50000.0;;;;;Núcleo Bandeirante;Aquisição de materiais e manutenções na escola e em equipamentos;;;;;;EC KANEGAE
+2026.0;CIL Riacho Fundo II;Riacho Fundo II;19554.0;Março;Capital;50000.0;;;;;Núcleo Bandeirante;Aquisição de equipamentos tecnólogicos;;;;;;CIL RIACHO FUNDO II
+2026.0;EC 604 de Samambaia;Samambaia;;Março;Custeio;10000.0;;;;;Samambaia;Aquisição de materiais pedagógicos;;;;;;EC 604 DE SAMAMBAIA
+2026.0;EC 604 de Samambaia;Samambaia;19554.0;Março;Capital;40000.0;;;;;Samambaia;Aquisição de equipamentos para laboratório de informática;;;;;;EC 604 DE SAMAMBAIA
+2026.0;EC 431 de Samambaia;Samambaia;;Março;Custeio;50000.0;;;;;Samambaia;Instalações para manutenções na escola;;;;;;EC 431 DE SAMAMBAIA
+2026.0;CEF 407 de Samambaia;Samambaia;;Março;Custeio;50000.0;;;;;Samambaia;Manutenções na escola;;;;;;CEF 407 DE SAMAMBAIA
+2026.0;CED 310 de Santa Maria/CEMI Santa Maria;Santa Maria;19554.0;Março;Capital;50000.0;;;;;Santa Maria;Aquisição de equipamentos;;;;;;CED 310 DE SANTA MARIA
+2026.0;CEF 418 de Santa Maria;Santa Maria;;Março;Custeio;50000.0;;;;;Santa Maria;Despesas para realização de projetos;;;;;;CEF 418 de Santa Maria
+2026.0;CEF 403 de Santa Maria;Santa Maria;;Março;Custeio;30000.0;;;;;Santa Maria;Manutenções e revitalizações na escola;;;;;;CEF 403 de Santa Maria
+2026.0;CEF 04 de Sobradinho;Sobradinho;;Março;Custeio;50000.0;;;;;Sobradinho;Manutenções e revitalizações na escola;;;;;;CEF 04 DE SOBRADINHO
+2026.0;EC JUSCELINO KUBITSCHEK SOL NASCENTE;Sol Nascente/Pôr do Sol;19555.0;Março;Capital;40000.0;;;;;Sol Nascente/Pôr do Sol;Aquisição de equipamentos;;;;;;EC JUSCELINO KUBITSCHEK SOL NASCENTE
+2026.0;EC 54 de Taguatinga;Taguatinga;;Março;Custeio;50000.0;;;;;Taguatinga;Revitalização de espaço físico;;;;;;EC 54 DE TAGUATINGA
+2026.0;CEF 27 de Ceilândia;Ceilândia;20155.0;Abril;Custeio;90000.0;;;;;Ceilândia;Realização de projetos pedagógicos;;;;;;CEF 27 de Ceilândia
+2026.0;CEF 33 de Ceilândia;Ceilândia;20155.0;Abril;Custeio;110000.0;;;;;Ceilândia;Realização de projetos pedagógicos;;;;;;CEF 33 de Ceilândia
+2026.0;CEF 01 do Gama;Gama;20155.0;Abril;Custeio;30000.0;;;;;Gama;Despesas de custeio a serem indicadas pela escola;;;;;;CEF 01 do Gama
+2026.0;EC 14 do Gama;Gama;20155.0;Abril;Custeio;30000.0;;;;;Gama;Despesas de custeio a serem indicadas pela escola;;;;;;EC 14 do Gama
+2026.0;JI 03 do Gama;Gama;20155.0;Abril;Custeio;30000.0;;;;;Gama;Despesas de custeio a serem indicadas pela escola;;;;;;JI 03 do Gama
+2026.0;CED 06 do Gama;Gama;20155.0;Abril;Custeio;110000.0;;;;;Gama;Realização de projetos pedagógicos;;;;;;CED 06 do Gama
+2026.0;Escola do Parque da Cidade - PROEM;Plano Piloto;20155.0;Abril;Custeio;110000.0;;;;;Plano Piloto;Realização de projetos pedagógicos;;;;;;Escola do Parque da Cidade - PROEM
+2026.0;EC 502 de Samambaia;Samambaia;20155.0;Abril;Custeio;50000.0;;;;;Samambaia;Despesas de custeio a serem indicadas pela escola;;;;;;EC 502 DE SAMAMBAIA
+2026.0;CEF Jataí de São Sebastião;São Sebastião;20155.0;Abril;Custeio;90000.0;;;;;São Sebastião;Realização de projetos pedagógicos;;;;;;CEF JATAI DE SAO SEBASTIAO
+2026.0;EC 17 de Sobradinho;Sobradinho;20155.0;Abril;Custeio;20000.0;;;;;Sobradinho;Despesas de custeio a serem indicadas pela escola;;;;;;EC 17 de Sobradinho
+2026.0;CEM Taguatinga Norte;Taguatinga;20155.0;Abril;Custeio;100000.0;;;;;Taguatinga;Despesas de custeio a serem indicadas pela escola;;;;;;CEM Taguatinga Norte
+2026.0;CEM 03 de Taguatinga;Taguatinga;20155.0;Abril;Custeio;50000.0;;;;;Taguatinga;Despesas de custeio a serem indicadas pela escola;;;;;;CEM 03 DE TAGUATINGA
+2026.0;CEM EIT;Taguatinga;20155.0;Abril;Custeio;100000.0;;;;;Taguatinga;Despesas de custeio a serem indicadas pela escola;;;;;;CEM EIT
+2026.0;CIL de Taguatinga;Taguatinga;20155.0;Abril;Custeio;50000.0;;;;;Taguatinga;Despesas de custeio a serem indicadas pela escola;;;;;;CIL DE TAGUATINGA
+2026.0;CEM 02 de Brazlândia;Brazlândia;20698.0;Maio;Capital;50000.0;;;;;Brazlândia;Aquisição de aparelhos de TV para as salas de aula.;;;;;;CEM 02 DE BRAZLANDIA
+2026.0;CEF 01 de Candagolândia;Candangolândia;20699.0;Maio;Custeio;35000.0;;;;;Núcleo Bandeirante;Estúdio social nas escolas produtora social (Projeto do Rasta);;;;;;CEF 01 DE CANDAGOLANDIA
+2026.0;CEF 01 de Candagolândia;Candangolândia;20698.0;Maio;Capital;15000.0;;;;;Núcleo Bandeirante;Estúdio social nas escolas produtora social (Projeto do Rasta);;;;;;CEF 01 DE CANDAGOLANDIA
+2026.0;EC 62 de Ceilândia;Ceilândia;20698.0;Maio;Capital;50000.0;;;;;Ceilândia;Reforma do parquinho, ampliação e adequação da sala de recursos e aquisição de computador, impressora, tablets, entre outros.;;;;;;EC 62 de Ceilândia
+2026.0;EC 10 de Ceilândia;Ceilândia;20699.0;Maio;Custeio;50000.0;;;;;Ceilândia;Pintura artística nos muros,pisos e paredes da escola;;;;;;EC 10 de Ceilândia
+2026.0;Escola Parque Anísio Teixeira;Ceilândia;20698.0;Maio;Capital;50000.0;;;;;Ceilândia;Aquisição de equipamentos para oficina de guitarra elétrica;;;;;;EP ANISIO TEIXEIRA
+2026.0;CEM 09 de Ceilândia;Ceilândia;20699.0;Maio;Custeio;50000.0;;;;;Ceilândia;Projeto Mostra Lamparina;;;;;;CEM 09 de Ceilândia
+2026.0;CEF 13 de Ceilândia;Ceilândia;20698.0;Maio;Capital;50000.0;;;;;Ceilândia;Compra do mobiliário, equipamentos de informática e jogos educativos para sala de recursos da EJA Interventiva;;;;;;CEF 13 de Ceilândia
+2026.0;CED Casa Grande;Gama;20699.0;Maio;Custeio;50000.0;;;;;Gama;Aquisição de mobiliário de escritório, manutenção de equipamentos eletroeletrônicos, manutenção predial, aquisição de material de expediente, papelaria, copa e cozinha, processamento de dados, esportivo;;;;;;CED Casa Grande
+2026.0;EC 07 do Guará;Guará;20698.0;Maio;Capital;50000.0;;;;;Guará;Parquinho/brinquedoteca (escola passou de EC para CEI);;;;;;EC 07 do Guará
+2026.0;EC Pedra Fundamental;Planaltina;20699.0;Maio;Custeio;50000.0;;;;;Planaltina;Mobiliário para a sala de leitura;;;;;;EC Pedra Fundamental
+2026.0;CED Stella dos Cherubins Guimarães Trois;Planaltina;20698.0;Maio;Capital;50000.0;;;;;Planaltina;aquisição de bens de capital, especificamente computadores e equipamentos de informática, destinados ao fortalecimento do curso técnico ofertado por esta instituição;;;;;;CED Stella dos Cherubins Guimarães Trois
+2026.0;EC Córrego do Meio;Planaltina;20699.0;Maio;Custeio;50000.0;;;;;Planaltina;Adequação dos acessos à Unidade Escolar e dos espaços de convivência;;;;;;EC Córrego do Meio
+2026.0;EC 408 de Samambaia;Samambaia;20698.0;Maio;Capital;50000.0;;;;;Samambaia;Móveis para os ambientes pedagógicos, aparelhos de ar-condicionado e equipamentos eletroeletrônicos;;;;;;EC 408 de Samambaia
+2026.0;CEF 103 de Santa Maria;Santa Maria;20699.0;Maio;Custeio;25000.0;;;;;Santa Maria;Execução do projeto Diboísmo na Voz - Por uma Cultura de Paz nas Escolas;;;;;;CEF 103 DE SANTA MARIA
+2026.0;EC 19 de Taguatinga;Taguatinga;20698.0;Maio;Capital;50000.0;;;;;Taguatinga;Compra de mobiliário para sala dos professores;;;;;;EC 19 DE TAGUATINGA
+2026.0;CEF 11 de Taguatinga;Taguatinga;20698.0;Maio;Capital;50000.0;;;;;Taguatinga;Compra de mobiliário;;;;;;CEF 11 DE TAGUATINGA
+2026.0;CEM 05 de Taguatinga;Taguatinga;20698.0;Maio;Capital;50000.0;;;;;Taguatinga;Aquisição de equipamentos para revitalização do Laboratório de Ciências e outros;;;;;;CEM 05 DE TAGUATINGA
+2026.0;Coordenação Regional de Taguatinga (Polo de Altas Habilidades/Superdotação de Taguatinga);Taguatinga;20698.0;Maio;Capital;50000.0;;;;CRE;Taguatinga;Aquisição de itens;;;;;;POLO DE ALTAS HABILIDADES SUPERDOTACAO DE TAGUATINGA
+2026.0;Coordenação Regional de Taguatinga (CEM Ave Branca – CEMAB);Taguatinga;20699.0;Maio;Custeio;50000.0;;;;CRE;Taguatinga;Adequação e manutenção de infraestrutura;;;;;;CEM AVE BRANCA
+2026.0;EC 48 de Ceilândia;Ceilândia;21010.0;Junho;Custeio;50000.0;;;;;Ceilândia;Revitalização de parquinho;;;;;;EC 48 de Ceilândia
+2026.0;CEM 04 de Ceilândia;Ceilândia;21008.0;Junho;Capital;30000.0;;;;;Ceilândia;Aquisição de equipamentos para laboratório;;;;;;CEM 04 de Ceilândia
+2026.0;CAIC Bernardo Sayão;Ceilândia;21008.0;Junho;Capital;50000.0;;;;;Ceilândia;Aquisição de equipamentos;;;;;;CAIC Bernardo Sayão
+2026.0;EC 01 de Ceilândia;Ceilândia;21010.0;Junho;Custeio;25000.0;;;;;Ceilândia;Manutenções e revitalizações de espaços da escola;;;;;;EC 01 de Ceilândia
+2026.0;EC 01 de Ceilândia;Ceilândia;21008.0;Junho;Capital;25000.0;;;;;Ceilândia;Aquisição de equipamentos;;;;;;EC 01 de Ceilândia
+2026.0;CEM 09 de Ceilândia;Ceilândia;21010.0;Junho;Custeio;30000.0;;;;;Ceilândia;Realização de projeto pedagógico;;;;;;CEM 09 de Ceilândia
+2026.0;CEM 12 de Ceilândia;Ceilândia;21010.0;Junho;Custeio;30000.0;;;;;Ceilândia;Realização de projeto pedagógico;;;;;;CEM 12 de Ceilândia
+2026.0;CEMI do Gama;Gama;21010.0;Junho;Custeio;80000.0;;;;;Gama;Revitalização de laboratório e realização de projetos pedagógicos;;;;;;CEMI DO GAMA
+2026.0;CEMI do Gama;Gama;21008.0;Junho;Capital;40000.0;;;;;Gama;Aquisição de equipamentos para laboratório;;;;;;CEMI DO GAMA
+2026.0;EC Comunidade de Aprendizagem do Paranoá (CAP);Paranoá;21010.0;Junho;Custeio;25000.0;;;;;Paranoá;Manutenções e ampliação de recursos educacionais;;;;;;EC COMUNIDADE DE APRENDIZAGEM DO PARANOA CAP
+2026.0;EC Comunidade de Aprendizagem do Paranoá (CAP);Paranoá;21008.0;Junho;Capital;25000.0;;;;;Paranoá;Aquisição de equipamentos;;;;;;EC COMUNIDADE DE APRENDIZAGEM DO PARANOA CAP
+2026.0;EC 06 de Planaltina;Planaltina;21010.0;Junho;Custeio;50000.0;;;;;Planaltina;Manutenções e conservações na escola;;;;;;EC 06 de Planaltina
+2026.0;CEI Gavião;Lago Norte;21010.0;Junho;Custeio;50000.0;;;;;Plano Piloto;Manutenções e aquisição de materiais;;;;;;CEI GAVIAO
+2026.0;Escola do Parque da Cidade (PROEM);Plano Piloto;21010.0;Junho;Custeio;30000.0;;;;;Plano Piloto;Aquisições para reparos e manutenção na escola;;;;;;Escola do Parque da Cidade - PROEM
+2026.0;Centro Educacional do Lago (CEL);Plano Piloto;21008.0;Junho;Capital;50000.0;;;;;Plano Piloto;Aquisição de equipamentos;;;;;;CED DO LAGO CEL
+2026.0;Escola do Parque da Cidade (PROEM);Plano Piloto;21008.0;Junho;Capital;20000.0;;;;;Plano Piloto;Aquisição de equipamentos;;;;;;Escola do Parque da Cidade - PROEM
+2026.0;CEF Polivalente;Plano Piloto;21010.0;Junho;Custeio;30000.0;;;;;Plano Piloto;Despesa de custeio a ser definida pela escola;;;;;;CEF Polivalente
+2026.0;CEM 414 de Samambaia;Samambaia;21010.0;Junho;Custeio;50000.0;;;;;Samambaia;Realização de projeto pedagógico;;;;;;CEM 414 de Samambaia
+2026.0;CEF 312 de Samambaia;Samambaia;21008.0;Junho;Capital;30000.0;;;;;Samambaia;Aquisição de equipamentos;;;;;;CEF 312 DE SAMAMBAIA
+2026.0;EC 215 de Santa Maria;Santa Maria;21010.0;Junho;Custeio;50000.0;;;;;Santa Maria;Manutenções e revitalização da cantina;;;;;;EC 215 DE SANTA MARIA
+2026.0;CEF 11 de Taguatinga;Taguatinga;21010.0;Junho;Custeio;50000.0;;;;;Taguatinga;Realização de projeto pedagógico;;;;;;CEF 11 DE TAGUATINGA
+2026.0;CEF 11 de Taguatinga;Taguatinga;21591.0;Agosto;Custeio;50000.0;;;;;Taguatinga;Realização de projetos;;;;;;CEF 11 DE TAGUATINGA
+2026.0;CEM 04 de Ceilândia;Ceilândia;21591.0;Agosto;Custeio;30000.0;;;;;Ceilândia;Manutenções na escola;;;;;;CEM 04 de Ceilândia
+2026.0;JI Casa de Vivência;Planaltina;21591.0;Agosto;Custeio;50000.0;;;;;Planaltina;Manutenções na escola;;;;;;JI Casa de Vivência
+2026.0;EC Guariroba;Samambaia;21590.0;Agosto;Capital;50000.0;;;;;Samambaia;Aquisição de equipamentos;;;;;;EC Guariroba
+2026.0;EC 59 de Ceilândia;Ceilândia;21591.0;Agosto;Custeio;30000.0;;;;;Ceilândia;Manutenções na escola e aquisição de materiais de consumo;;;;;;EC 59 de Ceilândia
+2026.0;EC 59 de Ceilândia;Ceilândia;21590.0;Agosto;Capital;20000.0;;;;;Ceilândia;Aquisição de equipamentos e bens permanentes;;;;;;EC 59 de Ceilândia
+2026.0;EC 13 de Ceilândia;Ceilândia;21590.0;Agosto;Capital;50000.0;;;;;Ceilândia;Aquisição de equipamentos e bens permanentes;;;;;;EC 13 de Ceilândia
+2026.0;Centro Interescolar de Esportes - CIEF;Plano Piloto;21590.0;Agosto;Capital;50000.0;;;;;Plano Piloto;Aquisição de equipamentos;;;;;;CENTRO INTERESCOLAR DE ESPORTES CIEF
+2026.0;EC 218 de Santa Maria;Santa Maria;21590.0;Agosto;Capital;35000.0;;;;;Santa Maria;Aquisição de equipamentos e mobiliário;;;;;;EC 218 DE SANTA MARIA
+2026.0;EC 218 de Santa Maria;Santa Maria;21591.0;Agosto;Custeio;8000.0;;;;;Santa Maria;Realização de serviços;;;;;;EC 218 DE SANTA MARIA
+2026.0;CEI 02 de Planaltina;Planaltina;21590.0;Agosto;Capital;25000.0;;;;;Planaltina;Aquisição de equipamentos;;;;;;CEI 02 de Planaltina
+2026.0;CEI 02 de Planaltina;Planaltina;21591.0;Agosto;Custeio;25000.0;;;;;Planaltina;Manutenções na escola e aquisição de materiais de consumo;;;;;;CEI 02 de Planaltina
+2026.0;EC 50 de Ceilândia;Ceilândia;21591.0;Agosto;Custeio;50000.0;;;;;Ceilândia;Manutenções na escola e realização de serviços;;;;;;EC 50 de Ceilândia
+2026.0;EC 14 de Planaltina;Planaltina;21591.0;Agosto;Custeio;50000.0;;;;;Planaltina;Manutenções na escola e aquisição de materiais de consumo;;;;;;EC 14 de Planaltina
+2026.0;CEMEIT - Centro de Ensino Médio EIT;Taguatinga;21590.0;Agosto;Capital;25000.0;;;;;Taguatinga;Aquisição de equipamentos;;;;;;CEM EIT
+2026.0;CEMEIT - Centro de Ensino Médio EIT;Taguatinga;21591.0;Agosto;Custeio;25000.0;;;;;Taguatinga;Manutenções na escola;;;;;;CEM EIT

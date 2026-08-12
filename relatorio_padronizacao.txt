@@ -1,0 +1,1082 @@
+==============================================================================
+RELATORIO DE PADRONIZACAO v2 - PDAF23-26.xlsx
+==============================================================================
+
+Abas: ['2023', '2024', '2025', '2026']
+Total de linhas: 758
+Chaves finais (unidades unicas): 342
+Grupos com grafia duplicada: 114
+
+------------------------------------------------------------------------------
+1) ESCOLAS COM GRAFIA DUPLICADA  (PADRAO = sua escolha "ok")
+------------------------------------------------------------------------------
+
+  [CAIC BERNARDO SAYAO]
+      "CAIC BERNARDO SAYAO"  -> abas: 2024, 2025
+      "CAIC Bernardo Sayão"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CAIC Bernardo Sayão"
+
+  [CAIC PROF ANISIO TEIXEIRA]
+      "CAIC PROF ANISIO TEIXEIRA"  -> abas: 2024, 2025
+      "CAIC PROFESSOR ANÍSIO TEIXEIRA"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CAIC PROFESSOR ANÍSIO TEIXEIRA"
+
+  [CED 01 DE BRASILIA]
+      "CED 01 DE BRASILIA"  -> abas: 2024, 2025
+      "CED 01 de Brasília"  -> abas: 2026  <-- PADRAO
+      "Centro Educacional 01 de Brasília"  -> abas: 2023
+      PADRAO: "CED 01 de Brasília"
+
+  [CED 01 DO GUARA]
+      "CED 01 DO GUARA"  -> abas: 2024
+      "CED 01 do Guará"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CED 01 do Guará"
+
+  [CED 03 DE PLANALTINA]
+      "CED 03 DE PLANALTINA"  -> abas: 2024
+      "CED 03 de Planaltina"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CED 03 de Planaltina"
+
+  [CED 06 DE CEILANDIA]
+      "CED 06 DE CEILANDIA"  -> abas: 2025  <-- PADRAO
+      "Centro Educacional 06 de Ceilândia"  -> abas: 2023
+      PADRAO: "CED 06 DE CEILANDIA"
+
+  [CED 06 DO GAMA]
+      "CED 06 DO GAMA"  -> abas: 2024, 2025
+      "CED 06 do Gama"  -> abas: 2026  <-- PADRAO
+      "Centro Educacional 06 do Gama"  -> abas: 2023
+      PADRAO: "CED 06 do Gama"
+
+  [CED 08 DO GAMA]
+      "CED 08 DO GAMA"  -> abas: 2025  <-- PADRAO
+      "Centro Educacional 08 do Gama"  -> abas: 2023
+      PADRAO: "CED 08 DO GAMA"
+
+  [CED 11 DE CEILANDIA]
+      "CED 11 DE CEILANDIA"  -> abas: 2024  <-- PADRAO
+      "Centro Educacional 11 de Ceilândia"  -> abas: 2023
+      PADRAO: "CED 11 DE CEILANDIA"
+
+  [CED 15 DE CEILANDIA]
+      "CED 15 DE CEILANDIA"  -> abas: 2024, 2025  <-- PADRAO
+      "Centro Educacional 15 de Ceilândia"  -> abas: 2023
+      PADRAO: "CED 15 DE CEILANDIA"
+
+  [CED 16 DE CEILANDIA]
+      "CED 16 DE CEILANDIA"  -> abas: 2024, 2025  <-- PADRAO
+      "Centro Educacional 16 de Ceilândia"  -> abas: 2023
+      PADRAO: "CED 16 DE CEILANDIA"
+
+  [CED 310 DE SANTA MARIA]
+      "CED 310 DE SANTA MARIA"  -> abas: 2024, 2025  <-- PADRAO
+      "CED 310 de Santa Maria/CEMI Santa Maria"  -> abas: 2026
+      PADRAO: "CED 310 DE SANTA MARIA"
+
+  [CED CASA GRANDE]
+      "CED CASA GRANDE"  -> abas: 2024
+      "CED Casa Grande"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CED Casa Grande"
+
+  [CED DARCY RIBEIRO]
+      "CED DARCY RIBEIRO"  -> abas: 2025
+      "CED Darcy Ribeiro"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CED Darcy Ribeiro"
+
+  [CED DONA AMERICA GUIMARAES]
+      "CED DONA AMERICA GUIMARAES"  -> abas: 2025  <-- PADRAO
+      "Centro Educacional Dona América Guimarães"  -> abas: 2023
+      PADRAO: "CED DONA AMERICA GUIMARAES"
+
+  [CED ENGENHO DAS LAJES]
+      "CED ENGENHO DAS LAJES"  -> abas: 2024, 2025  <-- PADRAO
+      "Centro Educacional Engenho das Lages"  -> abas: 2023
+      PADRAO: "CED ENGENHO DAS LAJES"
+
+  [CED INCRA 09]
+      "CED INCRA 09"  -> abas: 2024  <-- PADRAO
+      "Centro Educacional Incra 09 de Ceilândia"  -> abas: 2023
+      PADRAO: "CED INCRA 09"
+
+  [CED POMPILIO MARQUES DE SOUZA]
+      "CED POMPILIO MARQUES DE SOUZA"  -> abas: 2025
+      "CED POMPÍLIO MARQUES DE SOUZA"  -> abas: 2026  <-- PADRAO
+      "Centro Educacional Pompílio Marques de Souza"  -> abas: 2023
+      PADRAO: "CED POMPÍLIO MARQUES DE SOUZA"
+
+  [CED SAO BARTOLOMEU]
+      "CED SAO BARTOLOMEU"  -> abas: 2024  <-- PADRAO
+      "Centro Educacional São Bartolomeu"  -> abas: 2023
+      "Coordenação Regional de Ensino de São Sebastião (CED São Bartolomeu)"  -> abas: 2026
+      PADRAO: "CED SAO BARTOLOMEU"
+
+  [CED SAO FRANCISCO]
+      "CED SAO FRANCISCO"  -> abas: 2024, 2025  <-- PADRAO
+      "Centro Educacional São Francisco"  -> abas: 2023
+      "Coordenação Regional de Ensino de São Sebastião (CED São Francisco)"  -> abas: 2026
+      PADRAO: "CED SAO FRANCISCO"
+
+  [CED STELLA DOS CHERUBINS GUIMARAES TROIS]
+      "CED STELLA DOS CHERUBINS GUIMARAES TROIS"  -> abas: 2025
+      "CED Stella dos Cherubins Guimarães Trois"  -> abas: 2026  <-- PADRAO
+      "Centro Educacional Estella dos Cherubins"  -> abas: 2023
+      PADRAO: "CED Stella dos Cherubins Guimarães Trois"
+
+  [CED ZUMBI DOS PALMARES]
+      "CED ZUMBI DOS PALMARES"  -> abas: 2024  <-- PADRAO
+      "Centro Educacional Zumbi dos Palmares"  -> abas: 2023
+      PADRAO: "CED ZUMBI DOS PALMARES"
+
+  [CEE 01 DE CEILANDIA]
+      "CEE 01 DE CEILANDIA"  -> abas: 2024, 2025  <-- PADRAO
+      "Centro de Ensino Especial 01 de Ceilândia"  -> abas: 2023
+      PADRAO: "CEE 01 DE CEILANDIA"
+
+  [CEE 02 DE CEILANDIA]
+      "CEE 02 DE CEILANDIA"  -> abas: 2024, 2025  <-- PADRAO
+      "Centro de Ensino Especial 02 de Ceilândia"  -> abas: 2023
+      PADRAO: "CEE 02 DE CEILANDIA"
+
+  [CEF 01 DO GAMA]
+      "CEF 01 DO GAMA"  -> abas: 2025
+      "CEF 01 do Gama"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CEF 01 do Gama"
+
+  [CEF 02 DO ARAPOANGA]
+      "CEF 02 DO ARAPOANGA"  -> abas: 2024, 2025
+      "CEF 02 do Arapoanga"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CEF 02 do Arapoanga"
+
+  [CEF 03 DE PLANALTINA]
+      "CEF 03 DE PLANALTINA"  -> abas: 2024, 2025
+      "CEF 03 de Planaltina"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CEF 03 de Planaltina"
+
+  [CEF 04 DE CEILANDIA]
+      "CEF 04 DE CEILANDIA"  -> abas: 2024, 2025  <-- PADRAO
+      "Centro de Ensino Fundamental 04 de Ceilândia"  -> abas: 2023
+      PADRAO: "CEF 04 DE CEILANDIA"
+
+  [CEF 10 DE CEILANDIA]
+      "CEF 10 DE CEILANDIA"  -> abas: 2024  <-- PADRAO
+      "Centro de Ensino Fundamental 10 de Ceilândia"  -> abas: 2023
+      PADRAO: "CEF 10 DE CEILANDIA"
+
+  [CEF 10 DO GAMA]
+      "CEF 10 DO GAMA"  -> abas: 2024, 2025
+      "CEF 10 do Gama"  -> abas: 2026  <-- PADRAO
+      "Centro de Ensino Fundamental 10 do Gama"  -> abas: 2023
+      PADRAO: "CEF 10 do Gama"
+
+  [CEF 13 DE CEILANDIA]
+      "CEF 13 DE CEILANDIA"  -> abas: 2024
+      "CEF 13 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CEF 13 de Ceilândia"
+
+  [CEF 15 DO GAMA]
+      "CEF 15 DO GAMA"  -> abas: 2025
+      "CEF 15 do Gama"  -> abas: 2026  <-- PADRAO
+      "Centro de Ensino Fundamental 15 do Gama"  -> abas: 2023
+      PADRAO: "CEF 15 do Gama"
+
+  [CEF 19 DE CEILANDIA]
+      "CEF 19 DE CEILANDIA"  -> abas: 2025
+      "CEF 19 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CEF 19 de Ceilândia"
+
+  [CEF 27 DE CEILANDIA]
+      "CEF 27 DE CEILANDIA"  -> abas: 2024, 2025
+      "CEF 27 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      "Centro de Ensino Fundamental 27 de Ceilândia"  -> abas: 2023
+      PADRAO: "CEF 27 de Ceilândia"
+
+  [CEF 31 DE CEILANDIA]
+      "CEF 31 DE CEILANDIA"  -> abas: 2025
+      "CEF 31 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CEF 31 de Ceilândia"
+
+  [CEF 33 DE CEILANDIA]
+      "CEF 33 DE CEILANDIA"  -> abas: 2025
+      "CEF 33 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CEF 33 de Ceilândia"
+
+  [CEF 403 DE SANTA MARIA]
+      "CEF 403 DE SANTA MARIA"  -> abas: 2025
+      "CEF 403 de Santa Maria"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CEF 403 de Santa Maria"
+
+  [CEF 418 DE SANTA MARIA]
+      "CEF 418 DE SANTA MARIA"  -> abas: 2024, 2025
+      "CEF 418 de Santa Maria"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CEF 418 de Santa Maria"
+
+  [CEF DO BOSQUE]
+      "CEF DO BOSQUE"  -> abas: 2025  <-- PADRAO
+      "Centro de Ensino Fundamental do Bosque"  -> abas: 2023
+      "Coordenação Regional de Ensino de São Sebastião (CEF do Bosque)"  -> abas: 2026
+      PADRAO: "CEF DO BOSQUE"
+
+  [CEF DOUTORA ZILDA ARNS]
+      "CEF DOUTORA ZILDA ARNS"  -> abas: 2026
+      "CEF Zilda Arns"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CEF Zilda Arns"
+
+  [CEF NOSSA SENHORA DE FATIMA]
+      "CEF NOSSA SENHORA DE FÁTIMA"  -> abas: 2026  <-- PADRAO
+      "CEF NOSSA SENHORA FATIMA"  -> abas: 2025
+      "Centro de Ensino Fundamental Nossa Senhora de Fátima"  -> abas: 2023
+      PADRAO: "CEF NOSSA SENHORA DE FÁTIMA"
+
+  [CEF POLIVALENTE]
+      "CEF POLIVALENTE"  -> abas: 2025
+      "CEF Polivalente"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CEF Polivalente"
+
+  [CEF PROF MARIA DO ROSARIO GONDIM DA SILVA]
+      "CEF PROF MARIA DO ROSARIO GONDIM DA SILVA"  -> abas: 2024
+      "CEF Professora Maria do Rosário Gondim da Silva"  -> abas: 2023  <-- PADRAO
+      PADRAO: "CEF Professora Maria do Rosário Gondim da Silva"
+
+  [CEF TAMANDUA]
+      "CEF TAMANDUA"  -> abas: 2024, 2025
+      "CEF TAMANDUÁ"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CEF TAMANDUÁ"
+
+  [CEI 02 DE PLANALTINA]
+      "CEI 02 DE PLANALTINA"  -> abas: 2024, 2025
+      "CEI 02 de Planaltina"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CEI 02 de Planaltina"
+
+  [CEM 01 DE PLANALTINA]
+      "CEM 01 DE PLANALTINA"  -> abas: 2025  <-- PADRAO
+      "Centro de Ensino Médio 01"  -> abas: 2023
+      PADRAO: "CEM 01 DE PLANALTINA"
+
+  [CEM 01 DE SAO SEBASTIAO]
+      "CEM 01 DE SAO SEBASTIAO"  -> abas: 2024  <-- PADRAO
+      "Centro de Ensino Médio 01 de São Sebastião"  -> abas: 2023
+      "Coordenação Regional de Ensino de São Sebastião (CEM 01)"  -> abas: 2026
+      PADRAO: "CEM 01 DE SAO SEBASTIAO"
+
+  [CEM 01 DO GAMA]
+      "CEM 01 DO GAMA"  -> abas: 2025
+      "CEM 01 do Gama"  -> abas: 2026  <-- PADRAO
+      "Centro de Ensino Médio 01 do Gama"  -> abas: 2023
+      PADRAO: "CEM 01 do Gama"
+
+  [CEM 02 DE CEILANDIA]
+      "CEM 02 DE CEILANDIA"  -> abas: 2024, 2025
+      "CEM 02 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      "Centro de Ensino Médio 02 de Ceilândia"  -> abas: 2023
+      PADRAO: "CEM 02 de Ceilândia"
+
+  [CEM 02 DO GAMA]
+      "CEM 02 DO GAMA"  -> abas: 2024, 2025
+      "CEM 02 do Gama"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CEM 02 do Gama"
+
+  [CEM 03 DE CEILANDIA]
+      "CEM 03 DE CEILANDIA"  -> abas: 2024, 2025  <-- PADRAO
+      "Centro de Ensino Médio 03 de Ceilândia"  -> abas: 2023
+      PADRAO: "CEM 03 DE CEILANDIA"
+
+  [CEM 03 DO GAMA]
+      "CEM 03 DO GAMA"  -> abas: 2024  <-- PADRAO
+      "Centro de Ensino Médio 03 do Gama"  -> abas: 2023
+      PADRAO: "CEM 03 DO GAMA"
+
+  [CEM 04 DE CEILANDIA]
+      "CEM 04 DE CEILANDIA"  -> abas: 2024
+      "CEM 04 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      "Centro de Ensino Médio 04 de Ceilândia"  -> abas: 2023
+      PADRAO: "CEM 04 de Ceilândia"
+
+  [CEM 09 DE CEILANDIA]
+      "CEM 09 DE CEILANDIA"  -> abas: 2024, 2025
+      "CEM 09 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      "Centro de Ensino Médio 09 de Ceilândia"  -> abas: 2023
+      PADRAO: "CEM 09 de Ceilândia"
+
+  [CEM 10 DE CEILANDIA]
+      "CEM 10 DE CEILANDIA"  -> abas: 2024, 2025  <-- PADRAO
+      "Centro de Ensino Médio 10 de Ceilândia"  -> abas: 2023
+      PADRAO: "CEM 10 DE CEILANDIA"
+
+  [CEM 12 DE CEILANDIA]
+      "CEM 12 DE CEILANDIA"  -> abas: 2024, 2025
+      "CEM 12 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      "Centro de Ensino Médio 12 de Ceilândia"  -> abas: 2023
+      PADRAO: "CEM 12 de Ceilândia"
+
+  [CEM 414 DE SAMAMBAIA]
+      "CEM 414 DE SAMAMBAIA"  -> abas: 2024
+      "CEM 414 de Samambaia"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CEM 414 de Samambaia"
+
+  [CEM AVE BRANCA]
+      "CEM AVE BRANCA"  -> abas: 2025  <-- PADRAO
+      "Coordenação Regional de Taguatinga (CEM Ave Branca – CEMAB)"  -> abas: 2026
+      PADRAO: "CEM AVE BRANCA"
+
+  [CEM EIT]
+      "CEM EIT"  -> abas: 2025, 2026  <-- PADRAO
+      "CEMEIT - Centro de Ensino Médio EIT"  -> abas: 2026
+      PADRAO: "CEM EIT"
+
+  [CEM TAGUATINGA NORTE]
+      "CEM TN"  -> abas: 2025
+      "CEM Taguatinga Norte"  -> abas: 2026  <-- PADRAO
+      PADRAO: "CEM Taguatinga Norte"
+
+  [CEMI DO GAMA]
+      "CEMI do Gama"  -> abas: 2026
+      "Centro de Ensino Médio Integrado do Gama"  -> abas: 2023
+      PADRAO: "CEMI DO GAMA"
+
+  [CRE CEILANDIA]
+      "CRE CEILANDIA"  -> abas: 2025
+      "CRE CEILÂNDIA"  -> abas: 2024  <-- PADRAO
+      PADRAO: "CRE CEILÂNDIA"
+
+  [CRE GAMA]
+      "CRE GAMA"  -> abas: 2025  <-- PADRAO
+      "Coordenação Regional de Enisno do Gama"  -> abas: 2026
+      PADRAO: "CRE GAMA"
+
+  [CRE GUARA]
+      "CRE GUARA"  -> abas: 2025
+      "CRE GUARÁ"  -> abas: 2024  <-- PADRAO
+      PADRAO: "CRE GUARÁ"
+
+  [CRE TAGUATINGA]
+      "CRE TAGUATINGA"  -> abas: 2024, 2025  <-- PADRAO
+      "Coordenação Regional de Taguatinga"  -> abas: 2023
+      PADRAO: "CRE TAGUATINGA"
+
+  [EC 01 DE CEILANDIA]
+      "EC 01 DE CEILANDIA"  -> abas: 2024
+      "EC 01 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      "Escola Classe 01 de Ceilândia"  -> abas: 2023
+      PADRAO: "EC 01 de Ceilândia"
+
+  [EC 03 DE CEILANDIA]
+      "EC 03 DE CEILANDIA"  -> abas: 2024  <-- PADRAO
+      "Escola Classe 03 de Ceilândia"  -> abas: 2023
+      PADRAO: "EC 03 DE CEILANDIA"
+
+  [EC 05 DE PLANALTINA]
+      "EC 05 DE PLANALTINA"  -> abas: 2024
+      "EC 05 de Planaltina"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC 05 de Planaltina"
+
+  [EC 06 DE PLANALTINA]
+      "EC 06 DE PLANALTINA"  -> abas: 2024
+      "EC 06 de Planaltina"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC 06 de Planaltina"
+
+  [EC 06 DO GAMA]
+      "EC 06 DO GAMA"  -> abas: 2024  <-- PADRAO
+      "Escola Classe 06 do Gama"  -> abas: 2023
+      PADRAO: "EC 06 DO GAMA"
+
+  [EC 07 DE PLANALTINA]
+      "EC 07 DE PLANALTINA"  -> abas: 2024  <-- PADRAO
+      "Escola Classe 07 de Planaltina"  -> abas: 2023
+      PADRAO: "EC 07 DE PLANALTINA"
+
+  [EC 07 DO GUARA]
+      "EC 07 DO GUARA"  -> abas: 2024
+      "EC 07 do Guará"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC 07 do Guará"
+
+  [EC 10 DE CEILANDIA]
+      "EC 10 DE CEILANDIA"  -> abas: 2024
+      "EC 10 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      "Escola Classe 10 de Ceilândia"  -> abas: 2023
+      PADRAO: "EC 10 de Ceilândia"
+
+  [EC 12 DO GAMA]
+      "EC 12 DO GAMA"  -> abas: 2024, 2025
+      "EC 12 do Gama"  -> abas: 2026  <-- PADRAO
+      "Escola Classe 12 do Gama"  -> abas: 2023
+      PADRAO: "EC 12 do Gama"
+
+  [EC 13 DE CEILANDIA]
+      "EC 13 DE CEILANDIA"  -> abas: 2024
+      "EC 13 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC 13 de Ceilândia"
+
+  [EC 14 DE PLANALTINA]
+      "EC 14 DE PLANALTINA"  -> abas: 2024, 2025
+      "EC 14 de Planaltina"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC 14 de Planaltina"
+
+  [EC 14 DO GAMA]
+      "EC 14 DO GAMA"  -> abas: 2024
+      "EC 14 do Gama"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC 14 do Gama"
+
+  [EC 15 DE CEILANDIA]
+      "EC 15 DE CEILANDIA"  -> abas: 2024
+      "Escola Classe 15 de Ceilândia"  -> abas: 2023
+      PADRAO: "EC 15 de Ceilândia"
+
+  [EC 16 DE PLANALTINA]
+      "EC 16 DE PLANALTINA"  -> abas: 2024, 2025
+      "EC 16 de Planaltina"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC 16 de Planaltina"
+
+  [EC 17 DE SOBRADINHO]
+      "EC 17 DE SOBRADINHO"  -> abas: 2025
+      "EC 17 de Sobradinho"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC 17 de Sobradinho"
+
+  [EC 18 DO GAMA]
+      "EC 18 DO GAMA"  -> abas: 2024, 2025
+      "EC 18 do Gama"  -> abas: 2026  <-- PADRAO
+      "Escola Classe 18 do Gama"  -> abas: 2023
+      PADRAO: "EC 18 do Gama"
+
+  [EC 19 DO GAMA]
+      "EC 19 DO GAMA"  -> abas: 2024  <-- PADRAO
+      "Escola Classe 19 do Gama"  -> abas: 2023
+      PADRAO: "EC 19 DO GAMA"
+
+  [EC 20 DE CEILANDIA]
+      "EC 20 DE CEILANDIA"  -> abas: 2024  <-- PADRAO
+      "Escola Classe 20 de Ceilândia"  -> abas: 2023
+      PADRAO: "EC 20 DE CEILANDIA"
+
+  [EC 21 DE CEILANDIA]
+      "EC 21 DE CEILANDIA"  -> abas: 2024
+      "EC 21 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC 21 de Ceilândia"
+
+  [EC 21 DO GAMA]
+      "EC 21 do Gama"  -> abas: 2026  <-- PADRAO
+      "Escola Classe 21 do Gama"  -> abas: 2023
+      PADRAO: "EC 21 do Gama"
+
+  [EC 26 DE CEILANDIA]
+      "EC 26 DE CEILANDIA"  -> abas: 2024  <-- PADRAO
+      "Escola Classe 26 de Ceilândia"  -> abas: 2023
+      PADRAO: "EC 26 DE CEILANDIA"
+
+  [EC 29 DE CEILANDIA]
+      "EC 29 DE CEILANDIA"  -> abas: 2024
+      "EC 29 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC 29 de Ceilândia"
+
+  [EC 29 DO GAMA]
+      "EC 29 DO GAMA"  -> abas: 2024, 2025
+      "EC 29 do Gama"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC 29 do Gama"
+
+  [EC 34 DE CEILANDIA]
+      "EC 34 DE CEILANDIA"  -> abas: 2024, 2025  <-- PADRAO
+      "Escola Classe 34 de Ceilândia"  -> abas: 2023
+      PADRAO: "EC 34 DE CEILANDIA"
+
+  [EC 35 DE CEILANDIA]
+      "EC 35 DE CEILANDIA"  -> abas: 2024, 2025
+      "EC 35 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC 35 de Ceilândia"
+
+  [EC 408 DE SAMAMBAIA]
+      "EC 408 DE SAMAMBAIA"  -> abas: 2025
+      "EC 408 de Samambaia"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC 408 de Samambaia"
+
+  [EC 410 DE SAMAMBAIA]
+      "EC 410 DE SAMAMBAIA"  -> abas: 2024  <-- PADRAO
+      "Escola Classe 410 de Samambaia"  -> abas: 2023
+      PADRAO: "EC 410 DE SAMAMBAIA"
+
+  [EC 48 DE CEILANDIA]
+      "EC 48 DE CEILANDIA"  -> abas: 2024, 2025
+      "EC 48 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC 48 de Ceilândia"
+
+  [EC 50 DE CEILANDIA]
+      "EC 50 DE CEILANDIA"  -> abas: 2024, 2025
+      "EC 50 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      "Escola Classe 50 de Ceilândia"  -> abas: 2023
+      PADRAO: "EC 50 de Ceilândia"
+
+  [EC 55 DE CEILANDIA]
+      "EC 55 DE CEILANDIA"  -> abas: 2024  <-- PADRAO
+      "Escola Classe 55 de Ceilândia"  -> abas: 2023
+      PADRAO: "EC 55 DE CEILANDIA"
+
+  [EC 56 DE CEILANDIA]
+      "EC 56 DE CEILANDIA"  -> abas: 2024, 2025
+      "EC 56 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC 56 de Ceilândia"
+
+  [EC 59 DE CEILANDIA]
+      "EC 59 DE CEILANDIA"  -> abas: 2024
+      "EC 59 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC 59 de Ceilândia"
+
+  [EC 62 DE CEILANDIA]
+      "EC 62 DE CEILANDIA"  -> abas: 2024
+      "EC 62 de Ceilândia"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC 62 de Ceilândia"
+
+  [EC 65 DE CEILANDIA]
+      "EC 65 DE CEILANDIA"  -> abas: 2024  <-- PADRAO
+      "Escola Classe 65"  -> abas: 2023
+      PADRAO: "EC 65 DE CEILANDIA"
+
+  [EC 66 DE CEILANDIA]
+      "EC 66 DE CEILANDIA"  -> abas: 2024, 2025  <-- PADRAO
+      "Escola Classe 66"  -> abas: 2023
+      PADRAO: "EC 66 DE CEILANDIA"
+
+  [EC 68 DE CEILANDIA]
+      "EC 68 DE CEILANDIA"  -> abas: 2024  <-- PADRAO
+      "Escola Classe 68"  -> abas: 2023
+      PADRAO: "EC 68 DE CEILANDIA"
+
+  [EC CORREGO DO MEIO]
+      "EC CORREGO DO MEIO"  -> abas: 2024
+      "EC Córrego do Meio"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC Córrego do Meio"
+
+  [EC GUARIROBA]
+      "EC GUARIROBA"  -> abas: 2024
+      "EC Guariroba"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC Guariroba"
+
+  [EC JIBOIA]
+      "EC JIBOIA"  -> abas: 2024  <-- PADRAO
+      "Escola Classe Jiboia"  -> abas: 2023
+      PADRAO: "EC JIBOIA"
+
+  [EC JUSCELINO KUBITSCHEK SOL NASCENTE]
+      "EC JUSCELINO KUBITSCHEK - SOL NASCENTE"  -> abas: 2024
+      "EC JUSCELINO KUBITSCHEK SOL NASCENTE"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC JUSCELINO KUBITSCHEK SOL NASCENTE"
+
+  [EC LAJES DA JIBOIA]
+      "EC LAJES DA JIBOIA"  -> abas: 2024  <-- PADRAO
+      "Escola Classe Lajes da Jiboia"  -> abas: 2023
+      PADRAO: "EC LAJES DA JIBOIA"
+
+  [EC P NORTE]
+      "EC P NORTE"  -> abas: 2025  <-- PADRAO
+      "Escola Classe P Norte"  -> abas: 2023
+      PADRAO: "EC P NORTE"
+
+  [EC PARANA]
+      "EC PARANA"  -> abas: 2024, 2025
+      "EC PARANÁ"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC PARANÁ"
+
+  [EC PEDRA FUNDAMENTAL]
+      "EC PEDRA FUNDAMENTAL"  -> abas: 2024
+      "EC Pedra Fundamental"  -> abas: 2026  <-- PADRAO
+      PADRAO: "EC Pedra Fundamental"
+
+  [EP ANISIO TEIXEIRA]
+      "CRE Ceilândia (Escola Parque Anísio Teixeira)"  -> abas: 2023
+      "EP ANISIO TEIXEIRA"  -> abas: 2024  <-- PADRAO
+      "Escola Parque Anísio Teixeira"  -> abas: 2026
+      PADRAO: "EP ANISIO TEIXEIRA"
+
+  [ESCOLA DO PARQUE DA CIDADE PROEM]
+      "ESC DO PARQUE DA CIDADE PROEM"  -> abas: 2025
+      "Escola do Parque da Cidade (PROEM)"  -> abas: 2023, 2026
+      "Escola do Parque da Cidade - PROEM"  -> abas: 2026  <-- PADRAO
+      PADRAO: "Escola do Parque da Cidade - PROEM"
+
+  [ESCOLA MENINOS E MENINAS DO PARQUE]
+      "ESC MENINOS E MENINAS DO PARQUE"  -> abas: 2024, 2025
+      "Escola Meninos e Meninas do Parque"  -> abas: 2023  <-- PADRAO
+      PADRAO: "Escola Meninos e Meninas do Parque"
+
+  [JI 03 DO GAMA]
+      "JI 03 DO GAMA"  -> abas: 2024
+      "JI 03 do Gama"  -> abas: 2026  <-- PADRAO
+      PADRAO: "JI 03 do Gama"
+
+  [JI CASA DE VIVENCIA]
+      "JI CASA DE VIVENCIA"  -> abas: 2024
+      "JI Casa de Vivência"  -> abas: 2026  <-- PADRAO
+      PADRAO: "JI Casa de Vivência"
+
+------------------------------------------------------------------------------
+2) ENTRADAS QUE NAO SAO ESCOLA (CRE / Coordenacao Regional)
+------------------------------------------------------------------------------
+  CRE BRAZLANDIA  (1 linha(s))
+  CRE CEILANDIA  (3 linha(s))
+  CRE GAMA  (4 linha(s))
+  CRE GUARA  (4 linha(s))
+  CRE NUCLEO BANDEIRANTE  (1 linha(s))
+  CRE PARANOA  (2 linha(s))
+  CRE PLANALTINA  (3 linha(s))
+  CRE RECANTO DAS EMAS  (2 linha(s))
+  CRE SAMAMBAIA  (3 linha(s))
+  CRE SANTA MARIA  (3 linha(s))
+  CRE SAO SEBASTIAO  (2 linha(s))
+  CRE SOBRADINHO  (2 linha(s))
+  CRE TAGUATINGA  (7 linha(s))
+
+------------------------------------------------------------------------------
+3) NOMES INCOMPLETOS / SEM REGIAO
+------------------------------------------------------------------------------
+  (nenhum - todos os nomes incompletos foram resolvidos)
+
+------------------------------------------------------------------------------
+4) VERIFICACAO POR RA (grupos com RA divergente entre linhas)
+------------------------------------------------------------------------------
+ATENCAO: estes grupos tem linhas com RA diferentes - conferir:
+
+  [CEF 02 DO ARAPOANGA]  RAs: ARAPOANGA, PLANALTINA
+      "CEF 02 DO ARAPOANGA" (2024 linha 314) -> RA=PLANALTINA
+      "CEF 02 DO ARAPOANGA" (2025 linha 31) -> RA=PLANALTINA
+      "CEF 02 do Arapoanga" (2026 linha 21) -> RA=ARAPOANGA
+
+  [CRE PARANOA]  RAs: ITAPOA, PARANOA
+      "CRE PARANOA" (2025 linha 114) -> RA=ITAPOA
+      "CRE PARANOA" (2025 linha 115) -> RA=PARANOA
+
+------------------------------------------------------------------------------
+5) NOMES COM FORMA EXTENSA CONVERTIDOS PELAS NOVAS REGRAS
+------------------------------------------------------------------------------
+  "Centro de Ensino Especial 01 de Ceilândia" (2023 linha 3) -> CEE 01 DE CEILANDIA
+  "Centro de Ensino Especial 01 de Ceilândia" (2023 linha 4) -> CEE 01 DE CEILANDIA
+  "Centro de Ensino Especial 02 de Ceilândia" (2023 linha 5) -> CEE 02 DE CEILANDIA
+  "Centro de Ensino Especial 02 de Ceilândia" (2023 linha 6) -> CEE 02 DE CEILANDIA
+  "Centro de Ensino Fundamental 04 de Ceilândia" (2023 linha 7) -> CEF 04 DE CEILANDIA
+  "Centro de Ensino Fundamental 10 de Ceilândia" (2023 linha 8) -> CEF 10 DE CEILANDIA
+  "Centro de Ensino Fundamental 27 de Ceilândia" (2023 linha 9) -> CEF 27 DE CEILANDIA
+  "Centro de Ensino Fundamental 27 de Ceilândia" (2023 linha 10) -> CEF 27 DE CEILANDIA
+  "Centro de Ensino Médio 02 de Ceilândia" (2023 linha 11) -> CEM 02 DE CEILANDIA
+  "Centro de Ensino Médio 02 de Ceilândia" (2023 linha 12) -> CEM 02 DE CEILANDIA
+  "Centro de Ensino Médio 03 de Ceilândia" (2023 linha 13) -> CEM 03 DE CEILANDIA
+  "Centro de Ensino Médio 03 de Ceilândia" (2023 linha 14) -> CEM 03 DE CEILANDIA
+  "Centro de Ensino Médio 04 de Ceilândia" (2023 linha 15) -> CEM 04 DE CEILANDIA
+  "Centro de Ensino Médio 09 de Ceilândia" (2023 linha 16) -> CEM 09 DE CEILANDIA
+  "Centro de Ensino Médio 09 de Ceilândia" (2023 linha 17) -> CEM 09 DE CEILANDIA
+  "Centro de Ensino Médio 10 de Ceilândia" (2023 linha 18) -> CEM 10 DE CEILANDIA
+  "Centro de Ensino Médio 12 de Ceilândia" (2023 linha 19) -> CEM 12 DE CEILANDIA
+  "Centro Educacional 06 de Ceilândia" (2023 linha 20) -> CED 06 DE CEILANDIA
+  "Centro Educacional 11 de Ceilândia" (2023 linha 21) -> CED 11 DE CEILANDIA
+  "Centro Educacional 11 de Ceilândia" (2023 linha 22) -> CED 11 DE CEILANDIA
+  "Centro Educacional 15 de Ceilândia" (2023 linha 23) -> CED 15 DE CEILANDIA
+  "Centro Educacional 15 de Ceilândia" (2023 linha 24) -> CED 15 DE CEILANDIA
+  "Centro Educacional 16 de Ceilândia" (2023 linha 25) -> CED 16 DE CEILANDIA
+  "Centro Educacional 16 de Ceilândia" (2023 linha 26) -> CED 16 DE CEILANDIA
+  "Centro Educacional Incra 09 de Ceilândia" (2023 linha 27) -> CED INCRA 09
+  "Centro de Ensino Fundamental 10 do Gama" (2023 linha 41) -> CEF 10 DO GAMA
+  "Centro de Ensino Fundamental 10 do Gama" (2023 linha 42) -> CEF 10 DO GAMA
+  "Centro de Ensino Fundamental 11 do Gama" (2023 linha 43) -> CEF 11 DO GAMA
+  "Centro de Ensino Fundamental 15 do Gama" (2023 linha 44) -> CEF 15 DO GAMA
+  "Centro de Ensino Fundamental 15 do Gama" (2023 linha 45) -> CEF 15 DO GAMA
+  "Centro de Ensino Médio 01 do Gama" (2023 linha 46) -> CEM 01 DO GAMA
+  "Centro de Ensino Médio 03 do Gama" (2023 linha 47) -> CEM 03 DO GAMA
+  "Centro de Ensino Médio Integrado do Gama" (2023 linha 48) -> CEMI DO GAMA
+  "Centro Educacional 06 do Gama" (2023 linha 49) -> CED 06 DO GAMA
+  "Centro Educacional 06 do Gama" (2023 linha 50) -> CED 06 DO GAMA
+  "Centro Educacional 08 do Gama" (2023 linha 51) -> CED 08 DO GAMA
+  "Centro Educacional Engenho das Lages" (2023 linha 52) -> CED ENGENHO DAS LAJES
+  "Centro de Ensino Fundamental 01" (2023 linha 58) -> CEF 01 DE PLANALTINA
+  "Centro de Ensino Fundamental Nossa Senhora de Fátima" (2023 linha 59) -> CEF NOSSA SENHORA DE FATIMA
+  "Centro de Ensino Fundamental Nossa Senhora de Fátima" (2023 linha 60) -> CEF NOSSA SENHORA DE FATIMA
+  "Centro de Ensino Médio 01" (2023 linha 61) -> CEM 01 DE PLANALTINA
+  "Centro Educacional Dona América Guimarães" (2023 linha 62) -> CED DONA AMERICA GUIMARAES
+  "Centro Educacional Estella dos Cherubins" (2023 linha 63) -> CED STELLA DOS CHERUBINS GUIMARAES TROIS
+  "Centro Educacional Pompílio Marques de Souza" (2023 linha 64) -> CED POMPILIO MARQUES DE SOUZA
+  "Centro Educacional 01 de Brasília" (2023 linha 67) -> CED 01 DE BRASILIA
+  "Centro de Ensino Fundamental do Bosque" (2023 linha 73) -> CEF DO BOSQUE
+  "Centro de Ensino Médio 01 de São Sebastião" (2023 linha 74) -> CEM 01 DE SAO SEBASTIAO
+  "Centro Educacional São Bartolomeu" (2023 linha 75) -> CED SAO BARTOLOMEU
+  "Centro Educacional São Francisco" (2023 linha 76) -> CED SAO FRANCISCO
+  "Centro Educacional São Francisco" (2023 linha 77) -> CED SAO FRANCISCO
+  "Centro Educacional Zumbi dos Palmares" (2023 linha 78) -> CED ZUMBI DOS PALMARES
+  "Centro de Ensino Médio 01 de Sobradinho" (2023 linha 79) -> CEM 01 DE SOBRADINHO
+  "Centro de Ensino Médio 01 de Sobradinho" (2023 linha 80) -> CEM 01 DE SOBRADINHO
+  "Centro de Ensino Médio Integrado de Taguatinga" (2023 linha 86) -> CEMI DE TAGUATINGA
+  "Centro de Ensino Médio Integrado de Taguatinga" (2023 linha 87) -> CEMI DE TAGUATINGA
+  "Centro de Ensino Médio Integrado de Taguatinga" (2023 linha 88) -> CEMI DE TAGUATINGA
+  "Centro de Ensino Especial para Deﬁcientes Visuais" (2026 linha 11) -> CEE PARA DEFICIENTES VISUAIS
+  "Centro Educacional do Lago (CEL)" (2026 linha 121) -> CED DO LAGO CEL
+  "CEMEIT - Centro de Ensino Médio EIT" (2026 linha 142) -> CEM EIT
+  "CEMEIT - Centro de Ensino Médio EIT" (2026 linha 143) -> CEM EIT
+
+------------------------------------------------------------------------------
+6) MAPPING DICT PARA EMENDAS.PY
+------------------------------------------------------------------------------
+PADRONIZAR_ESCOLA = {
+    "CED 310 DE SANTA MARIA/CEMI SANTA MARIA": "CED 310 DE SANTA MARIA",
+    "CEF NOSSA SENHORA FATIMA": "CEF NOSSA SENHORA DE FATIMA",
+    "CEF ZILDA ARNS": "CEF DOUTORA ZILDA ARNS",
+    "CEM TN": "CEM TAGUATINGA NORTE",
+    "CEMEIT - CENTRO DE ENSINO MEDIO EIT": "CEM EIT",
+    "CENTRO DE ENSINO FUNDAMENTAL 01": "CEF 01 DE PLANALTINA",
+    "CENTRO DE ENSINO MEDIO 01": "CEM 01 DE PLANALTINA",
+    "CENTRO EDUCACIONAL ENGENHO DAS LAGES": "CED ENGENHO DAS LAJES",
+    "CENTRO EDUCACIONAL ESTELLA DOS CHERUBINS": "CED STELLA DOS CHERUBINS GUIMARAES TROIS",
+    "CENTRO EDUCACIONAL INCRA 09 DE CEILANDIA": "CED INCRA 09",
+    "COORDENACAO REGIONAL DE CEILANDIA (CED 17 DE CEILANDIA)": "CED 17 DE CEILANDIA",
+    "COORDENACAO REGIONAL DE ENISNO DO GAMA": "CRE GAMA",
+    "COORDENACAO REGIONAL DE ENSINO DE SAO SEBASTIAO (CED SAO BARTOLOMEU)": "CED SAO BARTOLOMEU",
+    "COORDENACAO REGIONAL DE ENSINO DE SAO SEBASTIAO (CED SAO FRANCISCO)": "CED SAO FRANCISCO",
+    "COORDENACAO REGIONAL DE ENSINO DE SAO SEBASTIAO (CEF DO BOSQUE)": "CEF DO BOSQUE",
+    "COORDENACAO REGIONAL DE ENSINO DE SAO SEBASTIAO (CEM 01)": "CEM 01 DE SAO SEBASTIAO",
+    "COORDENACAO REGIONAL DE TAGUATINGA": "CRE TAGUATINGA",
+    "COORDENACAO REGIONAL DE TAGUATINGA (CEM AVE BRANCA - CEMAB)": "CEM AVE BRANCA",
+    "COORDENACAO REGIONAL DE TAGUATINGA (POLO DE ALTAS HABILIDADES/SUPERDOTACAO DE TAGUATINGA)": "POLO DE ALTAS HABILIDADES SUPERDOTACAO DE TAGUATINGA",
+    "CRE CEILANDIA (ESCOLA PARQUE ANISIO TEIXEIRA)": "EP ANISIO TEIXEIRA",
+    "ESC MENINOS E MENINAS DO PARQUE": "ESCOLA MENINOS E MENINAS DO PARQUE",
+    "ESCOLA CLASSE 65": "EC 65 DE CEILANDIA",
+    "ESCOLA CLASSE 66": "EC 66 DE CEILANDIA",
+    "ESCOLA CLASSE 68": "EC 68 DE CEILANDIA",
+}
+
+------------------------------------------------------------------------------
+7) LISTA FINAL - chave canonica | NOME PADRAO (para o seed)
+------------------------------------------------------------------------------
+  CAIC ASSIS CHATEAUBRIAND  |  CAIC ASSIS CHATEAUBRIAND
+  CAIC BERNARDO SAYAO  |  CAIC Bernardo Sayão
+  CAIC CARLOS CASTELLO BRANCO  |  CAIC CARLOS CASTELLO BRANCO
+  CAIC PROF ANISIO TEIXEIRA  |  CAIC PROFESSOR ANÍSIO TEIXEIRA
+  CAIC UNESCO  |  CAIC UNESCO
+  CED 01 DE BRASILIA  |  CED 01 de Brasília
+  CED 01 DO GUARA  |  CED 01 do Guará
+  CED 03 DE PLANALTINA  |  CED 03 de Planaltina
+  CED 03 DO GUARA  |  CED 03 DO GUARA
+  CED 06 DE CEILANDIA  |  CED 06 DE CEILANDIA
+  CED 06 DO GAMA  |  CED 06 do Gama
+  CED 07 DE CEILANDIA  |  CED 07 DE CEILANDIA
+  CED 07 DO GAMA  |  CED 07 DO GAMA
+  CED 08 DO GAMA  |  CED 08 DO GAMA
+  CED 11 DE CEILANDIA  |  CED 11 DE CEILANDIA
+  CED 14 DE CEILANDIA  |  CED 14 DE CEILANDIA
+  CED 15 DE CEILANDIA  |  CED 15 DE CEILANDIA
+  CED 16 DE CEILANDIA  |  CED 16 DE CEILANDIA
+  CED 17 DE CEILANDIA  |  CED 17 DE CEILANDIA
+  CED 203 DO RECANTO DAS EMAS  |  CED 203 DO RECANTO DAS EMAS
+  CED 310 DE SANTA MARIA  |  CED 310 DE SANTA MARIA
+  CED 619 DE SAMAMBAIA  |  CED 619 DE SAMAMBAIA
+  CED AGUAS DO CERRADO CEDAC  |  CED AGUAS DO CERRADO CEDAC
+  CED CASA GRANDE  |  CED Casa Grande
+  CED DARCY RIBEIRO  |  CED Darcy Ribeiro
+  CED DO LAGO CEL  |  CED DO LAGO CEL
+  CED DONA AMERICA GUIMARAES  |  CED DONA AMERICA GUIMARAES
+  CED ENGENHO DAS LAJES  |  CED ENGENHO DAS LAJES
+  CED ESTANCIA III  |  CED ESTANCIA III
+  CED INCRA 09  |  CED INCRA 09
+  CED OSORIO BACCHIN  |  CED OSORIO BACCHIN
+  CED PAD  |  CED PAD
+  CED PIPIRIPAU II  |  CED PIPIRIPAU II
+  CED POMPILIO MARQUES DE SOUZA  |  CED POMPÍLIO MARQUES DE SOUZA
+  CED SAO BARTOLOMEU  |  CED SAO BARTOLOMEU
+  CED SAO FRANCISCO  |  CED SAO FRANCISCO
+  CED SAO JOSE  |  CED SAO JOSE
+  CED STELLA DOS CHERUBINS GUIMARAES TROIS  |  CED Stella dos Cherubins Guimarães Trois
+  CED TAQUARA  |  CED TAQUARA
+  CED VALE DO AMANHECER  |  CED VALE DO AMANHECER
+  CED VARZEAS  |  CED VARZEAS
+  CED ZUMBI DOS PALMARES  |  CED ZUMBI DOS PALMARES
+  CEE 01 DE CEILANDIA  |  CEE 01 DE CEILANDIA
+  CEE 01 DE PLANALTINA  |  CEE 01 DE PLANALTINA
+  CEE 01 DO GAMA  |  CEE 01 DO GAMA
+  CEE 02 DE CEILANDIA  |  CEE 02 DE CEILANDIA
+  CEE PARA DEFICIENTES VISUAIS  |  CEE PARA DEFICIENTES VISUAIS
+  CEF 01 DE CANDAGOLANDIA  |  CEF 01 DE CANDAGOLANDIA
+  CEF 01 DE PLANALTINA  |  CEF 01 DE PLANALTINA
+  CEF 01 DO GAMA  |  CEF 01 do Gama
+  CEF 01 DO JARDINS MANGUEIRAL  |  CEF 01 DO JARDINS MANGUEIRAL
+  CEF 01 DO VARJAO  |  CEF 01 DO VARJAO
+  CEF 02 DE CEILANDIA  |  CEF 02 DE CEILANDIA
+  CEF 02 DE PLANALTINA  |  CEF 02 DE PLANALTINA
+  CEF 02 DO ARAPOANGA  |  CEF 02 do Arapoanga
+  CEF 02 DO PARANOA  |  CEF 02 DO PARANOA
+  CEF 03 DE PLANALTINA  |  CEF 03 de Planaltina
+  CEF 03 DO GAMA  |  CEF 03 DO GAMA
+  CEF 04 DE CEILANDIA  |  CEF 04 DE CEILANDIA
+  CEF 04 DE PLANALTINA  |  CEF 04 DE PLANALTINA
+  CEF 04 DE SOBRADINHO  |  CEF 04 DE SOBRADINHO
+  CEF 04 DO GAMA  |  CEF 04 DO GAMA
+  CEF 05 DO GAMA  |  CEF 05 DO GAMA
+  CEF 07 DE CEILANDIA  |  CEF 07 DE CEILANDIA
+  CEF 08 DE PLANALTINA  |  CEF 08 DE PLANALTINA
+  CEF 08 DE TAGUATINGA  |  CEF 08 DE TAGUATINGA
+  CEF 08 DO GAMA  |  CEF 08 DO GAMA
+  CEF 10 DE CEILANDIA  |  CEF 10 DE CEILANDIA
+  CEF 10 DO GAMA  |  CEF 10 do Gama
+  CEF 103 DE SANTA MARIA  |  CEF 103 DE SANTA MARIA
+  CEF 11 DE CEILANDIA  |  CEF 11 DE CEILANDIA
+  CEF 11 DE TAGUATINGA  |  CEF 11 DE TAGUATINGA
+  CEF 11 DO GAMA  |  CEF 11 DO GAMA
+  CEF 12 DE CEILANDIA  |  CEF 12 DE CEILANDIA
+  CEF 13 DE CEILANDIA  |  CEF 13 de Ceilândia
+  CEF 14 DE CEILANDIA  |  CEF 14 DE CEILANDIA
+  CEF 15 DO GAMA  |  CEF 15 do Gama
+  CEF 16 DE CEILANDIA  |  CEF 16 DE CEILANDIA
+  CEF 18 DE CEILANDIA  |  CEF 18 DE CEILANDIA
+  CEF 19 DE CEILANDIA  |  CEF 19 de Ceilândia
+  CEF 20 DE CEILANDIA  |  CEF 20 DE CEILANDIA
+  CEF 25 DE CEILANDIA  |  CEF 25 DE CEILANDIA
+  CEF 26 DE CEILANDIA  |  CEF 26 DE CEILANDIA
+  CEF 27 DE CEILANDIA  |  CEF 27 de Ceilândia
+  CEF 28 DE CEILANDIA  |  CEF 28 DE CEILANDIA
+  CEF 30 DE CEILANDIA  |  CEF 30 DE CEILANDIA
+  CEF 31 DE CEILANDIA  |  CEF 31 de Ceilândia
+  CEF 312 DE SAMAMBAIA  |  CEF 312 DE SAMAMBAIA
+  CEF 32 DE CEILANDIA  |  CEF 32 DE CEILANDIA
+  CEF 33 DE CEILANDIA  |  CEF 33 de Ceilândia
+  CEF 34 DE CEILANDIA  |  CEF 34 DE CEILANDIA
+  CEF 35 DE CEILANDIA  |  CEF 35 DE CEILANDIA
+  CEF 403 DE SANTA MARIA  |  CEF 403 de Santa Maria
+  CEF 407 DE SAMAMBAIA  |  CEF 407 DE SAMAMBAIA
+  CEF 418 DE SANTA MARIA  |  CEF 418 de Santa Maria
+  CEF ARAPOANGA  |  CEF ARAPOANGA
+  CEF BOA ESPERANCA  |  CEF BOA ESPERANCA
+  CEF BONSUCESSO  |  CEF BONSUCESSO
+  CEF CERAMICA SAO PAULO  |  CEF CERAMICA SAO PAULO
+  CEF CERAMICAS REUNIDAS DOM BOSCO  |  CEF CERAMICAS REUNIDAS DOM BOSCO
+  CEF DO BOSQUE  |  CEF DO BOSQUE
+  CEF DOUTORA ZILDA ARNS  |  CEF Zilda Arns
+  CEF JATAI  |  CEF JATAI
+  CEF JATAI DE SAO SEBASTIAO  |  CEF JATAI DE SAO SEBASTIAO
+  CEF JUSCELINO KUBITSCHEK  |  CEF JUSCELINO KUBITSCHEK
+  CEF MIGUEL ARCANJO  |  CEF MIGUEL ARCANJO
+  CEF NOSSA SENHORA DE FATIMA  |  CEF NOSSA SENHORA DE FÁTIMA
+  CEF NOVA BETANIA  |  CEF NOVA BETANIA
+  CEF PAB  |  CEF PAB
+  CEF POLIVALENTE  |  CEF Polivalente
+  CEF PONTE ALTA DO BAIXO  |  CEF PONTE ALTA DO BAIXO
+  CEF PONTE ALTA NORTE  |  CEF PONTE ALTA NORTE
+  CEF PROF MARIA DO ROSARIO GONDIM DA SILVA  |  CEF Professora Maria do Rosário Gondim da Silva
+  CEF RIO PRETO  |  CEF RIO PRETO
+  CEF SAO JOSE  |  CEF SAO JOSE
+  CEF TAMANDUA  |  CEF TAMANDUÁ
+  CEI 01 DE CEILANDIA  |  CEI 01 DE CEILANDIA
+  CEI 01 DE PLANALTINA  |  CEI 01 DE PLANALTINA
+  CEI 01 DE SAO SEBASTIAO  |  CEI 01 DE SAO SEBASTIAO
+  CEI 01 DO GAMA  |  CEI 01 DO GAMA
+  CEI 02 DE PLANALTINA  |  CEI 02 de Planaltina
+  CEI 03 DE SAO SEBASTIAO  |  CEI 03 DE SAO SEBASTIAO
+  CEI 04 DE SOBRADINHO  |  CEI 04 DE SOBRADINHO
+  CEI 04 DE TAGUATINGA  |  CEI 04 DE TAGUATINGA
+  CEI 05 DE SAO SEBASTIAO  |  CEI 05 DE SAO SEBASTIAO
+  CEI BURITIZINHO  |  CEI BURITIZINHO
+  CEI GAVIAO  |  CEI GAVIAO
+  CEI GIRASSOL  |  CEI GIRASSOL
+  CEI PALMEIRAS  |  CEI PALMEIRAS
+  CEI PARQUE DOS IPES  |  CEI PARQUE DOS IPES
+  CEI PIPIRIPAU  |  CEI PIPIRIPAU
+  CEJAEP DE BRASILIA  |  CEJAEP DE BRASILIA
+  CEM 01 DE PLANALTINA  |  CEM 01 DE PLANALTINA
+  CEM 01 DE SAO SEBASTIAO  |  CEM 01 DE SAO SEBASTIAO
+  CEM 01 DE SOBRADINHO  |  CEM 01 DE SOBRADINHO
+  CEM 01 DO GAMA  |  CEM 01 do Gama
+  CEM 01 PARANOA  |  CEM 01 PARANOA
+  CEM 02 DE BRAZLANDIA  |  CEM 02 DE BRAZLANDIA
+  CEM 02 DE CEILANDIA  |  CEM 02 de Ceilândia
+  CEM 02 DE PLANALTINA  |  CEM 02 DE PLANALTINA
+  CEM 02 DO GAMA  |  CEM 02 do Gama
+  CEM 03 DE CEILANDIA  |  CEM 03 DE CEILANDIA
+  CEM 03 DE TAGUATINGA  |  CEM 03 DE TAGUATINGA
+  CEM 03 DO GAMA  |  CEM 03 DO GAMA
+  CEM 04 DE CEILANDIA  |  CEM 04 de Ceilândia
+  CEM 04 DE SOBRADINHO  |  CEM 04 DE SOBRADINHO
+  CEM 05 DE TAGUATINGA  |  CEM 05 DE TAGUATINGA
+  CEM 09 DE CEILANDIA  |  CEM 09 de Ceilândia
+  CEM 10 DE CEILANDIA  |  CEM 10 DE CEILANDIA
+  CEM 111 DO RECANTO DAS EMAS  |  CEM 111 DO RECANTO DAS EMAS
+  CEM 12 DE CEILANDIA  |  CEM 12 de Ceilândia
+  CEM 404 DE SANTA MARIA  |  CEM 404 DE SANTA MARIA
+  CEM 414 DE SAMAMBAIA  |  CEM 414 de Samambaia
+  CEM 417 DE SANTA MARIA  |  CEM 417 DE SANTA MARIA
+  CEM AVE BRANCA  |  CEM AVE BRANCA
+  CEM EIT  |  CEM EIT
+  CEM INTEGRADO A EDUC PROFISSIONAL DO GAMA  |  CEM INTEGRADO A EDUC PROFISSIONAL DO GAMA
+  CEM TAGUATINGA NORTE  |  CEM Taguatinga Norte
+  CEM URSO BRANCO  |  CEM URSO BRANCO
+  CEMI CRUZEIRO  |  CEMI CRUZEIRO
+  CEMI DE TAGUATINGA  |  CEMI DE TAGUATINGA
+  CEMI DO GAMA  |  CEMI DO GAMA
+  CENTRO DE EDUCACAO DE JOVENS E ADULTOS CESAS  |  CENTRO DE EDUCACAO DE JOVENS E ADULTOS CESAS
+  CENTRO INTERESCOLAR DE ESPORTES CIEF  |  CENTRO INTERESCOLAR DE ESPORTES CIEF
+  CEP ESCOLA TECNICA DE CEILANDIA  |  CEP ESCOLA TECNICA DE CEILANDIA
+  CEP ESCOLA TECNICA DE PLANALTINA  |  CEP ESCOLA TECNICA DE PLANALTINA
+  CIL 01 DE SAO SEBASTIAO  |  CIL 01 DE SAO SEBASTIAO
+  CIL DE CEILANDIA  |  CIL DE CEILANDIA
+  CIL DE PLANALTINA  |  CIL DE PLANALTINA
+  CIL DE TAGUATINGA  |  CIL DE TAGUATINGA
+  CIL DO GAMA  |  CIL DO GAMA
+  CIL RIACHO FUNDO II  |  CIL RIACHO FUNDO II
+  CRE BRAZLANDIA  |  CRE BRAZLANDIA
+  CRE CEILANDIA  |  CRE CEILÂNDIA
+  CRE GAMA  |  CRE GAMA
+  CRE GUARA  |  CRE GUARÁ
+  CRE NUCLEO BANDEIRANTE  |  CRE NUCLEO BANDEIRANTE
+  CRE PARANOA  |  CRE PARANOA
+  CRE PLANALTINA  |  CRE PLANALTINA
+  CRE RECANTO DAS EMAS  |  CRE RECANTO DAS EMAS
+  CRE SAMAMBAIA  |  CRE SAMAMBAIA
+  CRE SANTA MARIA  |  CRE SANTA MARIA
+  CRE SAO SEBASTIAO  |  CRE SAO SEBASTIAO
+  CRE SOBRADINHO  |  CRE SOBRADINHO
+  CRE TAGUATINGA  |  CRE TAGUATINGA
+  EC 01 DE CEILANDIA  |  EC 01 de Ceilândia
+  EC 01 DE PLANALTINA  |  EC 01 DE PLANALTINA
+  EC 01 DO ARAPOANGA  |  EC 01 DO ARAPOANGA
+  EC 01 DO GAMA  |  EC 01 DO GAMA
+  EC 01 DO PORTO RICO  |  EC 01 DO PORTO RICO
+  EC 02 DE CEILANDIA  |  EC 02 DE CEILANDIA
+  EC 02 DO GAMA  |  EC 02 DO GAMA
+  EC 03 DE CEILANDIA  |  EC 03 DE CEILANDIA
+  EC 03 DE PLANALTINA  |  EC 03 DE PLANALTINA
+  EC 03 DO GAMA  |  EC 03 DO GAMA
+  EC 04 DE PLANALTINA  |  EC 04 DE PLANALTINA
+  EC 05 DE PLANALTINA  |  EC 05 de Planaltina
+  EC 06 DE CEILANDIA  |  EC 06 DE CEILANDIA
+  EC 06 DE PLANALTINA  |  EC 06 de Planaltina
+  EC 06 DO GAMA  |  EC 06 DO GAMA
+  EC 07 DE PLANALTINA  |  EC 07 DE PLANALTINA
+  EC 07 DO GAMA  |  EC 07 DO GAMA
+  EC 07 DO GUARA  |  EC 07 do Guará
+  EC 08 DE CEILANDIA  |  EC 08 DE CEILANDIA
+  EC 08 DE TAGUATINGA  |  EC 08 DE TAGUATINGA
+  EC 09 DE BRAZLANDIA  |  EC 09 DE BRAZLANDIA
+  EC 09 DE PLANALTINA  |  EC 09 DE PLANALTINA
+  EC 09 DO GAMA  |  EC 09 DO GAMA
+  EC 10 DE CEILANDIA  |  EC 10 de Ceilândia
+  EC 10 DE PLANALTINA  |  EC 10 DE PLANALTINA
+  EC 10 DE SOBRADINHO  |  EC 10 DE SOBRADINHO
+  EC 10 DO GAMA  |  EC 10 DO GAMA
+  EC 104 DE SAO SEBASTIAO  |  EC 104 DE SAO SEBASTIAO
+  EC 108 DE SAMAMBAIA  |  EC 108 DE SAMAMBAIA
+  EC 11 DE CEILANDIA  |  EC 11 DE CEILANDIA
+  EC 111 SUL  |  EC 111 SUL
+  EC 12 DE CEILANDIA  |  EC 12 DE CEILANDIA
+  EC 12 DO GAMA  |  EC 12 do Gama
+  EC 13 DE CEILANDIA  |  EC 13 de Ceilândia
+  EC 13 DE PLANALTINA  |  EC 13 DE PLANALTINA
+  EC 14 DE PLANALTINA  |  EC 14 de Planaltina
+  EC 14 DO GAMA  |  EC 14 do Gama
+  EC 15 DE CEILANDIA  |  EC 15 de Ceilândia
+  EC 15 DE PLANALTINA  |  EC 15 DE PLANALTINA
+  EC 15 DO GAMA  |  EC 15 DO GAMA
+  EC 16 DE CEILANDIA  |  EC 16 DE CEILANDIA
+  EC 16 DE PLANALTINA  |  EC 16 de Planaltina
+  EC 16 DO GAMA  |  EC 16 DO GAMA
+  EC 17 DE CEILANDIA  |  EC 17 DE CEILANDIA
+  EC 17 DE SOBRADINHO  |  EC 17 de Sobradinho
+  EC 17 DE TAGUATINGA  |  EC 17 DE TAGUATINGA
+  EC 17 DO GAMA  |  EC 17 DO GAMA
+  EC 18 DE CEILANDIA  |  EC 18 DE CEILANDIA
+  EC 18 DO GAMA  |  EC 18 do Gama
+  EC 19 DE CEILANDIA  |  EC 19 DE CEILANDIA
+  EC 19 DE TAGUATINGA  |  EC 19 DE TAGUATINGA
+  EC 19 DO GAMA  |  EC 19 DO GAMA
+  EC 20 DE CEILANDIA  |  EC 20 DE CEILANDIA
+  EC 21 DE CEILANDIA  |  EC 21 de Ceilândia
+  EC 21 DO GAMA  |  EC 21 do Gama
+  EC 215 DE SANTA MARIA  |  EC 215 DE SANTA MARIA
+  EC 218 DE SANTA MARIA  |  EC 218 DE SANTA MARIA
+  EC 22 DE CEILANDIA  |  EC 22 DE CEILANDIA
+  EC 22 DO GAMA  |  EC 22 DO GAMA
+  EC 24 DE CEILANDIA  |  EC 24 DE CEILANDIA
+  EC 25 DE CEILANDIA  |  EC 25 DE CEILANDIA
+  EC 26 DE CEILANDIA  |  EC 26 DE CEILANDIA
+  EC 27 DE CEILANDIA  |  EC 27 DE CEILANDIA
+  EC 28 DE CEILANDIA  |  EC 28 DE CEILANDIA
+  EC 28 DO GAMA  |  EC 28 DO GAMA
+  EC 29 DE CEILANDIA  |  EC 29 de Ceilândia
+  EC 29 DO GAMA  |  EC 29 do Gama
+  EC 303 DE SAMAMBAIA  |  EC 303 DE SAMAMBAIA
+  EC 303 DE SAO SEBASTIAO  |  EC 303 DE SAO SEBASTIAO
+  EC 31 DE CEILANDIA  |  EC 31 DE CEILANDIA
+  EC 33 DE CEILANDIA  |  EC 33 DE CEILANDIA
+  EC 34 DE CEILANDIA  |  EC 34 DE CEILANDIA
+  EC 35 DE CEILANDIA  |  EC 35 de Ceilândia
+  EC 36 DE CEILANDIA  |  EC 36 DE CEILANDIA
+  EC 38 DE CEILANDIA  |  EC 38 DE CEILANDIA
+  EC 39 DE CEILANDIA  |  EC 39 DE CEILANDIA
+  EC 40 DE CEILANDIA  |  EC 40 DE CEILANDIA
+  EC 408 DE SAMAMBAIA  |  EC 408 de Samambaia
+  EC 410 DE SAMAMBAIA  |  EC 410 DE SAMAMBAIA
+  EC 43 DE CEILANDIA  |  EC 43 DE CEILANDIA
+  EC 431 DE SAMAMBAIA  |  EC 431 DE SAMAMBAIA
+  EC 45 DE CEILANDIA  |  EC 45 DE CEILANDIA
+  EC 46 DE CEILANDIA  |  EC 46 DE CEILANDIA
+  EC 47 DE CEILANDIA  |  EC 47 DE CEILANDIA
+  EC 48 DE CEILANDIA  |  EC 48 de Ceilândia
+  EC 50 DE CEILANDIA  |  EC 50 de Ceilândia
+  EC 502 DE SAMAMBAIA  |  EC 502 DE SAMAMBAIA
+  EC 502 DO ITAPOA PARQUE  |  EC 502 DO ITAPOA PARQUE
+  EC 52 DE CEILANDIA  |  EC 52 DE CEILANDIA
+  EC 54 DE TAGUATINGA  |  EC 54 DE TAGUATINGA
+  EC 55 DE CEILANDIA  |  EC 55 DE CEILANDIA
+  EC 56 DE CEILANDIA  |  EC 56 de Ceilândia
+  EC 59 DE CEILANDIA  |  EC 59 de Ceilândia
+  EC 604 DE SAMAMBAIA  |  EC 604 DE SAMAMBAIA
+  EC 61 DE CEILANDIA  |  EC 61 DE CEILANDIA
+  EC 62 DE CEILANDIA  |  EC 62 de Ceilândia
+  EC 64 DE CEILANDIA  |  EC 64 DE CEILANDIA
+  EC 65 DE CEILANDIA  |  EC 65 DE CEILANDIA
+  EC 66 DE CEILANDIA  |  EC 66 DE CEILANDIA
+  EC 68 DE CEILANDIA  |  EC 68 DE CEILANDIA
+  EC AGROVILA SAO SEBASTIAO  |  EC AGROVILA SAO SEBASTIAO
+  EC AGUILHADA  |  EC AGUILHADA
+  EC ALTA MIR  |  EC ALTA MIR
+  EC APRODARMAS  |  EC APRODARMAS
+  EC ASPALHA  |  EC ASPALHA
+  EC BARRA ALTA  |  EC BARRA ALTA
+  EC BELA VISTA  |  EC BELA VISTA
+  EC CACHOEIRINHA  |  EC CACHOEIRINHA
+  EC CERAMICA DA BENCAO  |  EC CERAMICA DA BENCAO
+  EC COMUNIDADE DE APRENDIZAGEM DO PARANOA CAP  |  EC COMUNIDADE DE APRENDIZAGEM DO PARANOA CAP
+  EC COPERBRAS  |  EC COPERBRAS
+  EC CORREGO BARREIRO  |  EC CORREGO BARREIRO
+  EC CORREGO DAS CORUJAS  |  EC CORREGO DAS CORUJAS
+  EC CORREGO DO MEIO  |  EC Córrego do Meio
+  EC DO SETOR P NORTE  |  EC DO SETOR P NORTE
+  EC DOM BOSCO  |  EC DOM BOSCO
+  EC ESTANCIA DE PLANALTINA  |  EC ESTANCIA DE PLANALTINA
+  EC ESTANCIA DO PIPIRIPAU  |  EC ESTANCIA DO PIPIRIPAU
+  EC ETA 44  |  EC ETA 44
+  EC GUARIROBA  |  EC Guariroba
+  EC ITAPETI  |  EC ITAPETI
+  EC JARDIM DOS IPES  |  EC JARDIM DOS IPES
+  EC JIBOIA  |  EC JIBOIA
+  EC JK  |  EC JK
+  EC JUSCELINO KUBITSCHEK SOL NASCENTE  |  EC JUSCELINO KUBITSCHEK SOL NASCENTE
+  EC KANEGAE  |  EC KANEGAE
+  EC LAJES DA JIBOIA  |  EC LAJES DA JIBOIA
+  EC MESTRE DARMAS  |  EC MESTRE DARMAS
+  EC MONJOLO  |  EC MONJOLO
+  EC MORRO DA CRUZ  |  EC MORRO DA CRUZ
+  EC NUCLEO RURAL CORREGO DO ATOLEIRO  |  EC NUCLEO RURAL CORREGO DO ATOLEIRO
+  EC P NORTE  |  EC P NORTE
+  EC PARANA  |  EC PARANÁ
+  EC PEDRA FUNDAMENTAL  |  EC Pedra Fundamental
+  EC PONTE ALTA DE CIMA  |  EC PONTE ALTA DE CIMA
+  EC RAJADINHA  |  EC RAJADINHA
+  EC REINO DAS FLORES  |  EC REINO DAS FLORES
+  EC SANTOS DUMONT  |  EC SANTOS DUMONT
+  EC SAO BARTOLOMEU  |  EC SAO BARTOLOMEU
+  EC VALE DO SOL  |  EC VALE DO SOL
+  EC VALE VERDE  |  EC VALE VERDE
+  EC VILA DO BOA  |  EC VILA DO BOA
+  EC VILA NOVA  |  EC VILA NOVA
+  EP 303 304 NORTE  |  EP 303 304 NORTE
+  EP ANISIO TEIXEIRA  |  EP ANISIO TEIXEIRA
+  ESCOLA BILINGUE DE PLANO PILOTO  |  ESCOLA BILINGUE DE PLANO PILOTO
+  ESCOLA BILINGUE DE TAGUATINGA  |  ESCOLA BILINGUE DE TAGUATINGA
+  ESCOLA DO PARQUE DA CIDADE PROEM  |  Escola do Parque da Cidade - PROEM
+  ESCOLA MENINOS E MENINAS DO PARQUE  |  Escola Meninos e Meninas do Parque
+  JI 02 DO GAMA  |  JI 02 DO GAMA
+  JI 03 DO GAMA  |  JI 03 do Gama
+  JI 04 DO GAMA  |  JI 04 DO GAMA
+  JI 05 DO GAMA  |  JI 05 DO GAMA
+  JI 06 DO GAMA  |  JI 06 DO GAMA
+  JI 114 SUL  |  JI 114 SUL
+  JI CASA DE VIVENCIA  |  JI Casa de Vivência
+  POLO DE ALTAS HABILIDADES SUPERDOTACAO DE TAGUATINGA  |  POLO DE ALTAS HABILIDADES SUPERDOTACAO DE TAGUATINGA

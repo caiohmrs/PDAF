@@ -99,50 +99,58 @@ def gerar_pdf(dataframe, total_val, escolas_count):
     return bytes(pdf.output())
 
 # --- CARREGAMENTO DE DADOS ---
-@st.cache_data
-# --- CARREGAMENTO DE DADOS (CORRIGIDO) ---
+# Lê o seed padronizado gerado por _gera_relatorio.py a partir do PDAF23-26.xlsx.
+# O seed tem TODAS as colunas das 4 abas + a coluna Escola_Padrao (nome padronizado).
 @st.cache_data
 def load_all_data(file_mtimes: tuple):
-    csv_files = [('PDAF2023.csv', 2023), ('PDAF2024.csv', 2024), ('PDAF2025.csv', 2025)]
-    frames = []
-    for path, ano in csv_files:
-        if not os.path.exists(path): continue
-        try:
-            df_temp = pd.read_csv(path, sep=';', encoding='utf-8')
-            if df_temp.shape[1] <= 2: df_temp = pd.read_csv(path, sep=',', encoding='utf-8')
-        except:
-            df_temp = pd.read_csv(path, sep=None, engine='python', encoding='utf-8')
-        
-        df_temp['Ano'] = ano
-        val_col = next((c for c in ['Valor da Emenda', 'Valor', 'Total', 'Montante'] if c in df_temp.columns), None)
-        if not val_col:
-            for c in df_temp.columns:
-                if 'VAL' in c.upper() or 'TOTAL' in c.upper(): val_col = c; break
-        
-        df_temp['Valor da Emenda'] = df_temp[val_col] if val_col else 0
-        df_temp['Unidade Escolar'] = df_temp.get('Unidade Escolar', df_temp.get('Escola', 'N/A'))
-        df_temp['CRE'] = df_temp.get('CRE', df_temp.get('Regional', 'N/A'))
-        df_temp['Data pagamento'] = df_temp.get('Data pagamento', df_temp.get('Data', ''))
-        
-        frames.append(df_temp[['Ano', 'CRE', 'Unidade Escolar', 'Valor da Emenda', 'Data pagamento']])
-    
-    if not frames: return pd.DataFrame()
-    
-    df_result = pd.concat(frames, ignore_index=True)
+    path = 'seed_padronizado.csv'
+    if not os.path.exists(path):
+        return pd.DataFrame()
+    try:
+        df_temp = pd.read_csv(path, sep=';', encoding='utf-8-sig')
+        if df_temp.shape[1] <= 2:
+            df_temp = pd.read_csv(path, sep=',', encoding='utf-8-sig')
+    except Exception:
+        df_temp = pd.read_csv(path, sep=None, engine='python', encoding='utf-8-sig')
+
+    # Ano: o Excel grava 2023.0 -> inteiro
+    df_temp['Ano'] = pd.to_numeric(df_temp['Ano'], errors='coerce').astype('Int64').fillna(0).astype(int)
+
+    # Unidade Escolar = nome padronizado escolhido no seed (fallback: nome original)
+    df_temp['Unidade Escolar'] = df_temp['Escola_Padrao'].fillna(df_temp['Escola'])
+
+    # Regional: usa a coluna CRE; onde vazia (2023/2025), usa a RA da linha
+    ra = df_temp['RA'].fillna('').astype(str).str.strip()
+    cre = df_temp['CRE'].fillna('').astype(str).str.strip()
+    cre = cre.where(cre != '', ra).replace('', 'N/A')
+    df_temp['CRE'] = cre.apply(normalizar_texto).str.replace(r'^CRE\s+', '', regex=True)
+
+    # Valor da emenda: empenhado -> pago -> indicado (2026 só tem indicado)
+    df_temp['Valor da Emenda'] = (
+        df_temp['Valor empenhado'].fillna(df_temp['Valor pago'].fillna(df_temp['Valor Indicado']))
+    )
+
+    # Data de pagamento: 2025 tem "Data de Pagamento", 2024 tem "Pago em:"
+    df_temp['Data pagamento'] = df_temp['Data de Pagamento'].fillna(df_temp['Pago em:'])
+
+    df_result = df_temp[['Ano', 'CRE', 'Unidade Escolar', 'Valor da Emenda', 'Data pagamento']].copy()
     df_result['Valor_Num'] = df_result['Valor da Emenda'].apply(to_float_safe)
     df_result['Unidade_Busca'] = df_result['Unidade Escolar'].apply(normalizar_texto)
     df_result['CRE_Normalizada'] = df_result['CRE'].apply(normalizar_texto)
-    
+
     # Tratamento de Datas para os Gráficos (Movido para dentro da função)
     df_result['Data_DT'] = pd.to_datetime(df_result['Data pagamento'], dayfirst=True, errors='coerce')
     df_result['Mes_Ano'] = df_result['Data_DT'].dt.to_period('M').astype(str)
-    
+
     return df_result
 
-# Monitora os arquivos para atualizar o cache se algum mudar
-paths = ['PDAF2023.csv', 'PDAF2024.csv', 'PDAF2025.csv']
+# Monitora o seed para atualizar o cache se ele mudar
+paths = ['seed_padronizado.csv']
 key = tuple(os.path.getmtime(p) if os.path.exists(p) else 0 for p in paths)
 df = load_all_data(key)
+if df.empty:
+    st.error("seed_padronizado.csv não encontrado. Rode _gera_relatorio.py para gerar o seed a partir do PDAF23-26.xlsx.")
+    st.stop()
 # --- CSS PERSONALIZADO ---
 st.markdown(
     """
@@ -342,7 +350,4 @@ with tab2:
     else:
         st.info("Utilize os filtros acima para gerar os gráficos comparativos.")
 
-
 st.markdown("<br><br><center><small style='color: gray;'>Gabinete Aba Reta | Desenvolvido por Caio Henrique Machado</small></center>", unsafe_allow_html=True)
-
-
