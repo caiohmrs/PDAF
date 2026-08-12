@@ -1,0 +1,600 @@
+{
+ "CED 03 DO GUARA": {
+  "lat": -15.8386214,
+  "lon": -47.9753998,
+  "endereco": "Centro Educacional 03 do Guará, QE 17 Conjunto J, QE 17, Guará II, Guará, Distrito Federal, Região Centro-Oeste, 71050-612, Brasil",
+  "query": "Centro Educacional 03 DO GUARA, Brasilia, DF",
+  "aprox": false
+ },
+ "CED 07 DE CEILANDIA": {
+  "lat": -15.8130697,
+  "lon": -48.1180039,
+  "endereco": "Centro Educacional 07 de Ceilândia, QNN 13, Ceilândia Norte, Ceilândia, Distrito Federal, Região Centro-Oeste, 72225-226, Brasil",
+  "query": "Centro Educacional 07 DE CEILANDIA, Brasilia, DF",
+  "aprox": false
+ },
+ "CED 17 DE CEILANDIA": {
+  "lat": -15.7986711,
+  "lon": -48.1379658,
+  "endereco": "Centro de Educacional 15 de Ceilândia, QNO 17, Expansão do Setor O, Ceilândia, Distrito Federal, Região Centro-Oeste, 72260-624, Brasil",
+  "query": "Centro Educacional 17 DE CEILANDIA, Brasilia, DF",
+  "aprox": false
+ },
+ "__regioes__": {
+  "RECANTO DAS EMAS": [
+   -15.9025481,
+   -48.0607778,
+   "Recanto das Emas, Distrito Federal, Região Centro-Oeste, Brasil"
+  ],
+  "PARANOA": [
+   -15.77544,
+   -47.7797631,
+   "Paranoá, Distrito Federal, Região Centro-Oeste, Brasil"
+  ],
+  "TAGUATINGA": [
+   -15.8335277,
+   -48.0565716,
+   "Taguatinga, Distrito Federal, Região Centro-Oeste, Brasil"
+  ],
+  "GAMA": [
+   -16.0170857,
+   -48.0653054,
+   "Gama, Distrito Federal, Região Centro-Oeste, Brasil"
+  ],
+  "CRUZEIRO": [
+   -15.7907819,
+   -47.9374426,
+   "Cruzeiro, Distrito Federal, Região Centro-Oeste, Brasil"
+  ],
+  "PLANALTINA": [
+   -15.6181947,
+   -47.6555703,
+   "Planaltina, Distrito Federal, Região Centro-Oeste, Brasil"
+  ],
+  "RIACHO FUNDO": [
+   -15.883305,
+   -48.0174762,
+   "Riacho Fundo, Distrito Federal, Região Centro-Oeste, Brasil"
+  ],
+  "BRAZLANDIA": [
+   -15.6808898,
+   -48.1942621,
+   "Brazlândia, Distrito Federal, Região Centro-Oeste, Brasil"
+  ],
+  "NUCLEO BANDEIRANTE": [
+   -15.8711851,
+   -47.9679941,
+   "Núcleo Bandeirante, Distrito Federal, Região Centro-Oeste, Brasil"
+  ],
+  "PLANO PILOTO": [
+   -15.7183687,
+   -47.9950273,
+   "Plano Piloto, Distrito Federal, Região Centro-Oeste, Brasil"
+  ]
+ },
+ "CED 203 DO RECANTO DAS EMAS": {
+  "lat": -15.9025481,
+  "lon": -48.0607778,
+  "endereco": "centroide de RECANTO DAS EMAS",
+  "query": "regiao",
+  "aprox": true
+ },
+ "CED ESTANCIA III": {
+  "lat": -15.617662,
+  "lon": -47.686763,
+  "endereco": "Centro Educacional Cond Estância III, Módulo 1/2, Setor Habitacional Mestre D Armas, Planaltina, Distrito Federal, Região Centro-Oeste, 73401-806, Brasil",
+  "query": "Centro Educacional ESTANCIA III, Brasilia, DF",
+  "aprox": false
+ },
+ "CED PAD": {
+  "lat": -16.0096393,
+  "lon": -47.5572361,
+  "endereco": "Centro Educacional do PAD-DF, BR-251, PAD-DF, Paranoá, Distrito Federal, Região Centro-Oeste, 71586-000, Brasil",
+  "query": "Centro Educacional PAD, Brasilia, DF",
+  "aprox": false
+ },
+ "CEE 01 DE CEILANDIA": {
+  "lat": -15.8396204,
+  "lon": -48.1136117,
+  "endereco": "Centro de Ensino Especial 01 da Ceilândia, QNP 14 Conjunto K, P Sul, Ceilândia, Distrito Federal, Região Centro-Oeste, 72231-518, Brasil",
+  "query": "Centro de Ensino Especial 01 DE CEILANDIA, Distrito Federal",
+  "aprox": false
+ },
+ "CEE 01 DO GAMA": {
+  "lat": -16.0144352,
+  "lon": -48.0635841,
+  "endereco": "Centro de Ensino Especial 01 do Gama, Setor Central EQ 56, Setor Central, Gama, Distrito Federal, Região Centro-Oeste, 72405-000, Brasil",
+  "query": "Centro de Ensino Especial 01 DO GAMA, Brasilia, DF",
+  "aprox": false
+ },
+ "CEF 02 DO PARANOA": {
+  "lat": -15.7828105,
+  "lon": -47.7789815,
+  "endereco": "Centro de Ensino Fundamental 02 do Paranoá, Quadra 2 Conjunto B, Paranoá Parque, Paranoá, Distrito Federal, Região Centro-Oeste, 71570-820, Brasil",
+  "query": "CEF 02 DO PARANOA, Brasilia, DF",
+  "aprox": false
+ },
+ "CEF 04 DE PLANALTINA": {
+  "lat": -15.6226894,
+  "lon": -47.6517684,
+  "endereco": "Centro de Ensino Fundamental 04 de Planaltina, Via NS-2, Setor de Áreas Especiais Norte, Planaltina, Distrito Federal, Região Centro-Oeste, 73350-207, Brasil",
+  "query": "Centro de Ensino Fundamental 04 DE PLANALTINA, Brasilia, DF",
+  "aprox": false
+ },
+ "CEF 04 DO GAMA": {
+  "lat": -16.0269703,
+  "lon": -48.0561943,
+  "endereco": "Centro de Ensino Fundamental 04 do Gama;Escola Centro de Ensino Fundamental 04 do Gama, Quadra 32, Setor Leste, Gama, Distrito Federal, Região Centro-Oeste, 72410-130, Brasil",
+  "query": "Centro de Ensino Fundamental 04 DO GAMA, Brasilia, DF",
+  "aprox": false
+ },
+ "CEF 08 DE PLANALTINA": {
+  "lat": -15.6213166,
+  "lon": -47.6453679,
+  "endereco": "Centro de Ensino Fundamental 08 de Planaltina, Quadra 3 Conjunto J, Setor Residencial Leste - Buritis I, Planaltina, Distrito Federal, Região Centro-Oeste, 73350-350, Brasil",
+  "query": "Centro de Ensino Fundamental 08 DE PLANALTINA, Brasilia, DF",
+  "aprox": false
+ },
+ "CEF 08 DE TAGUATINGA": {
+  "lat": -15.8174015,
+  "lon": -48.058417,
+  "endereco": "Centro de Ensino Fundamental 08 de Taguatinga, Taguatinga Norte, Taguatinga, Distrito Federal, Região Centro-Oeste, 72120-490, Brasil",
+  "query": "Centro de Ensino Fundamental 08 DE TAGUATINGA, Brasilia, DF",
+  "aprox": false
+ },
+ "CEF 11 DE TAGUATINGA": {
+  "lat": -15.8089013,
+  "lon": -48.0631833,
+  "endereco": "Centro de Ensino Fundamental 11 de Taguatinga, CND 5, Setor D Norte, Taguatinga Norte, Taguatinga, Distrito Federal, Região Centro-Oeste, 72120-065, Brasil",
+  "query": "Centro de Ensino Fundamental 11 DE TAGUATINGA, Brasilia, DF",
+  "aprox": false
+ },
+ "CEF 312 DE SAMAMBAIA": {
+  "lat": -15.8765794,
+  "lon": -48.0687505,
+  "endereco": "Centro de Ensino Fundamental 312 de Samambaia, Sul QS 312 Conjunto 8, Samambaia Sul, Samambaia, Distrito Federal, Região Centro-Oeste, 72312-700, Brasil",
+  "query": "Centro de Ensino Fundamental 312 DE SAMAMBAIA, Brasilia, DF",
+  "aprox": false
+ },
+ "CEF 32 DE CEILANDIA": {
+  "lat": -15.8576561,
+  "lon": -48.1236603,
+  "endereco": "Centro de Ensino Fundamental 32 de Ceilândia, Avenida Ronaldo Pereira, Pôr do Sol, Sol Nascente/Pôr do Sol, Distrito Federal, Região Centro-Oeste, 72238-352, Brasil",
+  "query": "Centro de Ensino Fundamental 32 DE CEILANDIA, Brasilia, DF",
+  "aprox": false
+ },
+ "CEF 407 DE SAMAMBAIA": {
+  "lat": -15.8750183,
+  "lon": -48.1037526,
+  "endereco": "Centro de Ensino Fundamental 407 de Samambaia, Avenida Segunda Norte, Samambaia Norte, Samambaia, Distrito Federal, Região Centro-Oeste, 72301-401, Brasil",
+  "query": "Centro de Ensino Fundamental 407 DE SAMAMBAIA, Brasilia, DF",
+  "aprox": false
+ },
+ "CEF JATAI DE SAO SEBASTIAO": {
+  "lat": -16.0196983,
+  "lon": -47.8005781,
+  "endereco": "Centro de Ensino Fundamental Jataí, DF-140;DF-436, Barreiro I, São Sebastião, Distrito Federal, Região Centro-Oeste, 71686-650, Brasil",
+  "query": "Centro de Ensino Fundamental JATAI DE SAO SEBASTIAO, Brasilia, DF",
+  "aprox": false
+ },
+ "CEM 01 DE PLANALTINA": {
+  "lat": -15.6205384,
+  "lon": -47.6517685,
+  "endereco": "Centro de Ensino Médio 01 de Planaltina (Centrão), Via NS-2, Setor de Áreas Especiais Norte, Planaltina, Distrito Federal, Região Centro-Oeste, 73350-207, Brasil",
+  "query": "Centro de Ensino Medio 01 DE PLANALTINA, Brasilia, DF",
+  "aprox": false
+ },
+ "CEM 01 DE SAO SEBASTIAO": {
+  "lat": -15.9015741,
+  "lon": -47.7793935,
+  "endereco": "Centro de Ensino Médio 01 de São Sebastião, Avenida São Sebastião, Residencial Oeste, São Sebastião, Distrito Federal, Região Centro-Oeste, 71692-101, Brasil",
+  "query": "Centro de Ensino Medio 01 DE SAO SEBASTIAO, Brasilia, DF",
+  "aprox": false
+ },
+ "CEM 01 PARANOA": {
+  "lat": -15.77544,
+  "lon": -47.7797631,
+  "endereco": "centroide de PARANOA",
+  "query": "regiao",
+  "aprox": true
+ },
+ "CEM 02 DE BRAZLANDIA": {
+  "lat": -15.6664449,
+  "lon": -48.196931,
+  "endereco": "Centro de Ensino Médio 02, DF-430, Bairro Veredas, Brazlândia, Distrito Federal, Região Centro-Oeste, 72736-012, Brasil",
+  "query": "Centro de Ensino Medio 02 DE BRAZLANDIA, Brasilia, DF",
+  "aprox": false
+ },
+ "CEM 03 DE TAGUATINGA": {
+  "lat": -15.8594019,
+  "lon": -48.0391834,
+  "endereco": "Centro de Ensino Médio 03 de Taguatinga, 14, SUL OSE/OSF, Setor E Sul, Taguatintga Sul, Taguatinga, Distrito Federal, Região Centro-Oeste, 72025-050, Brasil",
+  "query": "Centro de Ensino Medio 03 DE TAGUATINGA, Brasilia, DF",
+  "aprox": false
+ },
+ "CEM 04 DE CEILANDIA": {
+  "lat": -15.8311845,
+  "lon": -48.1079134,
+  "endereco": "Centro de Ensino Médio 04 de Ceilândia, Via N2, Setor N Norte, Guariroba, Ceilândia, Distrito Federal, Região Centro-Oeste, 72220-301, Brasil",
+  "query": "Centro de Ensino Medio 04 de Ceilândia, Brasilia, DF",
+  "aprox": false
+ },
+ "CEM 05 DE TAGUATINGA": {
+  "lat": -15.8335277,
+  "lon": -48.0565716,
+  "endereco": "centroide de TAGUATINGA",
+  "query": "regiao",
+  "aprox": true
+ },
+ "CEM 111 DO RECANTO DAS EMAS": {
+  "lat": -15.9128053,
+  "lon": -48.0984539,
+  "endereco": "Centro de Ensino Médio 111 do Recanto das Emas, Avenida Recanto das Emas, Centro Urbano, Recanto das Emas, Distrito Federal, Região Centro-Oeste, 72621-100, Brasil",
+  "query": "Centro de Ensino Medio 111 DO RECANTO DAS EMAS, Brasilia, DF",
+  "aprox": false
+ },
+ "CEM EIT": {
+  "lat": -15.8326163,
+  "lon": -48.0587669,
+  "endereco": "Centro de Ensino Médio EIT, C9, Setor Central, Taguatinga Centro, Taguatinga, Distrito Federal, Região Centro-Oeste, 72010-900, Brasil",
+  "query": "Centro de Ensino Medio EIT, Brasilia, DF",
+  "aprox": false
+ },
+ "CEM INTEGRADO A EDUC PROFISSIONAL DO GAMA": {
+  "lat": -16.0170857,
+  "lon": -48.0653054,
+  "endereco": "centroide de GAMA",
+  "query": "regiao",
+  "aprox": true
+ },
+ "CEMI CRUZEIRO": {
+  "lat": -15.7907819,
+  "lon": -47.9374426,
+  "endereco": "centroide de CRUZEIRO",
+  "query": "regiao",
+  "aprox": true
+ },
+ "CEP ESCOLA TECNICA DE CEILANDIA": {
+  "lat": -15.8291812,
+  "lon": -48.1092234,
+  "endereco": "CEP - Escola Técnica de Ceilândia, Via N1, Setor N Norte, Guariroba, Ceilândia, Distrito Federal, Região Centro-Oeste, 72220-514, Brasil",
+  "query": "CEP ESCOLA TECNICA DE CEILANDIA, Brasilia, DF",
+  "aprox": false
+ },
+ "CEP ESCOLA TECNICA DE PLANALTINA": {
+  "lat": -15.6181947,
+  "lon": -47.6555703,
+  "endereco": "centroide de PLANALTINA",
+  "query": "regiao",
+  "aprox": true
+ },
+ "CIL DE CEILANDIA": {
+  "lat": -15.8239074,
+  "lon": -48.100079,
+  "endereco": "Centro Interescolar de Línguas de Ceilândia, Via M1, Setor N Norte, Ceilândia Centro, Ceilândia, Distrito Federal, Região Centro-Oeste, 72215-035, Brasil",
+  "query": "Centro Interescolar de Linguas DE CEILANDIA, Brasilia, DF",
+  "aprox": false
+ },
+ "CIL DE PLANALTINA": {
+  "lat": -15.6212827,
+  "lon": -47.645856,
+  "endereco": "Centro Interescolar de Línguas 01 de Planaltina, Quadra 3 Conjunto J, Setor Residencial Leste - Buritis I, Planaltina, Distrito Federal, Região Centro-Oeste, 73350-350, Brasil",
+  "query": "Centro Interescolar de Linguas DE PLANALTINA, Brasilia, DF",
+  "aprox": false
+ },
+ "CIL DE TAGUATINGA": {
+  "lat": -15.8363988,
+  "lon": -48.0583766,
+  "endereco": "Centro Interescolar de Línguas de Taguatinga - CILT, SUL QSB 3, Setor B Sul, Taguatinga Centro, Taguatinga, Distrito Federal, Região Centro-Oeste, 72015-520, Brasil",
+  "query": "Centro Interescolar de Linguas DE TAGUATINGA, Brasilia, DF",
+  "aprox": false
+ },
+ "CIL RIACHO FUNDO II": {
+  "lat": -15.883305,
+  "lon": -48.0174762,
+  "endereco": "centroide de RIACHO FUNDO",
+  "query": "regiao",
+  "aprox": true
+ },
+ "CRE BRAZLANDIA": {
+  "lat": -15.6808898,
+  "lon": -48.1942621,
+  "endereco": "centroide de BRAZLANDIA",
+  "query": "regiao",
+  "aprox": true
+ },
+ "CRE NUCLEO BANDEIRANTE": {
+  "lat": -15.8711851,
+  "lon": -47.9679941,
+  "endereco": "centroide de NUCLEO BANDEIRANTE",
+  "query": "regiao",
+  "aprox": true
+ },
+ "CRE PARANOA": {
+  "lat": -15.77544,
+  "lon": -47.7797631,
+  "endereco": "centroide de PARANOA",
+  "query": "regiao",
+  "aprox": true
+ },
+ "EC 01 DO PORTO RICO": {
+  "lat": -16.0347877,
+  "lon": -48.0175252,
+  "endereco": "Escola Classe 01 do Porto Rico, Avenida Santa Maria, Residencial Ribeirão, Santa Maria, Distrito Federal, Região Centro-Oeste, 72510-000, Brasil",
+  "query": "Escola Classe 01 DO PORTO RICO, Brasilia, DF",
+  "aprox": false
+ },
+ "EC 03 DE CEILANDIA": {
+  "lat": -15.7926273,
+  "lon": -48.1471984,
+  "endereco": "Setor de Materiais de Construção, Ceilândia, Distrito Federal, Região Centro-Oeste, 72270-300, Brasil",
+  "query": "EC 03 DE CEILANDIA, Brasilia, DF",
+  "aprox": false
+ },
+ "EC 03 DO GAMA": {
+  "lat": -15.9943504,
+  "lon": -47.9927711,
+  "endereco": "Residencial Santos Dummont, Santa Maria, Distrito Federal, Região Centro-Oeste, 72593-000, Brasil",
+  "query": "EC 03 DO GAMA, Brasilia, DF",
+  "aprox": false
+ },
+ "EC 09 DE BRAZLANDIA": {
+  "lat": -15.6816423,
+  "lon": -48.2033239,
+  "endereco": "Praça da Administração Regional de Brazlândia, Setor Tradicional, Brazlândia, Distrito Federal, Região Centro-Oeste, Brasil",
+  "query": "EC 09 DE BRAZLANDIA, Brasilia, DF",
+  "aprox": false
+ },
+ "EC 11 DE CEILANDIA": {
+  "lat": -15.8011153,
+  "lon": -48.1490609,
+  "endereco": "Setor de Indústria, Ceilândia, Distrito Federal, Região Centro-Oeste, 72270-300, Brasil",
+  "query": "EC 11 DE CEILANDIA, Brasilia, DF",
+  "aprox": false
+ },
+ "EC 19 DE TAGUATINGA": {
+  "lat": -15.8067642,
+  "lon": -48.0726575,
+  "endereco": "Altos de Taguatinga I, Setor QI, Taguatinga Norte, Taguatinga, Distrito Federal, Região Centro-Oeste, Brasil",
+  "query": "EC 19 DE TAGUATINGA, Brasilia, DF",
+  "aprox": false
+ },
+ "EC 215 DE SANTA MARIA": {
+  "lat": -16.0065001,
+  "lon": -47.9990855,
+  "endereco": "Escola Classe 215 de Santa Maria, Avenida Alagado, Residencial Santos Dummont, Santa Maria, Distrito Federal, Região Centro-Oeste, 72593-000, Brasil",
+  "query": "Escola Classe 215 DE SANTA MARIA, Brasilia, DF",
+  "aprox": false
+ },
+ "EC 218 DE SANTA MARIA": {
+  "lat": -16.007187,
+  "lon": -47.9877517,
+  "endereco": "Escola Classe 218 de Santa Maria, Qr 218 Conj K O, Residencial Santos Dummont, Santa Maria, Distrito Federal, Região Centro-Oeste, 72593-000, Brasil",
+  "query": "Escola Classe 218 DE SANTA MARIA, Brasilia, DF",
+  "aprox": false
+ },
+ "EC 431 DE SAMAMBAIA": {
+  "lat": -15.8958306,
+  "lon": -48.1440212,
+  "endereco": "Escola Classe 431 de Samambaia, 1ᵃ Avenida Norte, Samambaia, Distrito Federal, Região Centro-Oeste, 72329-027, Brasil",
+  "query": "Escola Classe 431 DE SAMAMBAIA, Brasilia, DF",
+  "aprox": false
+ },
+ "EC 502 DE SAMAMBAIA": {
+  "lat": -15.8851694,
+  "lon": -48.0841058,
+  "endereco": "Escola classe 502, Avenida Segunda Sul, Setor de Mansões Sudeste, Samambaia, Distrito Federal, Região Centro-Oeste, 72312-401, Brasil",
+  "query": "Escola Classe 502 DE SAMAMBAIA, Brasilia, DF",
+  "aprox": false
+ },
+ "EC 502 DO ITAPOA PARQUE": {
+  "lat": -15.7330888,
+  "lon": -47.7803697,
+  "endereco": "Escola Classe 502 do Itapoã Parque, Quadra 502, Itapoã Parque, Itapoã, Distrito Federal, Região Centro-Oeste, 71591-155, Brasil",
+  "query": "Escola Classe 502 DO ITAPOA PARQUE, Brasilia, DF",
+  "aprox": false
+ },
+ "EC 54 DE TAGUATINGA": {
+  "lat": -15.8726225,
+  "lon": -48.0296994,
+  "endereco": "Estrada Parque Contorno, Setor G Sul, Taguatinga, Distrito Federal, Região Centro-Oeste, 71977-180, Brasil",
+  "query": "EC 54 DE TAGUATINGA, Brasilia, DF",
+  "aprox": false
+ },
+ "EC 604 DE SAMAMBAIA": {
+  "lat": -15.8609497,
+  "lon": -48.0874519,
+  "endereco": "Escola Classe 604 de Samambaia, Avenida Segunda Norte, Samambaia Norte, Samambaia, Distrito Federal, Região Centro-Oeste, 72322-302, Brasil",
+  "query": "Escola Classe 604 DE SAMAMBAIA, Brasilia, DF",
+  "aprox": false
+ },
+ "EC COMUNIDADE DE APRENDIZAGEM DO PARANOA CAP": {
+  "lat": -15.77544,
+  "lon": -47.7797631,
+  "endereco": "centroide de PARANOA",
+  "query": "regiao",
+  "aprox": true
+ },
+ "EC COPERBRAS": {
+  "lat": -15.7580899,
+  "lon": -47.5474614,
+  "endereco": "Escola Classe Rural Coperbrás, DF-355, Coperbrás, Planaltina, Distrito Federal, Região Centro-Oeste, 73390-100, Brasil",
+  "query": "Escola Classe COPERBRAS, Brasilia, DF",
+  "aprox": false
+ },
+ "EC CORREGO DAS CORUJAS": {
+  "lat": -15.8369921,
+  "lon": -48.1839794,
+  "endereco": "Escola Classe Córrego das Corujas, Avenida Córrego das Corujas, Sol Nascente/Pôr do Sol, Distrito Federal, Região Centro-Oeste, 72325-520, Brasil",
+  "query": "Escola Classe CORREGO DAS CORUJAS, Brasilia, DF",
+  "aprox": false
+ },
+ "EC DO SETOR P NORTE": {
+  "lat": -15.8087481,
+  "lon": -48.1348935,
+  "endereco": "Escola Classe 38 de Ceilândia, QNP 19 - Conjunto F, P Norte, Ceilândia, Distrito Federal, Região Centro-Oeste, 72260-624, Brasil",
+  "query": "Escola Classe DO SETOR P NORTE, Brasilia, DF",
+  "aprox": false
+ },
+ "EC ETA 44": {
+  "lat": -15.5929686,
+  "lon": -47.7297168,
+  "endereco": "Escola Classe ETA 44, DF-335, Vila Taquaril, Planaltina, Distrito Federal, Região Centro-Oeste, 73380-990, Brasil",
+  "query": "Escola Classe ETA 44, Distrito Federal",
+  "aprox": false
+ },
+ "EC ITAPETI": {
+  "lat": -15.9288249,
+  "lon": -47.3807176,
+  "endereco": "Escola Classe Itapeti, DF-100, Buriti Vermelho, Paranoá, Distrito Federal, Região Centro-Oeste, Brasil",
+  "query": "Escola Classe ITAPETI, Distrito Federal",
+  "aprox": false
+ },
+ "EC JK": {
+  "lat": -15.8939981,
+  "lon": -48.046118,
+  "endereco": "Área Especial 1 EC, Quadras Norte, Riacho Fundo II, Distrito Federal, Região Centro-Oeste, 71880-631, Brasil",
+  "query": "EC JK, Brasilia, DF",
+  "aprox": false
+ },
+ "EC KANEGAE": {
+  "lat": -15.8871793,
+  "lon": -47.9995465,
+  "endereco": "Escola Classe Kanegae, Pista de Caminhada, Setor Placa da Mercedes, Colônia Agrícola Sucupira, Riacho Fundo, Distrito Federal, Região Centro-Oeste, 71732-050, Brasil",
+  "query": "Escola Classe KANEGAE, Brasilia, DF",
+  "aprox": false
+ },
+ "EC VILA NOVA": {
+  "lat": -15.9139009,
+  "lon": -47.7596145,
+  "endereco": "Escola Classe Vila Nova, Rua 29, Bairro Sao Jose, Quadra 01, Bairro Sao Francisco, São Sebastião, Distrito Federal, Região Centro-Oeste, 71693-305, Brasil",
+  "query": "Escola Classe VILA NOVA, Brasilia, DF",
+  "aprox": false
+ },
+ "EP 303 304 NORTE": {
+  "lat": -15.7775206,
+  "lon": -47.886295,
+  "endereco": "Escola Parque 303-304 Norte, W2 Norte, SQN 303, Asa Norte, Brasília, Plano Piloto, Distrito Federal, Região Centro-Oeste, 70735-000, Brasil",
+  "query": "Escola Parque 303 304 NORTE, Brasilia, DF",
+  "aprox": false
+ },
+ "ESCOLA BILINGUE DE PLANO PILOTO": {
+  "lat": -15.7183687,
+  "lon": -47.9950273,
+  "endereco": "centroide de PLANO PILOTO",
+  "query": "regiao",
+  "aprox": true
+ },
+ "ESCOLA BILINGUE DE TAGUATINGA": {
+  "lat": -15.8019495,
+  "lon": -48.0766446,
+  "endereco": "Escola Bilíngue Libras e Português Escrito de Taguatinga, QNG 46, Setor QI, Taguatinga Norte, Taguatinga, Distrito Federal, Região Centro-Oeste, 72130-300, Brasil",
+  "query": "ESCOLA BILINGUE DE TAGUATINGA, Brasilia, DF",
+  "aprox": false
+ },
+ "JI 05 DO GAMA": {
+  "lat": -15.9803472,
+  "lon": -47.989686,
+  "endereco": "DF-001;BR-040, Residencial Santos Dummont, Santa Maria, Distrito Federal, Região Centro-Oeste, 72593-000, Brasil",
+  "query": "JI 05 DO GAMA, Brasilia, DF",
+  "aprox": false
+ },
+ "JI 114 SUL": {
+  "lat": -15.8279913,
+  "lon": -47.9272873,
+  "endereco": "Pão de Açúcar, W3 Sul, SQS 316, Brasília, Plano Piloto, Distrito Federal, Região Centro-Oeste, 70387-000, Brasil",
+  "query": "JI 114 SUL, Brasilia, DF",
+  "aprox": false
+ },
+ "JI CASA DE VIVENCIA": {
+  "lat": -15.6125404,
+  "lon": -47.6506319,
+  "endereco": "Jardim de Infância Casa de Vivência, Via NS-2, Setor de Áreas Especiais Norte, Planaltina, Distrito Federal, Região Centro-Oeste, 73350-207, Brasil",
+  "query": "Jardim de Infancia Casa de Vivência, Brasilia, DF",
+  "aprox": false
+ },
+ "POLO DE ALTAS HABILIDADES SUPERDOTACAO DE TAGUATINGA": {
+  "lat": -15.8335277,
+  "lon": -48.0565716,
+  "endereco": "centroide de TAGUATINGA",
+  "query": "regiao",
+  "aprox": true
+ },
+ "CED DO LAGO CEL": {
+  "lat": -15.7183687,
+  "lon": -47.9950273,
+  "endereco": "Plano Piloto, Distrito Federal, Região Centro-Oeste, Brasil",
+  "query": "Plano Piloto, Distrito Federal, Brasil",
+  "aprox": true
+ },
+ "CEE PARA DEFICIENTES VISUAIS": {
+  "lat": -15.7183687,
+  "lon": -47.9950273,
+  "endereco": "Plano Piloto, Distrito Federal, Região Centro-Oeste, Brasil",
+  "query": "Plano Piloto, Distrito Federal, Brasil",
+  "aprox": true
+ },
+ "CEF 01 DE CANDAGOLANDIA": {
+  "lat": -15.8536609,
+  "lon": -47.9493775,
+  "endereco": "Candangolândia, Distrito Federal, Região Centro-Oeste, Brasil",
+  "query": "Candangolândia, Distrito Federal, Brasil",
+  "aprox": true
+ },
+ "CEF 01 DO JARDINS MANGUEIRAL": {
+  "lat": -15.9033774,
+  "lon": -47.7717736,
+  "endereco": "São Sebastião, Distrito Federal, Região Centro-Oeste, Brasil",
+  "query": "São Sebastião, Distrito Federal, Brasil",
+  "aprox": true
+ },
+ "CEF 01 DO VARJAO": {
+  "lat": -15.710824,
+  "lon": -47.8763338,
+  "endereco": "Varjão, Distrito Federal, Região Centro-Oeste, Brasil",
+  "query": "Varjão, Distrito Federal, Brasil",
+  "aprox": true
+ },
+ "CEF DOUTORA ZILDA ARNS": {
+  "lat": -15.7484526,
+  "lon": -47.7696938,
+  "endereco": "Itapoã, Distrito Federal, Região Centro-Oeste, Brasil",
+  "query": "Itapoã, Distrito Federal, Brasil",
+  "aprox": true
+ },
+ "CEF PAB": {
+  "lat": -16.0170857,
+  "lon": -48.0653054,
+  "endereco": "Gama, Distrito Federal, Região Centro-Oeste, Brasil",
+  "query": "Gama, Distrito Federal, Brasil",
+  "aprox": true
+ },
+ "CEI GAVIAO": {
+  "lat": -15.7342351,
+  "lon": -47.8641578,
+  "endereco": "Lago Norte, Distrito Federal, Região Centro-Oeste, Brasil",
+  "query": "Lago Norte, Distrito Federal, Brasil",
+  "aprox": true
+ },
+ "CEI PIPIRIPAU": {
+  "lat": -15.6181947,
+  "lon": -47.6555703,
+  "endereco": "Planaltina, Distrito Federal, Região Centro-Oeste, Brasil",
+  "query": "Planaltina, Distrito Federal, Brasil",
+  "aprox": true
+ },
+ "CENTRO DE EDUCACAO DE JOVENS E ADULTOS CESAS": {
+  "lat": -15.7183687,
+  "lon": -47.9950273,
+  "endereco": "Plano Piloto, Distrito Federal, Região Centro-Oeste, Brasil",
+  "query": "Plano Piloto, Distrito Federal, Brasil",
+  "aprox": true
+ },
+ "CENTRO INTERESCOLAR DE ESPORTES CIEF": {
+  "lat": -15.7183687,
+  "lon": -47.9950273,
+  "endereco": "Plano Piloto, Distrito Federal, Região Centro-Oeste, Brasil",
+  "query": "Plano Piloto, Distrito Federal, Brasil",
+  "aprox": true
+ }
+}
