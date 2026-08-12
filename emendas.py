@@ -1,5 +1,6 @@
 import os
 import re
+import html
 import streamlit as st
 import pandas as pd
 from unidecode import unidecode
@@ -137,7 +138,7 @@ def load_all_data(file_mtimes: tuple):
     # Data de pagamento: 2025 tem "Data de Pagamento", 2024 tem "Pago em:"
     df_temp['Data pagamento'] = df_temp['Data de Pagamento'].fillna(df_temp['Pago em:'])
 
-    df_result = df_temp[['Ano', 'CRE', 'Unidade Escolar', 'Valor Indicado', 'Data pagamento']].copy()
+    df_result = df_temp[['Ano', 'CRE', 'Unidade Escolar', 'Valor Indicado', 'Data pagamento', 'GND']].copy()
     df_result['Valor_Num'] = df_result['Valor Indicado'].apply(to_float_safe)
     df_result['Unidade_Busca'] = df_result['Unidade Escolar'].apply(normalizar_texto)
     df_result['CRE_Normalizada'] = df_result['CRE'].apply(normalizar_texto)
@@ -246,9 +247,32 @@ m1.metric("TOTAL INVESTIDO", f"R$ {total_val:,.2f}".replace(',', 'X').replace('.
 m2.metric("ESCOLAS BENEFICIADAS", f"{escolas_contagem}")
 m3.metric("TOTAL DE REPASSES", f"{len(df_f)}")
 
+# --- COORDENADAS DO MAPA (fonte: emendas_mapa.kml gerado por _gera_kml.py) ---
+@st.cache_data
+def coords_do_kml(mtime):
+    """Lê o KML e devolve {nome padrao: (lat, lon)}."""
+    import xml.etree.ElementTree as ET
+    try:
+        tree = ET.parse('emendas_mapa.kml')
+    except (FileNotFoundError, ET.ParseError):
+        return {}
+    ns = '{http://www.opengis.net/kml/2.2}'
+    coords = {}
+    for pm in tree.getroot().iter(ns + 'Placemark'):
+        n = pm.find(ns + 'name')
+        c = pm.find(ns + 'Point/' + ns + 'coordinates')
+        if n is None or c is None or not (c.text or '').strip():
+            continue
+        try:
+            lon, lat = c.text.strip().split(',')[:2]
+            coords[(n.text or '').strip()] = (float(lat), float(lon))
+        except ValueError:
+            continue
+    return coords
+
 # --- TABELA E GRÁFICOS ---
 st.write("")
-tab1, tab2 = st.tabs(["📋 Lista de Repasses", "📊 Análise Gráfica"])
+tab1, tab2, tab3 = st.tabs(["📋 Lista de Repasses", "📊 Análise Gráfica", "🗺️ Mapa"])
 
 with tab1:
     if compact:
@@ -354,5 +378,49 @@ with tab2:
 
     else:
         st.info("Utilize os filtros acima para gerar os gráficos comparativos.")
+
+with tab3:
+    st.subheader("🗺️ Mapa das Escolas")
+    try:
+        import folium
+        from folium.plugins import MarkerCluster
+    except ImportError:
+        st.info("Para usar o mapa, instale o folium: `pip install folium`")
+    else:
+        kml_path = 'emendas_mapa.kml'
+        mtime = os.path.getmtime(kml_path) if os.path.exists(kml_path) else 0
+        coords = coords_do_kml(mtime)
+        if not coords:
+            st.warning("emendas_mapa.kml não encontrado. Rode _gera_kml.py para gerar o mapa.")
+        elif df_f.empty:
+            st.info("Nenhum repasse com os filtros atuais.")
+        else:
+            # agrega os repasses filtrados por escola/ano/GND
+            agrupado = df_f.groupby(['Unidade Escolar', 'Ano', 'GND'])['Valor_Num'].sum().reset_index()
+            por_escola = {}
+            for _, rw in agrupado.iterrows():
+                por_escola.setdefault(rw['Unidade Escolar'], {}).setdefault(int(rw['Ano']), []).append(
+                    (str(rw['GND']), float(rw['Valor_Num'])))
+
+            m = folium.Map(location=[-15.79, -47.88], zoom_start=11)
+            mc = MarkerCluster().add_to(m)
+            n_map = 0
+            for nome, anos in sorted(por_escola.items()):
+                if nome not in coords:
+                    continue
+                lat, lon = coords[nome]
+                linhas = [f"<b>{html.escape(nome)}</b>"]
+                for ano in sorted(anos):
+                    tot = sum(v for _, v in anos[ano])
+                    det = ' + '.join(f"{gnd}: {formatar_reais(v)}" for gnd, v in sorted(anos[ano]))
+                    linhas.append(f"{ano}: {formatar_reais(tot)}<br/>&nbsp;&nbsp;({det})")
+                popup = folium.Popup('<br/>'.join(linhas), max_width=340)
+                folium.Marker([lat, lon], popup=popup).add_to(mc)
+                n_map += 1
+            st.caption(f"{n_map} escolas com os filtros atuais — clique nos marcadores para ver os valores por ano.")
+            try:
+                st.components.v1.html(m._repr_html_(), height=620)
+            except Exception as e:
+                st.error(f"Erro ao renderizar o mapa: {e}")
 
 st.markdown("<br><br><center><small style='color: gray;'>Gabinete Aba Reta | Desenvolvido por Caio Henrique Machado</small></center>", unsafe_allow_html=True)
