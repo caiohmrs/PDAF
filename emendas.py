@@ -36,6 +36,10 @@ def to_float_safe(v) -> float:
     try: return float(re.sub(r'[^0-9\-\.]', '', s))
     except: return 0.0
 
+def formatar_reais(v) -> str:
+    """Formata um valor como moeda brasileira: R$ 50.000,00"""
+    return f"R$ {to_float_safe(v):,.2f}".replace(',', 'X').replace('.', ',').replace('X', '.')
+
 # --- CLASSE PARA GERAR O PDF ---
 class PDFReport(FPDF):
     def header(self):
@@ -125,16 +129,16 @@ def load_all_data(file_mtimes: tuple):
     cre = cre.where(cre != '', ra).replace('', 'N/A')
     df_temp['CRE'] = cre.apply(normalizar_texto).str.replace(r'^CRE\s+', '', regex=True)
 
-    # Valor da emenda: empenhado -> pago -> indicado (2026 só tem indicado)
-    df_temp['Valor da Emenda'] = (
+    # Valor Indicado: empenhado -> pago -> indicado (2026 só tem indicado)
+    df_temp['Valor Indicado'] = (
         df_temp['Valor empenhado'].fillna(df_temp['Valor pago'].fillna(df_temp['Valor Indicado']))
     )
 
     # Data de pagamento: 2025 tem "Data de Pagamento", 2024 tem "Pago em:"
     df_temp['Data pagamento'] = df_temp['Data de Pagamento'].fillna(df_temp['Pago em:'])
 
-    df_result = df_temp[['Ano', 'CRE', 'Unidade Escolar', 'Valor da Emenda', 'Data pagamento']].copy()
-    df_result['Valor_Num'] = df_result['Valor da Emenda'].apply(to_float_safe)
+    df_result = df_temp[['Ano', 'CRE', 'Unidade Escolar', 'Valor Indicado', 'Data pagamento']].copy()
+    df_result['Valor_Num'] = df_result['Valor Indicado'].apply(to_float_safe)
     df_result['Unidade_Busca'] = df_result['Unidade Escolar'].apply(normalizar_texto)
     df_result['CRE_Normalizada'] = df_result['CRE'].apply(normalizar_texto)
 
@@ -248,11 +252,12 @@ tab1, tab2 = st.tabs(["📋 Lista de Repasses", "📊 Análise Gráfica"])
 
 with tab1:
     if compact:
-        cols_view = ['Ano', 'Unidade Escolar', 'Valor da Emenda']
+        cols_view = ['Ano', 'Unidade Escolar', 'Valor Indicado']
     else:
-        cols_view = ['Ano', 'CRE', 'Unidade Escolar', 'Valor da Emenda', 'Data pagamento']
+        cols_view = ['Ano', 'CRE', 'Unidade Escolar', 'Valor Indicado', 'Data pagamento']
     
     df_display = df_f[cols_view].copy()
+    df_display['Valor Indicado'] = df_display['Valor Indicado'].apply(formatar_reais)
     
     st.dataframe(
         df_display.sort_values(['Unidade Escolar'], ascending=[True]),
